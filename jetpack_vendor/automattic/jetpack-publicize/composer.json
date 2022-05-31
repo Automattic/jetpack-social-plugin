@@ -1,0 +1,55 @@
+{
+	"name": "automattic/jetpack-publicize",
+	"description": "Publicize makes it easy to share your site’s posts on several social media networks automatically when you publish a new post.",
+	"type": "jetpack-library",
+	"license": "GPL-2.0-or-later",
+	"require": {
+		"automattic/jetpack-connection": "^1.40",
+		"automattic/jetpack-autoloader": "^2.11",
+		"automattic/jetpack-config": "^1.9"
+	},
+	"require-dev": {
+		"yoast/phpunit-polyfills": "1.0.3",
+		"automattic/jetpack-changelogger": "^3.1",
+		"automattic/wordbless": "0.3.1"
+	},
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	},
+	"scripts": {
+		"phpunit": [
+			"./vendor/phpunit/phpunit/phpunit --colors=always"
+		],
+		"test-coverage": [
+			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
+		],
+		"test-php": [
+			"@composer phpunit"
+		],
+		"post-update-cmd": "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\"",
+		"build-production": "echo 'Add your build step to composer.json, please!'",
+		"build-development": "echo 'Add your build step to composer.json, please!'"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"extra": {
+		"autotagger": true,
+		"mirror-repo": "Automattic/jetpack-publicize",
+		"textdomain": "jetpack-publicize-pkg",
+		"changelogger": {
+			"link-template": "https://github.com/Automattic/jetpack-publicize/compare/v${old}...v${new}"
+		},
+		"branch-alias": {
+			"dev-master": "0.5.x-dev"
+		}
+	},
+	"config": {
+		"allow-plugins": {
+			"roots/wordpress-core-installer": true,
+			"automattic/jetpack-autoloader": true,
+			"automattic/jetpack-composer-plugin": true
+		}
+	}
+}
