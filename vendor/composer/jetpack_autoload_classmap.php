@@ -27,15 +27,15 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadFileWriter.php'
 	),
 	'Automattic\\Jetpack\\Social\\Meta_Tags' => array(
-		'version' => 'dev-master',
+		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-meta-tags.php'
 	),
 	'Jetpack_Social' => array(
-		'version' => 'dev-master',
+		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-social.php'
 	),
 	'Automattic\\Jetpack\\Social\\REST_Controller' => array(
-		'version' => 'dev-master',
+		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Sync\\JSON_Deflate_Array_Codec' => array(
