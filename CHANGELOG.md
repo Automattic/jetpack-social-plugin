@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Updated publicize package version.
+
 ### Changed
 - Start the 1.2.0 release cycle
 
