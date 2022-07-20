@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated publicize package version.
 
 ### Changed
+- Rework the admin page to use new components
 - Start the 1.2.0 release cycle
 
 ## 1.1.0-beta - 2022-06-29
