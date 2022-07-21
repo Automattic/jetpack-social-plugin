@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Rework the admin page to use new components
 - Start the 1.2.0 release cycle
+- Updated the tagline on the admin page.
 
 ## 1.1.0-beta - 2022-06-29
 ### Changed
