@@ -24,10 +24,6 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
       'ver' => '1.17.20',
     ),
-    'jetpack-my-jetpack' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '1.8.2',
-    ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
       'ver' => '1.9.3',
@@ -47,6 +43,10 @@ return array(
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '1.37.0',
+    ),
+    'jetpack-my-jetpack' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
+      'ver' => '1.8.2',
     ),
   ),
 );
