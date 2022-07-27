@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Start a new release cycle.
+- Updated Readme.txt for the jetpack-social-1.2.0-beta
 
 ## 1.2.0-beta - 2022-07-27
 ### Added
