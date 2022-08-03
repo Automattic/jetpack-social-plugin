@@ -20,10 +20,6 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
       'ver' => '1.7.5',
     ),
-    'jetpack-assets' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '1.17.20',
-    ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
       'ver' => '1.9.3',
@@ -39,6 +35,10 @@ return array(
     'jetpack-idc' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
       'ver' => '0.8.18',
+    ),
+    'jetpack-assets' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-assets',
+      'ver' => '1.17.20',
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
