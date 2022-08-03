@@ -10,10 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Post release tasks.
 - Start a new release cycle.
 - Updated Readme.txt for the jetpack-social-1.2.0-beta
 
-## 1.2.0-beta - 2022-07-27
+## 1.2.0 - 2022-08-03
 ### Added
 - Added shares meter to Jetpack Social admin page.
 - Updated package dependencies.
