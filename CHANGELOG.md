@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added scheduled post calculation on plugin activation
 - Post release tasks.
 - Start a new release cycle.
 - Updated Readme.txt for the jetpack-social-1.2.0-beta
