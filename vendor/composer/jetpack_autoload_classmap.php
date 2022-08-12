@@ -278,6 +278,14 @@ return array(
 		'version' => '0.11.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/class-publicize-ui.php'
 	),
+	'Automattic\\Jetpack\\Plans' => array(
+		'version' => '0.2.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-plans/src/class-plans.php'
+	),
+	'Automattic\\Jetpack\\Current_Plan' => array(
+		'version' => '0.2.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-plans/src/class-current-plan.php'
+	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products' => array(
 		'version' => '2.0.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php'
