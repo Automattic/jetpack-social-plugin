@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added scheduled post calculation on plugin activation
 - Post release tasks.
 - Start a new release cycle.
+- Support section for paid users
 - Tweaked the supports method of the plans package to refresh the plan data.
 - Updated Readme.txt for the jetpack-social-1.2.0-beta
 
