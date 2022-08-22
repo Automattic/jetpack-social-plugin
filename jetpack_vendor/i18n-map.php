@@ -24,6 +24,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
       'ver' => '1.17.9999999-dev',
     ),
+    'jetpack-jitm' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-jitm',
+      'ver' => '2.2.9999999-dev',
+    ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
       'ver' => '2.0.9999999-dev',
