@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Tweaked the supports method of the plans package to refresh the plan data.
 - Updated Readme.txt for the jetpack-social-1.2.0-beta
 
+### Fixed
+- Avoid PHP warnings when OG description is not set.
+
 ## 1.2.0 - 2022-08-03
 ### Added
 - Added shares meter to Jetpack Social admin page.
