@@ -30,6 +30,10 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-social.php'
 	),
+	'Automattic\\Jetpack\\Social\\Share_Limits' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-share-limits.php'
+	),
 	'Automattic\\Jetpack\\Social\\Meta_Tags' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-meta-tags.php'
