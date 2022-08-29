@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added scheduled post calculation on plugin activation
+- Add JITMs to Jetpack Social
 - My Jetpack includes JITMs
 - Post release tasks.
 - Start a new release cycle.
