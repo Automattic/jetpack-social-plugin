@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Set version to 1.4.0-alpha
 - Updated package dependencies.
+- Use Jetpack logo in Jetpack Social pre-publish screen for Publicize and Social Preview features
 
 ## 1.3.0-beta - 2022-08-31
 ### Added
