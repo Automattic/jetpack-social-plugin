@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Set version to 1.4.0-alpha
 - Updated package dependencies.
 - Updated style for Jetpack Logo icon shown in pre-publish panels for Jetpack and Jetpack Social plugins
+- Update Inspector Panel Jetpack icon color to #1E1E1E
 - Use Jetpack logo in Jetpack Social pre-publish screen for Publicize and Social Preview features
 
 ## 1.3.0 - 2022-09-07
