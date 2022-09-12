@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adds ability to autotag, autorelease and autopublish releases
+- Enforce sharing limits in the Classic Editor
 
 ### Changed
 - Set version to 1.4.0-alpha
