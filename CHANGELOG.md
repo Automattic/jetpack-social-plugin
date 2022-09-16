@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added Jetpack social redirect urls.
 - Adds ability to autotag, autorelease and autopublish releases
 - Enforce sharing limits in the Classic Editor
 
