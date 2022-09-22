@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Set version to 1.4.0-alpha
+- Social: Aligned Jetpack and Social to use the connection-test-results endpoint in the block editor
 - Updated package dependencies.
 - Updated style for Jetpack Logo icon shown in pre-publish panels for Jetpack and Jetpack Social plugins
 - Update Inspector Panel Jetpack icon color to #1E1E1E
