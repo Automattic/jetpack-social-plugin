@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add ContextualUpgradeTrigger to Jetpack Social admin page
 - Added check to not show the share metre if someone has a paid plan.
 - Added Jetpack social redirect urls.
+- Add pricing table to Jetpack Social
 - Adds ability to autotag, autorelease and autopublish releases
 - Enforce sharing limits in the Classic Editor
 

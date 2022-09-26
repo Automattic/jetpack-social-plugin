@@ -95,7 +95,7 @@ return array(
     'Automattic\\Jetpack\\Redirect' => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
     'Automattic\\Jetpack\\Social\\Meta_Tags' => $baseDir . '/src/class-meta-tags.php',
-    'Automattic\\Jetpack\\Social\\REST_Controller' => $baseDir . '/src/class-rest-controller.php',
+    'Automattic\\Jetpack\\Social\\REST_Settings_Controller' => $baseDir . '/src/class-rest-settings-controller.php',
     'Automattic\\Jetpack\\Social\\Share_Limits' => $baseDir . '/src/class-share-limits.php',
     'Automattic\\Jetpack\\Status' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php',
     'Automattic\\Jetpack\\Status\\Cache' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cache.php',

@@ -30,10 +30,6 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-social.php'
 	),
-	'Automattic\\Jetpack\\Social\\REST_Controller' => array(
-		'version' => 'dev-trunk',
-		'path'    => $baseDir . '/src/class-rest-controller.php'
-	),
 	'Automattic\\Jetpack\\Social\\Share_Limits' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-share-limits.php'
@@ -41,6 +37,10 @@ return array(
 	'Automattic\\Jetpack\\Social\\Meta_Tags' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-meta-tags.php'
+	),
+	'Automattic\\Jetpack\\Social\\REST_Settings_Controller' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-rest-settings-controller.php'
 	),
 	'Automattic\\Jetpack\\Sync\\JSON_Deflate_Array_Codec' => array(
 		'version' => '1.38.9999999.9999999-dev',
