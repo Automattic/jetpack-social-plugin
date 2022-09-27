@@ -30,10 +30,6 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-social.php'
 	),
-	'Automattic\\Jetpack\\Social\\Share_Limits' => array(
-		'version' => 'dev-trunk',
-		'path'    => $baseDir . '/src/class-share-limits.php'
-	),
 	'Automattic\\Jetpack\\Social\\Meta_Tags' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-meta-tags.php'
@@ -270,6 +266,10 @@ return array(
 		'version' => '0.16.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/class-publicize-setup.php'
 	),
+	'Automattic\\Jetpack\\Publicize\\Share_Limits' => array(
+		'version' => '0.16.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/class-share-limits.php'
+	),
 	'Automattic\\Jetpack\\Publicize\\Publicize_UI' => array(
 		'version' => '0.16.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/class-publicize-ui.php'
@@ -427,7 +427,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-ui.php'
 	),
 	'Automattic\\Jetpack\\Config' => array(
-		'version' => '1.9.9999999.9999999-dev',
+		'version' => '1.10.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php'
 	),
 	'Automattic\\Jetpack\\Partner' => array(

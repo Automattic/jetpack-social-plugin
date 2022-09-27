@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Enforce sharing limits in the Classic Editor
 
 ### Changed
+- Move share limits code to the Publicize package
 - Set version to 1.4.0-alpha
 - Social: Aligned Jetpack and Social to use the connection-test-results endpoint in the block editor
 - Updated package dependencies.
