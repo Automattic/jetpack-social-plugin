@@ -1110,7 +1110,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-publicize",
-                "reference": "c97b925ebe3a550c3ab66d3f6c302e5ee15e3da0"
+                "reference": "083cc721619d6fb399365bb537055990991ada62"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -1121,7 +1121,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2",
-                "automattic/wordbless": "^0.4.0",
+                "automattic/wordbless": "0.4.0",
                 "yoast/phpunit-polyfills": "1.0.3"
             },
             "type": "jetpack-library",

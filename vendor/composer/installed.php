@@ -178,7 +178,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-publicize',
             'aliases' => array(),
-            'reference' => 'c97b925ebe3a550c3ab66d3f6c302e5ee15e3da0',
+            'reference' => '083cc721619d6fb399365bb537055990991ada62',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-redirect' => array(
