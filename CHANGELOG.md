@@ -27,6 +27,9 @@ This is an alpha version! The changes listed here are not final.
 - Update Inspector Panel Jetpack icon color to #1E1E1E
 - Use Jetpack logo in Jetpack Social pre-publish screen for Publicize and Social Preview features
 
+### Fixed
+- Social: Require a user connection to use the plugin.
+
 ## 1.3.0 - 2022-09-07
 ### Added
 - Added scheduled post calculation on plugin activation. [#25334]
