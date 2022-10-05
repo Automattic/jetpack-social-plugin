@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Social: Require a user connection to use the plugin.
+- Store: Added the missing showNudge reducer
 
 ## 1.3.0 - 2022-09-07
 ### Added
