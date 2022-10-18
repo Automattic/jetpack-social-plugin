@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fix the connection test endpoint URL
+
 ## 1.4.0 - 2022-10-06
 ### Added
 - Add ContextualUpgradeTrigger to Jetpack Social admin page [#26115]
