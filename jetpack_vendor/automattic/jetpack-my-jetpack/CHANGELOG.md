@@ -5,28 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.3.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- Added support for free product and added free product for Search
-
-### Changed
-- Updated package dependencies.
-
-## [2.2.3] - 2022-10-17
-### Changed
-- Updated package dependencies. [#26851]
-
-## [2.2.2] - 2022-10-13
-### Changed
-- Updated package dependencies. [#26790]
-
-## [2.2.1] - 2022-10-11
-### Changed
-- Updated package dependencies. [#25973]
-
 ## [2.2.0] - 2022-10-05
 ### Added
 - Integrate the new connection error message React component into My Jetpack. [#26485]
@@ -636,10 +614,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Created package
 
-[2.3.0-alpha]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.2.3...2.3.0-alpha
-[2.2.3]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.2.2...2.2.3
-[2.2.2]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.2.1...2.2.2
-[2.2.1]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.2.0...2.2.1
 [2.2.0]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.1.1...2.2.0
 [2.1.1]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.1.0...2.1.1
 [2.1.0]: https://github.com/Automattic/jetpack-my-jetpack/compare/2.0.5...2.1.0
