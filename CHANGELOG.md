@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Social: Fix the connection test endpoint URL
+- Social: Fix the path to the connections URL in the editor
 
 ## 1.4.0 - 2022-10-06
 ### Added
