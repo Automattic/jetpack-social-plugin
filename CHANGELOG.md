@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Integrate the ConnectionError react component to the Social plugin.
+- Reshare: Added the reshare UI to the block editor extension
 
 ### Changed
 - Updated package dependencies.
