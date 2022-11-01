@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Compatibility: WordPress 6.1 compatibility
 - Social: Updated the plugin versions to start the new cycle
+- Updated package dependencies.
 
 ## 1.5.0-beta - 2022-10-27
 ### Added
