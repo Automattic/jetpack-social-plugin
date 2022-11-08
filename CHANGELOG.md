@@ -5,14 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.5.1-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.5.0 - 2022-11-08
 ### Changed
-- Compatibility: WordPress 6.1 compatibility
-- Social: Updated the plugin versions to start the new cycle
-- Updated package dependencies.
+- Compatibility: WordPress 6.1 compatibility [#27084]
+
+### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Social: Updated the plugin versions to start the new cycle [#27114]
+- Updated package dependencies. [#27182, #27196, #27278, #27289]
 
 ## 1.5.0-beta - 2022-10-27
 ### Added
