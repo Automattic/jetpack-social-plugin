@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- E2E tests: fix plugin slug
 - Fixed alignment issues on social admin page
 
 ## 1.5.0 - 2022-11-08
