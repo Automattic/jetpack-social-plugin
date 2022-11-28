@@ -5,19 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.5.1-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- E2E tests: added basic e2e test
-
+## 1.5.1-beta - 2022-11-28
 ### Changed
-- Updated package dependencies.
+- Updated package dependencies. [#26069]
 
 ### Fixed
-- E2E tests: fix plugin slug
-- Fixed alignment issues on social admin page
+- Fix alignment issues on social admin page [#27146]
 
 ## 1.5.0 - 2022-11-08
 ### Changed
