@@ -13,10 +13,11 @@ This is an alpha version! The changes listed here are not final.
 - Add simple JS React test
 
 ### Changed
+- Backport changelog and readme from release
 - Init 1.5.2-alpha
 - Updated package dependencies.
 
-## 1.5.1-beta - 2022-11-28
+## 1.5.1 - 2022-12-06
 ### Changed
 - Updated package dependencies. [#26069]
 
