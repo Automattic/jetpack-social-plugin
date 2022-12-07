@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-connection": "^1.47.1",
 		"automattic/jetpack-autoloader": "^2.11.13",
-		"automattic/jetpack-config": "^1.11.1",
+		"automattic/jetpack-config": "^1.12.0-alpha",
 		"automattic/jetpack-assets": "^1.17.28",
 		"automattic/jetpack-redirect": "^1.7.21"
 	},
