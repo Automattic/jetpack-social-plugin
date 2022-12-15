@@ -5,13 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.5.2-alpha - unreleased
+## 1.6.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added the adminUrl to the initial editor state
 - Add simple JS React test
+- Redirect to admin page on plugin activation, and add link to admin page from plugins page.
 
 ### Changed
 - Backport changelog and readme from release
