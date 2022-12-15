@@ -10,13 +10,13 @@
 		"automattic/jetpack-device-detection": "^1.4.22",
 		"automattic/jetpack-logo": "^1.5.20",
 		"automattic/jetpack-partner": "^1.7.21",
-		"automattic/jetpack-redirect": "^1.7.21",
-		"automattic/jetpack-status": "^1.15.2"
+		"automattic/jetpack-redirect": "^1.7.22-alpha",
+		"automattic/jetpack-status": "^1.15.3-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.2.2"
+		"automattic/jetpack-changelogger": "^3.2.3-alpha"
 	},
 	"autoload": {
 		"classmap": [
