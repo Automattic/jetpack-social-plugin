@@ -7,15 +7,15 @@
 		"automattic/jetpack-a8c-mc-stats": "^1.4.17",
 		"automattic/jetpack-admin-ui": "^0.2.14",
 		"automattic/jetpack-constants": "^1.6.20",
-		"automattic/jetpack-roles": "^1.4.20-alpha",
-		"automattic/jetpack-status": "^1.15.3-alpha",
-		"automattic/jetpack-redirect": "^1.7.22-alpha"
+		"automattic/jetpack-roles": "^1.4.20",
+		"automattic/jetpack-status": "^1.15.3",
+		"automattic/jetpack-redirect": "^1.7.22"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
 		"yoast/phpunit-polyfills": "1.0.4",
 		"brain/monkey": "2.6.1",
-		"automattic/jetpack-changelogger": "^3.2.3-alpha"
+		"automattic/jetpack-changelogger": "^3.2.3"
 	},
 	"autoload": {
 		"classmap": [

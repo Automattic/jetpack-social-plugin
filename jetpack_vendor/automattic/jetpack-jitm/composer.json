@@ -6,17 +6,17 @@
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.17",
 		"automattic/jetpack-assets": "^1.17.28",
-		"automattic/jetpack-connection": "^1.48.0-alpha",
+		"automattic/jetpack-connection": "^1.48.0",
 		"automattic/jetpack-device-detection": "^1.4.22",
 		"automattic/jetpack-logo": "^1.5.20",
 		"automattic/jetpack-partner": "^1.7.21",
-		"automattic/jetpack-redirect": "^1.7.22-alpha",
-		"automattic/jetpack-status": "^1.15.3-alpha"
+		"automattic/jetpack-redirect": "^1.7.22",
+		"automattic/jetpack-status": "^1.15.3"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.2.3-alpha"
+		"automattic/jetpack-changelogger": "^3.2.3"
 	},
 	"autoload": {
 		"classmap": [
