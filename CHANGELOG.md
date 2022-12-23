@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
-- Add a review request prompt for Jetpack Social plugin
 - Added the adminUrl to the initial editor state
 - Add simple JS React test
 - Redirect to admin page on plugin activation, and add link to admin page from plugins page.
