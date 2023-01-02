@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated readme
+
 ## 1.6.0-beta - 2023-01-02
 ### Added
 - Add a review request prompt for Jetpack Social plugin. [#28072]
