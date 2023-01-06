@@ -689,17 +689,17 @@
         },
         {
             "name": "automattic/jetpack-my-jetpack",
-            "version": "v2.7.2",
-            "version_normalized": "2.7.2.0",
+            "version": "v2.7.2.1",
+            "version_normalized": "2.7.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Automattic/jetpack-my-jetpack.git",
-                "reference": "7f91d2f1fbdc1ade3876ff7fcc76e014e06936e1"
+                "reference": "3609e7955af75905c72c6f24698394fdf9a051f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Automattic/jetpack-my-jetpack/zipball/7f91d2f1fbdc1ade3876ff7fcc76e014e06936e1",
-                "reference": "7f91d2f1fbdc1ade3876ff7fcc76e014e06936e1",
+                "url": "https://api.github.com/repos/Automattic/jetpack-my-jetpack/zipball/3609e7955af75905c72c6f24698394fdf9a051f0",
+                "reference": "3609e7955af75905c72c6f24698394fdf9a051f0",
                 "shasum": ""
             },
             "require": {
@@ -718,7 +718,7 @@
                 "automattic/wordbless": "@dev",
                 "yoast/phpunit-polyfills": "1.0.4"
             },
-            "time": "2023-01-02T13:47:18+00:00",
+            "time": "2023-01-06T19:29:47+00:00",
             "type": "jetpack-library",
             "extra": {
                 "autotagger": true,
@@ -747,7 +747,7 @@
             ],
             "description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
             "support": {
-                "source": "https://github.com/Automattic/jetpack-my-jetpack/tree/v2.7.2"
+                "source": "https://github.com/Automattic/jetpack-my-jetpack/tree/v2.7.2.1"
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-my-jetpack"
         },
