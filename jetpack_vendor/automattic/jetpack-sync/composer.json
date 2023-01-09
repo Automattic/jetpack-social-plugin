@@ -8,7 +8,7 @@
 		"automattic/jetpack-constants": "^1.6.20",
 		"automattic/jetpack-identity-crisis": "^0.8.34-alpha",
 		"automattic/jetpack-password-checker": "^0.2.10-alpha",
-		"automattic/jetpack-roles": "^1.4.20",
+		"automattic/jetpack-roles": "^1.4.21-alpha",
 		"automattic/jetpack-status": "^1.15.4-alpha"
 	},
 	"require-dev": {
