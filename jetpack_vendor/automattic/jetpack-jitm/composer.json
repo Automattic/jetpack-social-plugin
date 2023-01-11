@@ -4,19 +4,19 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-a8c-mc-stats": "^1.4.18-alpha",
-		"automattic/jetpack-assets": "^1.17.29-alpha",
-		"automattic/jetpack-connection": "^1.49.0-alpha",
-		"automattic/jetpack-device-detection": "^1.4.23-alpha",
+		"automattic/jetpack-a8c-mc-stats": "^1.4.18",
+		"automattic/jetpack-assets": "^1.17.29",
+		"automattic/jetpack-connection": "^1.49.0",
+		"automattic/jetpack-device-detection": "^1.4.23",
 		"automattic/jetpack-logo": "^1.5.20",
 		"automattic/jetpack-partner": "^1.7.21",
-		"automattic/jetpack-redirect": "^1.7.23-alpha",
-		"automattic/jetpack-status": "^1.15.4-alpha"
+		"automattic/jetpack-redirect": "^1.7.23",
+		"automattic/jetpack-status": "^1.15.4"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.1-alpha"
+		"automattic/jetpack-changelogger": "^3.3.1"
 	},
 	"autoload": {
 		"classmap": [
