@@ -11,7 +11,7 @@
 		"automattic/jetpack-logo": "^1.5.20",
 		"automattic/jetpack-partner": "^1.7.21",
 		"automattic/jetpack-redirect": "^1.7.23",
-		"automattic/jetpack-status": "^1.16.0-alpha"
+		"automattic/jetpack-status": "^1.16.0"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
