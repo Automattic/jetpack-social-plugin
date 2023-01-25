@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 - Update playwright dependency
+- Use `flex-end` instead of `end` for better browser compatibility.
 
 ## 1.6.0 - 2023-01-10
 ### Added
