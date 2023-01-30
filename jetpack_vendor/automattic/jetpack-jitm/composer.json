@@ -8,7 +8,7 @@
 		"automattic/jetpack-assets": "^1.17.30",
 		"automattic/jetpack-connection": "^1.49.1",
 		"automattic/jetpack-device-detection": "^1.4.23",
-		"automattic/jetpack-logo": "^1.5.21-alpha",
+		"automattic/jetpack-logo": "^1.5.21",
 		"automattic/jetpack-partner": "^1.7.21",
 		"automattic/jetpack-redirect": "^1.7.23",
 		"automattic/jetpack-status": "^1.16.1"
