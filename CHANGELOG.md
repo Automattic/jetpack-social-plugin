@@ -5,18 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.7.0-alpha - unreleased
+## 1.7.1-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+## 1.7.0-beta - 2023-02-01
 ### Added
-- Added Advanced Social plan to pricing table
+- Added Advanced Social plan to pricing table [#28258]
 
 ### Changed
-- Moved resharing to be available in the free plan
+- Moved resharing to be available in the free plan [#28661]
 - Updated package dependencies.
-- Update playwright dependency
-- Use `flex-end` instead of `end` for better browser compatibility.
+- Update playwright dependency [#28094]
+- Use `flex-end` instead of `end` for better browser compatibility. [#28530]
 
 ## 1.6.0 - 2023-01-10
 ### Added
