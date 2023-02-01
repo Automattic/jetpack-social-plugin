@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added Advanced Social plan to pricing table
 
 ### Changed
+- Moved resharing to be available in the free plan
 - Updated package dependencies.
 - Update playwright dependency
 - Use `flex-end` instead of `end` for better browser compatibility.
