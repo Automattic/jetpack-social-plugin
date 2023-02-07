@@ -12,7 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed remaining shares phrasing
 
-## 1.7.0-beta - 2023-02-01
+## 1.7.0 - 2023-02-07
 ### Added
 - Added Advanced Social plan to pricing table [#28258]
 
