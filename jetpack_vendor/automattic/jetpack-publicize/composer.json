@@ -4,10 +4,10 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.50.1-alpha",
+		"automattic/jetpack-connection": "^1.50.1",
 		"automattic/jetpack-autoloader": "^2.11.15",
 		"automattic/jetpack-config": "^1.13.0",
-		"automattic/jetpack-assets": "^1.17.31-alpha",
+		"automattic/jetpack-assets": "^1.17.31",
 		"automattic/jetpack-redirect": "^1.7.23"
 	},
 	"require-dev": {
