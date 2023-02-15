@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed remaining shares phrasing
+- Remove `ci.targets` from package.json. Better scoping of e2e tests.
 - Update to React 18.
 
 ## 1.7.0 - 2023-02-07
