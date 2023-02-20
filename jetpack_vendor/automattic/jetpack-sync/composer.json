@@ -4,15 +4,15 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.51.0-alpha",
-		"automattic/jetpack-constants": "^1.6.21-alpha",
-		"automattic/jetpack-identity-crisis": "^0.8.38-alpha",
-		"automattic/jetpack-password-checker": "^0.2.11-alpha",
-		"automattic/jetpack-roles": "^1.4.22-alpha",
-		"automattic/jetpack-status": "^1.16.2-alpha"
+		"automattic/jetpack-connection": "^1.51.0",
+		"automattic/jetpack-constants": "^1.6.21",
+		"automattic/jetpack-identity-crisis": "^0.8.38",
+		"automattic/jetpack-password-checker": "^0.2.11",
+		"automattic/jetpack-roles": "^1.4.22",
+		"automattic/jetpack-status": "^1.16.2"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.3.2-alpha",
+		"automattic/jetpack-changelogger": "^3.3.2",
 		"yoast/phpunit-polyfills": "1.0.4",
 		"automattic/wordbless": "@dev"
 	},
