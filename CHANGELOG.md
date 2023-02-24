@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed remaining shares phrasing
 - Remove `ci.targets` from package.json. Better scoping of e2e tests.
+- Update billing language
 - Update to React 18.
 
 ### Fixed
