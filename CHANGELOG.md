@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Update to React 18.
 
 ### Fixed
+- Revise Jetpack connection agreement text to comply with our User Agreement
 - Use External Link icons for external links
 
 ## 1.7.0 - 2023-02-07
