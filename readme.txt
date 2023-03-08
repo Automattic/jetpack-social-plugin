@@ -4,7 +4,7 @@ Tags: social-media, publicize, social-media-manager, social-networking, social m
 Requires at least: 6.0
 Requires PHP: 5.6
 Tested up to: 6.1
-Stable tag: 1.8.0
+Stable tag: 1.7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -91,19 +91,13 @@ The easiest way is to use the Custom Message option in the publishing options bo
 4. Manage your Jetpack Social and other Jetpack plugins from My Jetpack.
 
 == Changelog ==
-### 1.8.0 - 2023-03-07
+### 1.7.0 - 2023-02-07
 #### Added
-- Add Social Image Generator editor panel to post sidebar
-- Add Social Image Generator feature flag to Jetpack Social
+- Added Advanced Social plan to pricing table
 
 #### Changed
-- Changed remaining shares phrasing
-- Remove `ci.targets` from package.json. Better scoping of e2e tests.
-- Update billing language
+- Moved resharing to be available in the free plan
 - Updated package dependencies.
-- Update to React 18.
-
-#### Fixed
-- Revise Jetpack connection agreement text to comply with our User Agreement
-- Use External Link icons for external links
+- Update playwright dependency
+- Use `flex-end` instead of `end` for better browser compatibility.
 

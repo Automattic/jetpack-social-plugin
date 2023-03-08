@@ -4,7 +4,7 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.51.1-alpha"
+		"automattic/jetpack-connection": "^1.51.1"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
