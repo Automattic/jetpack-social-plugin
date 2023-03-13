@@ -10,4 +10,8 @@ return array(
 		'version' => '1.17.33.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/actions.php'
 	),
+	'e6f7f640a6586216432b53e5c9d1b472' => array(
+		'version' => '0.21.0.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/social-image-generator/utilities.php'
+	),
 );

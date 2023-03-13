@@ -9,7 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-## 1.8.0-beta - 2023-02-28
+### Changed
+- General: indicate full compatibility with the latest version of WordPress, 6.2.
+
+## 1.8.0 - 2023-03-07
 ### Added
 - Add Social Image Generator editor panel to post sidebar [#28737]
 - Add Social Image Generator feature flag to Jetpack Social [#29001]
