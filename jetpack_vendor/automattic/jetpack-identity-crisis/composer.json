@@ -8,7 +8,7 @@
 		"automattic/jetpack-constants": "^1.6.21",
 		"automattic/jetpack-status": "^1.16.2",
 		"automattic/jetpack-logo": "^1.5.22",
-		"automattic/jetpack-assets": "^1.17.33"
+		"automattic/jetpack-assets": "^1.17.34-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.2",
