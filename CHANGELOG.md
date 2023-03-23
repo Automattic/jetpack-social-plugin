@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.2.
+- Refactored the ToggleSection component to decouple it from other logic
 
 ## 1.8.0 - 2023-03-07
 ### Added
