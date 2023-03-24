@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.2.17",
 		"automattic/jetpack-assets": "^1.17.34",
-		"automattic/jetpack-connection": "^1.51.2",
+		"automattic/jetpack-connection": "^1.51.3-alpha",
 		"automattic/jetpack-jitm": "^2.3.2",
 		"automattic/jetpack-licensing": "^1.8.1",
 		"automattic/jetpack-plugins-installer": "^0.2.3",
