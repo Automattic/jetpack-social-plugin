@@ -175,7 +175,7 @@
         'automattic/jetpack-publicize' => array(
             'pretty_version' => '0.23.0-alpha',
             'version' => '0.23.0.0-alpha',
-            'reference' => 'bb1e0bfa8a0e181f764ee1e13bf07068773e669c',
+            'reference' => 'fb4398709ed2eab9f39ed5cbd86a199cbd5a5c7c',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-publicize',
             'aliases' => array(),

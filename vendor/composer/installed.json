@@ -1061,13 +1061,14 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-publicize",
-                "reference": "bb1e0bfa8a0e181f764ee1e13bf07068773e669c"
+                "reference": "fb4398709ed2eab9f39ed5cbd86a199cbd5a5c7c"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17.34",
                 "automattic/jetpack-autoloader": "^2.11.16",
                 "automattic/jetpack-config": "^1.15.0-alpha",
                 "automattic/jetpack-connection": "^1.51.3-alpha",
+                "automattic/jetpack-plans": "^0.2.10",
                 "automattic/jetpack-redirect": "^1.7.24"
             },
             "require-dev": {
