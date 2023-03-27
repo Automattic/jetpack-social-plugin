@@ -50,6 +50,7 @@ return array(
     'Automattic\\Jetpack\\Errors' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
     'Automattic\\Jetpack\\Files' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
     'Automattic\\Jetpack\\Heartbeat' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
+    'Automattic\\Jetpack\\IP\\Utils' => $baseDir . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php',
     'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-rest-endpoints.php',
     'Automattic\\Jetpack\\IdentityCrisis\\UI' => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-ui.php',
     'Automattic\\Jetpack\\Identity_Crisis' => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-identity-crisis.php',

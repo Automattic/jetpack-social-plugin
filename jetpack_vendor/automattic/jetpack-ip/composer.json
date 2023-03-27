@@ -1,11 +1,9 @@
 {
-	"name": "automattic/jetpack-redirect",
-	"description": "Utilities to build URLs to the jetpack.com/redirect/ service",
+	"name": "automattic/jetpack-ip",
+	"description": "Utilities for working with IP addresses.",
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
-	"require": {
-		"automattic/jetpack-status": "^1.16.3-alpha"
-	},
+	"require": {},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.0.4",
@@ -28,12 +26,16 @@
 	"prefer-stable": true,
 	"extra": {
 		"autotagger": true,
-		"mirror-repo": "Automattic/jetpack-redirect",
+		"mirror-repo": "Automattic/jetpack-ip",
 		"changelogger": {
-			"link-template": "https://github.com/Automattic/jetpack-redirect/compare/v${old}...v${new}"
+			"link-template": "https://github.com/automattic/jetpack-ip/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "1.7.x-dev"
+			"dev-trunk": "0.1.x-dev"
+		},
+		"textdomain": "jetpack-ip",
+		"version-constants": {
+			"::PACKAGE_VERSION": "src/class-utils.php"
 		}
 	}
 }
