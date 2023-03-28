@@ -4,9 +4,9 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.51.3-alpha",
-		"automattic/jetpack-autoloader": "^2.11.17-alpha",
-		"automattic/jetpack-config": "^1.15.0-alpha",
+		"automattic/jetpack-connection": "^1.51.3",
+		"automattic/jetpack-autoloader": "^2.11.17",
+		"automattic/jetpack-config": "^1.15.0",
 		"automattic/jetpack-assets": "^1.17.34",
 		"automattic/jetpack-redirect": "^1.7.24",
 		"automattic/jetpack-plans": "^0.2.10"
@@ -50,7 +50,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-publicize/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.23.x-dev"
+			"dev-trunk": "0.24.x-dev"
 		}
 	},
 	"config": {
