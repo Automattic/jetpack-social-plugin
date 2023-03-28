@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - (Backup, Boost, Search, Social) Add links on upgrade pages to activate a license key, if you already have one.
 - Added option for CUT component to have a tooltip
 - Added SIG image to the post media array if it's enabled
+- Added toggle to Social admin page to enable or disable Social Image Generator as well as an option to pick a default template
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.2.
