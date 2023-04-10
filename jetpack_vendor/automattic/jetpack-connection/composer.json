@@ -4,12 +4,12 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-a8c-mc-stats": "^1.4.20-alpha",
-		"automattic/jetpack-admin-ui": "^0.2.19-alpha",
-		"automattic/jetpack-constants": "^1.6.22-alpha",
-		"automattic/jetpack-roles": "^1.4.23-alpha",
-		"automattic/jetpack-status": "^1.16.4-alpha",
-		"automattic/jetpack-redirect": "^1.7.25-alpha"
+		"automattic/jetpack-a8c-mc-stats": "^1.4.20",
+		"automattic/jetpack-admin-ui": "^0.2.19",
+		"automattic/jetpack-constants": "^1.6.22",
+		"automattic/jetpack-roles": "^1.4.23",
+		"automattic/jetpack-status": "^1.16.4",
+		"automattic/jetpack-redirect": "^1.7.25"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
