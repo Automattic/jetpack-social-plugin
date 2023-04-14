@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Moved review prompt into separate script
 - Updated package dependencies.
 
+### Fixed
+- Temporarily removed review prompts to fix the plugin's UI state.
+
 ## 1.9.1 - 2023-04-06
 ### Fixed
 - Reinstated is_social_image_generator_enabled for backwards compatibility. [#29952]
