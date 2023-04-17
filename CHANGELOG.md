@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Moved review prompt into separate script
 - Updated package dependencies.
+- Update WordPress version requirements. Now requires version 6.1.
 
 ### Fixed
 - Temporarily removed review prompts to fix the plugin's UI state.
