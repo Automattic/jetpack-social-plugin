@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Update WordPress version requirements. Now requires version 6.1.
 
 ### Fixed
+- Dashboard: ensure the link to the post editor works, even when WordPress is installed in a subdirectory.
 - Temporarily removed review prompts to fix the plugin's UI state.
 
 ## 1.9.1 - 2023-04-06
