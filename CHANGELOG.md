@@ -11,7 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Added dynamic pricing to Social admin page
-- Moved review prompt into separate script
 - Updated package dependencies.
 - Update WordPress version requirements. Now requires version 6.1.
 
