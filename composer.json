@@ -4,15 +4,15 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-admin-ui": "^0.2.20-alpha",
+		"automattic/jetpack-admin-ui": "^0.2.20",
 		"automattic/jetpack-assets": "^1.18.1",
-		"automattic/jetpack-autoloader": "^2.11.19-alpha",
+		"automattic/jetpack-autoloader": "^2.11.19",
 		"automattic/jetpack-composer-plugin": "^1.1.10",
 		"automattic/jetpack-config": "^1.15.2",
 		"automattic/jetpack-identity-crisis": "^0.8.44",
-		"automattic/jetpack-publicize": "^0.25.0-alpha",
+		"automattic/jetpack-publicize": "^0.25.0",
 		"automattic/jetpack-connection": "^1.51.7",
-		"automattic/jetpack-my-jetpack": "^2.10.3-alpha",
+		"automattic/jetpack-my-jetpack": "^2.10.3",
 		"automattic/jetpack-sync": "^1.47.7",
 		"automattic/jetpack-status": "^1.17.0",
 		"automattic/jetpack-plans": "^0.2.11"
@@ -51,6 +51,7 @@
 		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
 		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -72,6 +73,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ1_10_0_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ1_10_0_beta"
 	}
 }
