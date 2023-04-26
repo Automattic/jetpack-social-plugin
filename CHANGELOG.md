@@ -5,9 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.10.1-alpha - unreleased
+## 1.11.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 
 ## 1.10.0-beta - 2023-04-25
 ### Added

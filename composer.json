@@ -12,7 +12,7 @@
 		"automattic/jetpack-identity-crisis": "^0.8.44",
 		"automattic/jetpack-publicize": "^0.25.0",
 		"automattic/jetpack-connection": "^1.51.7",
-		"automattic/jetpack-my-jetpack": "^2.10.4-alpha",
+		"automattic/jetpack-my-jetpack": "^2.11.0-alpha",
 		"automattic/jetpack-sync": "^1.47.7",
 		"automattic/jetpack-status": "^1.17.0",
 		"automattic/jetpack-plans": "^0.2.11"
@@ -72,6 +72,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ1_10_1_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ1_11_0_alpha"
 	}
 }
