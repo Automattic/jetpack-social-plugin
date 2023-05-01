@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 
+### Fixed
+- Jetpack Social: Render Social Image Generator panel even when SIG's default is disabled
+
 ## 1.10.0-beta - 2023-04-25
 ### Added
 - Social: Updating plugin version. [#30158]
