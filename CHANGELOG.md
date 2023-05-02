@@ -9,10 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-### Fixed
-- Jetpack Social: Render Social Image Generator panel even when SIG's default is disabled
-
-## 1.10.0-beta - 2023-04-25
+## 1.10.0-beta - 2023-05-02
 ### Added
 - Social: Updating plugin version. [#30158]
 
@@ -23,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Dashboard: ensure the link to the post editor works, even when WordPress is installed in a subdirectory. [#30159]
+- Jetpack Social: Render Social Image Generator panel even when SIG's default is disabled [#30358]
 - Temporarily removed review prompts to fix the plugin's UI state. [#30101]
 
 ## 1.9.1 - 2023-04-06
