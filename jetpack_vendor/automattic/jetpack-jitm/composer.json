@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.20",
 		"automattic/jetpack-assets": "^1.18.3",
-		"automattic/jetpack-connection": "^1.51.9",
+		"automattic/jetpack-connection": "^1.51.10-alpha",
 		"automattic/jetpack-device-detection": "^1.4.25",
 		"automattic/jetpack-logo": "^1.6.1",
 		"automattic/jetpack-partner": "^1.7.23",
