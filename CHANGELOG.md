@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 - Updated package dependencies.
+- Updates the enhanced publishing feature check
 
 ## 1.10.0 - 2023-05-02
 ### Added
