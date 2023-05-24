@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Jetpack Social: Add a notice to let users know Instagram is available
+
 ### Changed
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 - Updated package dependencies.
