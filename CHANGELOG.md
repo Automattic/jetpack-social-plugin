@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updates the enhanced publishing feature check
 
+### Deprecated
+- Minor changes around upcoming functionality change in Twitter.
+
 ## 1.10.0 - 2023-05-02
 ### Added
 - Social: Updating plugin version. [#30158]
