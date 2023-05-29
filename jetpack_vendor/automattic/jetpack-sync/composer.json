@@ -4,11 +4,11 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.52.1-alpha",
+		"automattic/jetpack-connection": "^1.52.1",
 		"automattic/jetpack-constants": "^1.6.22",
 		"automattic/jetpack-identity-crisis": "^0.8.47",
 		"automattic/jetpack-password-checker": "^0.2.13",
-		"automattic/jetpack-ip": "^0.1.4-alpha",
+		"automattic/jetpack-ip": "^0.1.4",
 		"automattic/jetpack-roles": "^1.4.23",
 		"automattic/jetpack-status": "^1.17.1"
 	},
