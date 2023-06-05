@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Social: Fixed the connection state to ensure that new connections are disabled by default when there are no shares left.
+
 ## 1.11.0-beta - 2023-05-29
 ### Added
 - Added feature flag for Mastodon preview [#30919]
