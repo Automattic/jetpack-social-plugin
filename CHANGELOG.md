@@ -12,7 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Social: Fixed the connection state to ensure that new connections are disabled by default when there are no shares left.
 
-## 1.11.0-beta - 2023-05-29
+## 1.11.0 - 2023-06-06
 ### Added
 - Added feature flag for Mastodon preview [#30919]
 - Jetpack Social: Add a notice to let users know Instagram is available [#30777]
