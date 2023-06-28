@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Fix admin page unit test
+
 ## 2.0.0-beta - 2023-06-26
 ### Added
 - Add authentication to Zendesk chat widget. [#31339]
