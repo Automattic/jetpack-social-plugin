@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.20",
-		"automattic/jetpack-assets": "^1.18.6-alpha",
-		"automattic/jetpack-connection": "^1.53.2-alpha",
+		"automattic/jetpack-assets": "^1.18.6",
+		"automattic/jetpack-connection": "^1.53.2",
 		"automattic/jetpack-device-detection": "^1.4.26",
 		"automattic/jetpack-logo": "^1.6.1",
 		"automattic/jetpack-partner": "^1.7.23",
