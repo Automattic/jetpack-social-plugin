@@ -9,18 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-### Changed
-- Social: Updated the Readme to better reflect the new features
-
 ### Fixed
 - Fix admin page unit test
 
-## 2.0.0-beta - 2023-06-26
+## 2.0.0 - 2023-07-05
 ### Added
 - Add authentication to Zendesk chat widget. [#31339]
 
 ### Changed
 - Social: change the admin page plan redirect link. [#31195]
+- Social: update the Readme to better reflect new features. [#31686]
 - Updated package dependencies.
 
 ### Fixed
