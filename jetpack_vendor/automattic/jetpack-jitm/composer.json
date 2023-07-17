@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.20",
 		"automattic/jetpack-assets": "^1.18.7",
-		"automattic/jetpack-connection": "^1.54.0-alpha",
+		"automattic/jetpack-connection": "^1.54.0",
 		"automattic/jetpack-device-detection": "^1.4.26",
 		"automattic/jetpack-logo": "^1.6.1",
 		"automattic/jetpack-partner": "^1.7.23",
@@ -16,7 +16,7 @@
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.7-alpha"
+		"automattic/jetpack-changelogger": "^3.3.7"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."

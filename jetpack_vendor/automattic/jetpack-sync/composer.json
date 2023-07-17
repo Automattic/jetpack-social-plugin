@@ -4,16 +4,16 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.54.0-alpha",
+		"automattic/jetpack-connection": "^1.54.0",
 		"automattic/jetpack-constants": "^1.6.22",
-		"automattic/jetpack-identity-crisis": "^0.8.51-alpha",
+		"automattic/jetpack-identity-crisis": "^0.8.51",
 		"automattic/jetpack-password-checker": "^0.2.13",
 		"automattic/jetpack-ip": "^0.1.4",
 		"automattic/jetpack-roles": "^1.4.23",
 		"automattic/jetpack-status": "^1.17.2"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.3.7-alpha",
+		"automattic/jetpack-changelogger": "^3.3.7",
 		"yoast/phpunit-polyfills": "1.0.4",
 		"automattic/wordbless": "@dev"
 	},
