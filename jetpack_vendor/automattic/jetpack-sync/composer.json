@@ -4,7 +4,7 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.54.1",
+		"automattic/jetpack-connection": "^1.55.0-alpha",
 		"automattic/jetpack-constants": "^1.6.22",
 		"automattic/jetpack-identity-crisis": "^0.8.51",
 		"automattic/jetpack-password-checker": "^0.2.13",
