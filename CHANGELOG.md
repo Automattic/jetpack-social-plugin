@@ -15,18 +15,12 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed notice dismiss so it can be sent away for a given time
 
-## 2.1.0-beta - 2023-07-25
+## 2.1.0 - 2023-08-01
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3. [#31910]
 - Refactor TemplatePicker component, so inner part can be use in it's own without a modal. [#31740]
 - Social: Update the screenshots to reflect the current UI [#31832]
-- Updated package dependencies. [#31659]
-- Updated package dependencies. [#31661]
-- Updated package dependencies. [#31769]
-- Updated package dependencies. [#31785]
-- Updated package dependencies. [#31872]
-- Updated package dependencies. [#31923]
-- Updated package dependencies. [#32040]
+- Updated package dependencies. [#31659, #31661, #31769, #31785, #31872, #31923, #32040]
 
 ### Fixed
 - Fix admin page unit test [#31417]
