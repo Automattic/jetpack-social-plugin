@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed notice dismiss so it can be sent away for a given time
 
+### Fixed
+- Fixed checkout link so it's not siteless
+
 ## 2.1.0 - 2023-08-01
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3. [#31910]
