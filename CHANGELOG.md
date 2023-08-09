@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed notice dismiss so it can be sent away for a given time
 - Jetpack editor extensions: use shared component for the logo.
+- Moved store to publicize-components package
 - Updated package dependencies.
 
 ### Fixed
