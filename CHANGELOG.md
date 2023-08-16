@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack editor extensions: use shared component for the logo.
 - Moved store to publicize-components package
 - Updated package dependencies.
+- Use the new method to render Connection initial state.
 
 ### Fixed
 - Fixed checkout link so it's not siteless
