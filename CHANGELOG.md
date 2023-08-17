@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added admin-page upsell notice
 - Added new nudge in the editor to upgrade to the Advanced plan. Appears every 3 months
+- Added SIG toggle for Jetpack Settings
 - New check for checking is user is on BAsic plan
 
 ### Changed
