@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Changed notice dismiss so it can be sent away for a given time
 - Jetpack editor extensions: use shared component for the logo.
 - Moved store to publicize-components package
+- Social: Implement the new design for the connection toggles
 - Updated package dependencies.
 - Use the new method to render Connection initial state.
 
