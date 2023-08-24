@@ -5,27 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.2.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 2.2.0 - 2023-08-23
 ### Added
-- Added admin-page upsell notice
-- Added new nudge in the editor to upgrade to the Advanced plan. Appears every 3 months
-- Added SIG toggle for Jetpack Settings
-- Added the new auto-conversion toggle for Social
-- New check for checking is user is on BAsic plan
+- Add admin-page upsell notice [#32128]
+- Add new nudge in the editor to upgrade to the Advanced plan that will appear every 3 months [#32087]
+- Add SIG toggle for Jetpack Settings [#32475]
+- Add the new auto-conversion toggle for Social [#32597]
+- Add check for checking if user is on Basic plan [#32112]
 
 ### Changed
-- Changed notice dismiss so it can be sent away for a given time
-- Jetpack editor extensions: use shared component for the logo.
-- Moved store to publicize-components package
-- Social: Implement the new design for the connection toggles
-- Updated package dependencies.
-- Use the new method to render Connection initial state.
+- Changed JITM so it can be properly dismissed. [#32033]
+- Jetpack editor extensions: use shared component for the logo. [#32257]
+- Moved store to publicize-components package. [#32317]
+- Social: Implement the new design for the connection toggles. [#32305]
+- Updated package dependencies. [#32166]
+- Use a new method to render Connection initial state. [#32499]
 
 ### Fixed
-- Fixed checkout link so it's not siteless
+- Fixed checkout link so it's not siteless. [#32254]
 
 ## 2.1.0 - 2023-08-01
 ### Changed
