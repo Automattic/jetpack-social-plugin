@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed logic that disables the connections based on the auto-conversion feature
 - General: update WordPress version requirements to WordPress 6.2.
+- Updated package dependencies.
 
 ## 2.2.0 - 2023-08-23
 ### Added
