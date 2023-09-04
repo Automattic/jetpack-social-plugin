@@ -5,13 +5,13 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.21",
-		"automattic/jetpack-assets": "^1.18.10-alpha",
-		"automattic/jetpack-connection": "^1.57.2-alpha",
+		"automattic/jetpack-assets": "^1.18.10",
+		"automattic/jetpack-connection": "^1.57.2",
 		"automattic/jetpack-device-detection": "^1.4.27",
 		"automattic/jetpack-logo": "^1.6.2",
 		"automattic/jetpack-partner": "^1.7.24",
 		"automattic/jetpack-redirect": "^1.7.26",
-		"automattic/jetpack-status": "^1.18.2-alpha"
+		"automattic/jetpack-status": "^1.18.2"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
