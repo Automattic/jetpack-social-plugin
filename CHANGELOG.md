@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed logic that disables the connections based on the auto-conversion feature
+- General: remove WP 6.1 backwards compatibility checks
 - General: update WordPress version requirements to WordPress 6.2.
 - Updated package dependencies.
 
