@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add the change settings logic in Social for the auto conversion feature
+
 ### Changed
 - Changed logic that disables the connections based on the auto-conversion feature
 - General: remove WP 6.1 backwards compatibility checks
