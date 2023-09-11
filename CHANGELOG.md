@@ -5,18 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.3.0-alpha - unreleased
+## 2.3.1-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+## 2.3.0-beta - 2023-09-11
 ### Added
-- Add the change settings logic in Social for the auto conversion feature
+- Add the change settings logic in Social for the auto conversion feature. [#32712]
 
 ### Changed
-- Changed logic that disables the connections based on the auto-conversion feature
-- General: remove WP 6.1 backwards compatibility checks
-- General: update WordPress version requirements to WordPress 6.2.
-- Updated package dependencies.
+- Changed logic that disables the connections based on the auto-conversion feature. [#32671]
+- General: remove WP 6.1 backwards compatibility checks. [#32772]
+- General: update WordPress version requirements to WordPress 6.2. [#32762]
+- Updated package dependencies. [#32803], [#32804], [#32966]
 
 ## 2.2.0 - 2023-08-23
 ### Added
