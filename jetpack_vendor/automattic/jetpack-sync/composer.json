@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-connection": "^1.57.4-alpha",
 		"automattic/jetpack-constants": "^1.6.23",
-		"automattic/jetpack-identity-crisis": "^0.10.4",
+		"automattic/jetpack-identity-crisis": "^0.10.5-alpha",
 		"automattic/jetpack-password-checker": "^0.2.14",
 		"automattic/jetpack-ip": "^0.1.5",
 		"automattic/jetpack-roles": "^1.4.24",
