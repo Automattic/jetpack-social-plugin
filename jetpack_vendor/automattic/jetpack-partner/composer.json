@@ -4,7 +4,7 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.57.3",
+		"automattic/jetpack-connection": "^1.57.4-alpha",
 		"automattic/jetpack-status": "^1.18.3"
 	},
 	"require-dev": {

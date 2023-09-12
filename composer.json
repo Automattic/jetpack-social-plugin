@@ -11,7 +11,7 @@
 		"automattic/jetpack-config": "^1.15.3",
 		"automattic/jetpack-identity-crisis": "^0.10.4",
 		"automattic/jetpack-publicize": "^0.36.0",
-		"automattic/jetpack-connection": "^1.57.3",
+		"automattic/jetpack-connection": "^1.57.4-alpha",
 		"automattic/jetpack-my-jetpack": "^3.4.4",
 		"automattic/jetpack-sync": "^1.57.0-alpha",
 		"automattic/jetpack-status": "^1.18.3",
