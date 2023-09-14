@@ -4,19 +4,19 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-a8c-mc-stats": "^1.4.21",
-		"automattic/jetpack-assets": "^1.18.10",
-		"automattic/jetpack-connection": "^1.57.4",
+		"automattic/jetpack-a8c-mc-stats": "^1.4.22-alpha",
+		"automattic/jetpack-assets": "^1.18.11-alpha",
+		"automattic/jetpack-connection": "^1.57.5-alpha",
 		"automattic/jetpack-device-detection": "^1.4.27",
-		"automattic/jetpack-logo": "^1.6.2",
-		"automattic/jetpack-partner": "^1.7.24",
-		"automattic/jetpack-redirect": "^1.7.26",
-		"automattic/jetpack-status": "^1.18.3"
+		"automattic/jetpack-logo": "^1.6.3-alpha",
+		"automattic/jetpack-partner": "^1.7.25-alpha",
+		"automattic/jetpack-redirect": "^1.7.27-alpha",
+		"automattic/jetpack-status": "^1.18.4-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^3.3.8"
+		"automattic/jetpack-changelogger": "^3.3.9-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."

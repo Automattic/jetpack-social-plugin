@@ -5,20 +5,20 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.2.23-alpha",
-		"automattic/jetpack-assets": "^1.18.10",
-		"automattic/jetpack-autoloader": "^2.11.22",
-		"automattic/jetpack-composer-plugin": "^1.1.13",
-		"automattic/jetpack-config": "^1.15.3",
+		"automattic/jetpack-assets": "^1.18.11-alpha",
+		"automattic/jetpack-autoloader": "^2.11.23-alpha",
+		"automattic/jetpack-composer-plugin": "^1.1.14-alpha",
+		"automattic/jetpack-config": "^1.15.4-alpha",
 		"automattic/jetpack-identity-crisis": "^0.10.5-alpha",
-		"automattic/jetpack-publicize": "^0.36.0",
-		"automattic/jetpack-connection": "^1.57.4",
+		"automattic/jetpack-publicize": "^0.36.1-alpha",
+		"automattic/jetpack-connection": "^1.57.5-alpha",
 		"automattic/jetpack-my-jetpack": "^3.5.0-alpha",
 		"automattic/jetpack-sync": "^1.57.0-alpha",
-		"automattic/jetpack-status": "^1.18.3",
+		"automattic/jetpack-status": "^1.18.4-alpha",
 		"automattic/jetpack-plans": "^0.3.4"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.3.8",
+		"automattic/jetpack-changelogger": "^3.3.9-alpha",
 		"automattic/wordbless": "0.4.2",
 		"yoast/phpunit-polyfills": "1.1.0",
 		"brain/monkey": "2.6.1"
