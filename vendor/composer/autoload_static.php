@@ -176,6 +176,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ2_3_1_alpha
         'Automattic\\Jetpack\\Sync\\Modules\\Users' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-users.php',
         'Automattic\\Jetpack\\Sync\\Modules\\WP_Super_Cache' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-wp-super-cache.php',
         'Automattic\\Jetpack\\Sync\\Modules\\WooCommerce' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-woocommerce.php',
+        'Automattic\\Jetpack\\Sync\\Modules\\WooCommerce_HPOS_Orders' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-woocommerce-hpos-orders.php',
         'Automattic\\Jetpack\\Sync\\Package_Version' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-package-version.php',
         'Automattic\\Jetpack\\Sync\\Queue' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-queue.php',
         'Automattic\\Jetpack\\Sync\\Queue\\Queue_Storage_Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/sync-queue/class-queue-storage-options.php',
