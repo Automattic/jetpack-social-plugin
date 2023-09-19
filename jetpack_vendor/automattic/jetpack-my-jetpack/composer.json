@@ -4,20 +4,20 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-admin-ui": "^0.2.23-alpha",
-		"automattic/jetpack-assets": "^1.18.11-alpha",
-		"automattic/jetpack-connection": "^1.57.5-alpha",
-		"automattic/jetpack-jitm": "^2.3.19-alpha",
-		"automattic/jetpack-licensing": "^1.8.4-alpha",
+		"automattic/jetpack-admin-ui": "^0.2.23",
+		"automattic/jetpack-assets": "^1.18.11",
+		"automattic/jetpack-connection": "^1.57.5",
+		"automattic/jetpack-jitm": "^2.3.19",
+		"automattic/jetpack-licensing": "^1.8.4",
 		"automattic/jetpack-plugins-installer": "^0.2.5",
-		"automattic/jetpack-redirect": "^1.7.27-alpha",
+		"automattic/jetpack-redirect": "^1.7.27",
 		"automattic/jetpack-constants": "^1.6.23"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^3.3.9-alpha",
+		"automattic/jetpack-changelogger": "^3.3.9",
 		"automattic/wordbless": "@dev",
-		"automattic/jetpack-videopress": "^0.17.0-alpha"
+		"automattic/jetpack-videopress": "^0.17.0"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
