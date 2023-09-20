@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated Jetpack submenu sort order so individual features are alpha-sorted.
 - Updated package dependencies.
+- Updated Social admin pricing page
 
 ## 2.3.0-beta - 2023-09-11
 ### Added
