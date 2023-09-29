@@ -7,7 +7,7 @@
 		"automattic/jetpack-admin-ui": "^0.2.23",
 		"automattic/jetpack-assets": "^1.18.11",
 		"automattic/jetpack-connection": "^1.58.0",
-		"automattic/jetpack-jitm": "^2.4.0-alpha",
+		"automattic/jetpack-jitm": "^2.4.0",
 		"automattic/jetpack-licensing": "^1.8.4",
 		"automattic/jetpack-plugins-installer": "^0.2.5",
 		"automattic/jetpack-redirect": "^1.7.27",
@@ -15,9 +15,9 @@
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^3.3.11-alpha",
+		"automattic/jetpack-changelogger": "^3.3.11",
 		"automattic/wordbless": "@dev",
-		"automattic/jetpack-videopress": "^0.17.2-alpha"
+		"automattic/jetpack-videopress": "^0.17.2"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -65,7 +65,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-my-jetpack/compare/${old}...${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "3.7.x-dev"
+			"dev-trunk": "3.8.x-dev"
 		},
 		"version-constants": {
 			"::PACKAGE_VERSION": "src/class-initializer.php"
