@@ -17,7 +17,7 @@
 		"yoast/phpunit-polyfills": "1.1.0",
 		"automattic/jetpack-changelogger": "^3.3.11",
 		"automattic/wordbless": "@dev",
-		"automattic/jetpack-videopress": "^0.17.4"
+		"automattic/jetpack-videopress": "^0.17.5-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
