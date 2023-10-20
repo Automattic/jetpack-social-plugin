@@ -11,7 +11,8 @@
 		"automattic/jetpack-licensing": "^1.8.4",
 		"automattic/jetpack-plugins-installer": "^0.2.5",
 		"automattic/jetpack-redirect": "^1.7.27",
-		"automattic/jetpack-constants": "^1.6.23"
+		"automattic/jetpack-constants": "^1.6.23",
+		"automattic/jetpack-plans": "^0.3.4"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
@@ -65,7 +66,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-my-jetpack/compare/${old}...${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "3.9.x-dev"
+			"dev-trunk": "3.10.x-dev"
 		},
 		"version-constants": {
 			"::PACKAGE_VERSION": "src/class-initializer.php"
