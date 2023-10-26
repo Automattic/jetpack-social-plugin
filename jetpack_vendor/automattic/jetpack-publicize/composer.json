@@ -9,7 +9,7 @@
 		"automattic/jetpack-config": "^1.15.4",
 		"automattic/jetpack-assets": "^1.18.13",
 		"automattic/jetpack-redirect": "^1.7.27",
-		"automattic/jetpack-plans": "^0.3.5-alpha"
+		"automattic/jetpack-plans": "^0.3.5"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
