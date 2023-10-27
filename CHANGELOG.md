@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updated screenshot to show the new connection toggles.
 - Updated Social admin pricing page
+- Update lockfile
 
 ## 2.3.0 - 2023-09-20
 ### Added
