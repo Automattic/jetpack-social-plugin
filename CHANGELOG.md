@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a new post-publish panel for quick sharing
+- Added Nextdoor to Social Previews
 - Added traking for social sharing buttons
 
 ### Changed
