@@ -21,6 +21,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated Social admin pricing page
 - Update lockfile
 
+### Fixed
+- Fixed an issue where initial state is not in sync
+
 ## 2.3.0 - 2023-09-20
 ### Added
 - Add the change settings logic in Social for the auto conversion feature. [#32712]
