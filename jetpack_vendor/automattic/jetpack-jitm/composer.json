@@ -6,12 +6,12 @@
 	"require": {
 		"automattic/jetpack-a8c-mc-stats": "^1.4.22",
 		"automattic/jetpack-assets": "^1.18.14",
-		"automattic/jetpack-connection": "^1.60.0-alpha",
-		"automattic/jetpack-device-detection": "^1.5.0-alpha",
+		"automattic/jetpack-connection": "^1.60.0",
+		"automattic/jetpack-device-detection": "^1.5.1-alpha",
 		"automattic/jetpack-logo": "^1.6.3",
 		"automattic/jetpack-partner": "^1.7.25",
 		"automattic/jetpack-redirect": "^1.7.27",
-		"automattic/jetpack-status": "^1.19.0-alpha"
+		"automattic/jetpack-status": "^1.19.0"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
