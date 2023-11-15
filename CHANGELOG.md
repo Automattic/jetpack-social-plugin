@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.4.
+- General: update WordPress version requirements to WordPress 6.3.
 - Updated package dependencies.
 - Updated screenshot to show the new connection toggles.
 - Updated Social admin pricing page
