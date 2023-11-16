@@ -22,6 +22,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated Social admin pricing page
 - Update lockfile
 
+### Removed
+- Removed jetpack/publicize store
+
 ### Fixed
 - Fixed an issue where initial state is not in sync
 
