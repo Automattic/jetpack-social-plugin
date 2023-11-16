@@ -9,7 +9,6 @@
 		"automattic/jetpack-connection": "^1.60.2-alpha",
 		"automattic/jetpack-device-detection": "^1.5.1",
 		"automattic/jetpack-logo": "^1.6.3",
-		"automattic/jetpack-partner": "^1.7.25",
 		"automattic/jetpack-redirect": "^1.7.27",
 		"automattic/jetpack-status": "^1.19.0"
 	},
@@ -57,7 +56,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-jitm/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "2.5.x-dev"
+			"dev-trunk": "2.6.x-dev"
 		}
 	}
 }
