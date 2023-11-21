@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Added traking for social sharing buttons
 
 ### Changed
+- Code Modernization: Replace usage of strpos() with str_contains()
 - General: indicate full compatibility with the latest version of WordPress, 6.4.
 - General: updated PHP requirement to PHP 7.0+
 - General: update WordPress version requirements to WordPress 6.3.
