@@ -9,7 +9,7 @@
 		"automattic/jetpack-assets": "^2.0.0",
 		"automattic/jetpack-connection": "^2.0.0",
 		"automattic/jetpack-jitm": "^3.0.0",
-		"automattic/jetpack-licensing": "^2.0.0",
+		"automattic/jetpack-licensing": "^2.0.1-alpha",
 		"automattic/jetpack-plugins-installer": "^0.3.0",
 		"automattic/jetpack-redirect": "^2.0.0",
 		"automattic/jetpack-constants": "^2.0.0",

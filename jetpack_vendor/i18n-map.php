@@ -34,7 +34,7 @@ return array(
     ),
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
-      'ver' => '2.0.0',
+      'ver' => '2.0.1-alpha1700558572',
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',

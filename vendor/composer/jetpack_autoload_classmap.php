@@ -239,11 +239,11 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-rest-api-endpoints.php'
 	),
 	'Automattic\\Jetpack\\Licensing' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0-alpha1700558572',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php'
 	),
 	'Automattic\\Jetpack\\Licensing\\Endpoints' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0-alpha1700558572',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php'
 	),
 	'Automattic\\Jetpack\\Modules' => array(
