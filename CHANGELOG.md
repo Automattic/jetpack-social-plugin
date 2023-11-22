@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Removed jetpack/publicize store
+- Removed the unused code
 
 ### Fixed
 - Fixed an issue where initial state is not in sync
