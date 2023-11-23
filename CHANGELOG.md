@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed an issue where initial state is not in sync
+- Fixed pre-publish UI reactivity for Jetpack Social
 
 ## 2.3.0 - 2023-09-20
 ### Added
