@@ -5,34 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 3.0.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.0.0 - 2023-12-06
 ### Added
-- Added a new post-publish panel for quick sharing
-- Added Nextdoor to Social Previews
-- Added traking for social sharing buttons
+- Added a new post-publish panel for quick sharing [#33231]
+- Added Nextdoor to Social Previews [#33907]
+- Added traking for social sharing buttons [#33231]
 
 ### Changed
-- Code Modernization: Replace usage of strpos() with str_contains()
-- General: indicate full compatibility with the latest version of WordPress, 6.4.
-- General: updated PHP requirement to PHP 7.0+
-- General: update WordPress version requirements to WordPress 6.3.
+- Code Modernization: Replace usage of strpos() with str_contains() [#34137]
+- General: updated PHP requirement to PHP 7.0+ [#34126]
+- General: update WordPress version requirements to WordPress 6.3 and compatible with 6.4. [#34127] [#33776]
 - Updated package dependencies.
-- Updated screenshot to show the new connection toggles.
-- Updated Social admin pricing page
-- Update lockfile
+- Updated screenshot to show the new connection toggles. [#33381]
+- Updated Social admin pricing page [#33176]
 
 ### Removed
-- Removed jetpack/publicize store
-- Removed the unused code
+- Removed unused code [#34111] [#34241]
 
 ### Fixed
-- Fixed an issue where initial state is not in sync
-- Fixed broken connections UI
-- Fixed pre-publish UI reactivity for Jetpack Social
-- Fixed the issue of publicize remaining ON after the post is published
+- Fixed an issue where initial state is not in sync [#33969]
+- Fixed broken connections UI [#34391]
+- Fixed pre-publish UI reactivity for Jetpack Social [#34243]
+- Fixed the issue of publicize remaining ON after the post is published [#34289]
 
 ## 2.3.0 - 2023-09-20
 ### Added
