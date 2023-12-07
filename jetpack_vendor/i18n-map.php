@@ -50,11 +50,11 @@ return array(
     ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
-      'ver' => '0.37.2',
+      'ver' => '0.38.0-alpha1701953686',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '2.1.2',
+      'ver' => '2.2.0-alpha1701953686',
     ),
   ),
 );
