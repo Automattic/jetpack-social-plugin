@@ -8,13 +8,13 @@
 		"automattic/jetpack-connection": "^2.1.0",
 		"automattic/jetpack-autoloader": "^3.0.2",
 		"automattic/jetpack-config": "^2.0.0",
-		"automattic/jetpack-assets": "^2.0.3-alpha",
+		"automattic/jetpack-assets": "^2.0.3",
 		"automattic/jetpack-redirect": "^2.0.0",
 		"automattic/jetpack-plans": "^0.4.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^4.0.5-alpha",
+		"automattic/jetpack-changelogger": "^4.0.5",
 		"automattic/wordbless": "0.4.2"
 	},
 	"suggest": {

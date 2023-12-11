@@ -7,7 +7,7 @@
 		"php": ">=7.0"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.0.5-alpha",
+		"automattic/jetpack-changelogger": "^4.0.5",
 		"automattic/wordbless": "@dev",
 		"yoast/phpunit-polyfills": "1.1.0"
 	},
