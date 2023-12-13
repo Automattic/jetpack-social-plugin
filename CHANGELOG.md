@@ -12,6 +12,10 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Social: Changed the illustration on the admin page
 - Social: Refactored storing of feature options to use core functions
+- Updated the share limit bar design
+
+### Fixed
+- Fixed Jetpack Social scheduled post messaging
 
 ## 3.0.0 - 2023-12-06
 ### Added
