@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Changed the illustration on the admin page
 - Social: Refactored storing of feature options to use core functions
 - Splitted PublicizeForm component into smaller ones
+- Updated Jetpack Social activation landing page
 
 ### Fixed
 - Fixed Jetpack Social scheduled post messaging
