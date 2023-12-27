@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Refactored storing of feature options to use core functions
 - Splitted PublicizeForm component into smaller ones
 - Updated Jetpack Social activation landing page
+- Updated the design for Quick Share buttons and fixed its a11y
 
 ### Fixed
 - Fixed Jetpack Social scheduled post messaging
