@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated the design for Quick Share buttons and fixed its a11y
 
 ### Fixed
+- Fixed a bug with the initial state script
 - Fixed Jetpack Social scheduled post messaging
 
 ## 3.0.0 - 2023-12-06
