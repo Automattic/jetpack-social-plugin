@@ -9,7 +9,7 @@
 		"automattic/jetpack-autoloader": "^3.0.2",
 		"automattic/jetpack-composer-plugin": "^2.0.0",
 		"automattic/jetpack-config": "^2.0.0",
-		"automattic/jetpack-identity-crisis": "^0.14.1",
+		"automattic/jetpack-identity-crisis": "^0.15.0-alpha",
 		"automattic/jetpack-publicize": "^0.39.0",
 		"automattic/jetpack-connection": "^2.2.0-alpha",
 		"automattic/jetpack-my-jetpack": "^4.5.0-alpha",
