@@ -33,7 +33,7 @@ class Initializer {
 	 *
 	 * @var string
 	 */
-	const PACKAGE_VERSION = '4.5.0-alpha';
+	const PACKAGE_VERSION = '4.5.0';
 
 	/**
 	 * HTML container ID for the IDC screen on My Jetpack page.
@@ -204,10 +204,6 @@ class Initializer {
 				'isStatsModuleActive'   => $modules->is_active( 'stats' ),
 				'welcomeBanner'         => array(
 					'hasBeenDismissed' => \Jetpack_Options::get_option( 'dismissed_welcome_banner', false ),
-				),
-				'jetpackManage'         => array(
-					'isEnabled'       => Jetpack_Manage::could_use_jp_manage(),
-					'isAgencyAccount' => Jetpack_Manage::is_agency_account(),
 				),
 			)
 		);
