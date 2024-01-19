@@ -10,7 +10,7 @@
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
 		"automattic/jetpack-changelogger": "^4.0.5",
-		"automattic/jetpack-status": "^2.1.0-alpha",
+		"automattic/jetpack-status": "^2.1.0",
 		"automattic/wordbless": "@dev"
 	},
 	"suggest": {

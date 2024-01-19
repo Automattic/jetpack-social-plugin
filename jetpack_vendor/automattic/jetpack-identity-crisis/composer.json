@@ -7,7 +7,7 @@
 		"php": ">=7.0",
 		"automattic/jetpack-connection": "^2.2.0",
 		"automattic/jetpack-constants": "^2.0.0",
-		"automattic/jetpack-status": "^2.1.0-alpha",
+		"automattic/jetpack-status": "^2.1.0",
 		"automattic/jetpack-logo": "^2.0.0",
 		"automattic/jetpack-assets": "^2.0.4"
 	},
