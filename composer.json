@@ -12,13 +12,13 @@
 		"automattic/jetpack-identity-crisis": "^0.15.0",
 		"automattic/jetpack-publicize": "^0.40.0",
 		"automattic/jetpack-connection": "^2.2.0",
-		"automattic/jetpack-my-jetpack": "^4.6.2-alpha",
+		"automattic/jetpack-my-jetpack": "^4.6.2",
 		"automattic/jetpack-sync": "^2.4.2",
 		"automattic/jetpack-status": "^2.1.0",
 		"automattic/jetpack-plans": "^0.4.1"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.1.0-alpha",
+		"automattic/jetpack-changelogger": "^4.1.0",
 		"automattic/wordbless": "0.4.2",
 		"yoast/phpunit-polyfills": "1.1.0",
 		"brain/monkey": "2.6.1"
