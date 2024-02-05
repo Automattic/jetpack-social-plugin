@@ -474,6 +474,10 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-meta-tags.php'
 	),
+	'Automattic\\Jetpack\\Social\\Note' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-note.php'
+	),
 	'Automattic\\Jetpack\\Social\\REST_Settings_Controller' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-rest-settings-controller.php'
