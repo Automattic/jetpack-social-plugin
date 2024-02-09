@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Register CPT for Social Notes.
 
 ### Changed
+- Tailored editor for social notes
 - Updated package dependencies.
 - Use Blog ID in links to WPCOM instead of site slug.
 
