@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added feature support for the new CPT to support activitypub.
 - Implemented titless permalink fixes.
 - Register CPT for Social Notes.
+- Social: Added archive page support to notes
 
 ### Changed
 - Tailored editor for social notes
