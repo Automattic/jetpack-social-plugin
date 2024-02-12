@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added feature support for the new CPT to support activitypub.
 - Added fix for the post list screen for social notes.
 - Implemented titless permalink fixes.
+- New setting in /sties/$site/settings that is not relevant to this plugin.
 - Register CPT for Social Notes.
 - Social: Added archive page support to notes
 
