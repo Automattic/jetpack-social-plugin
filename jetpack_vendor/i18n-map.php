@@ -12,6 +12,14 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
       'ver' => '2.1.1',
     ),
+    'jetpack-boost-core' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-boost-core',
+      'ver' => '0.2.4',
+    ),
+    'jetpack-boost-speed-score' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-boost-speed-score',
+      'ver' => '0.3.4',
+    ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
       'ver' => '2.0.0',
@@ -38,7 +46,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '4.9.2',
+      'ver' => '4.10.0-alpha1707935417',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
