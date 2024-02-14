@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added a template lock to our Social Note CPT
 - Added feature support for the new CPT to support activitypub.
 - Added fix for the post list screen for social notes.
 - Implemented titless permalink fixes.
