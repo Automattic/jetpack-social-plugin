@@ -23,6 +23,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Use Blog ID in links to WPCOM instead of site slug.
 
+### Fixed
+- Fixed no title from showing up in og:title
+
 ## 4.0.0 - 2024-01-18
 ### Changed
 - Changed dismissed notices endpoint to be a core endpoint [#34544]
