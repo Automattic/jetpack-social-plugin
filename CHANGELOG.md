@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Tailored editor for social notes
 - Updated package dependencies.
+- Update package lock
 - Use Blog ID in links to WPCOM instead of site slug.
 
 ### Fixed
