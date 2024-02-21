@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Added archive page support to notes
 
 ### Changed
+- General: indicate compatibility with the upcoming version of WordPress, 6.5.
 - Tailored editor for social notes
 - Updated package dependencies.
 - Update package lock
