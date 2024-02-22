@@ -434,6 +434,14 @@ return array(
 		'version' => '0.3.1.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
 	),
+	'Automattic\\Jetpack\\Post_List\\Post_List' => array(
+		'version' => '0.6.0.0-alpha1708635303',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-list.php'
+	),
+	'Automattic\\Jetpack\\Post_List\\Post_Thumbnail' => array(
+		'version' => '0.6.0.0-alpha1708635303',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-thumbnail.php'
+	),
 	'Automattic\\Jetpack\\Publicize\\Auto_Conversion\\REST_Settings_Controller' => array(
 		'version' => '0.42.3.0-alpha1708595335',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/auto-conversion-settings/class-rest-settings-controller.php'

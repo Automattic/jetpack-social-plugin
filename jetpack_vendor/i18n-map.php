@@ -56,6 +56,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.3.1',
     ),
+    'jetpack-post-list' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-post-list',
+      'ver' => '0.6.0-alpha1708635303',
+    ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
       'ver' => '0.42.3-alpha1708595335',
