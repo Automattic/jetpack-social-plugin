@@ -8,7 +8,7 @@
 		"automattic/jetpack-a8c-mc-stats": "^2.0.0",
 		"automattic/jetpack-assets": "^2.1.1",
 		"automattic/jetpack-connection": "^2.3.1",
-		"automattic/jetpack-device-detection": "^2.1.0-alpha",
+		"automattic/jetpack-device-detection": "^2.1.0",
 		"automattic/jetpack-logo": "^2.0.0",
 		"automattic/jetpack-redirect": "^2.0.0",
 		"automattic/jetpack-status": "^2.1.0"
