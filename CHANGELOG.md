@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added a template lock to our Social Note CPT
 - Added feature support for the new CPT to support activitypub.
 - Added fix for the post list screen for social notes.
+- Added toggle to Social admin page for the Social Notes
 - Implemented titless permalink fixes.
 - New setting in /sties/$site/settings that is not relevant to this plugin.
 - Register CPT for Social Notes.
