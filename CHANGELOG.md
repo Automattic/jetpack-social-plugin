@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a template lock to our Social Note CPT
+- Added endpoint to update post meta
 - Added feature support for the new CPT to support activitypub.
 - Added fix for the post list screen for social notes.
 - Added toggle to Social admin page for the Social Notes

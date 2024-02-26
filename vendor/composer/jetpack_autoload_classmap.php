@@ -534,6 +534,10 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-rest-settings-controller.php'
 	),
+	'Automattic\\Jetpack\\Social\\REST_Social_Note_Controller' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-rest-social-note-controller.php'
+	),
 	'Automattic\\Jetpack\\Status' => array(
 		'version' => '2.1.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php'

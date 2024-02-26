@@ -135,6 +135,7 @@ return array(
     'Automattic\\Jetpack\\Social\\Meta_Tags' => $baseDir . '/src/class-meta-tags.php',
     'Automattic\\Jetpack\\Social\\Note' => $baseDir . '/src/class-note.php',
     'Automattic\\Jetpack\\Social\\REST_Settings_Controller' => $baseDir . '/src/class-rest-settings-controller.php',
+    'Automattic\\Jetpack\\Social\\REST_Social_Note_Controller' => $baseDir . '/src/class-rest-social-note-controller.php',
     'Automattic\\Jetpack\\Status' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php',
     'Automattic\\Jetpack\\Status\\Cache' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cache.php',
     'Automattic\\Jetpack\\Status\\Host' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php',
