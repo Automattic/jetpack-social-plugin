@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Added archive page support to notes
 
 ### Changed
+- Changed the admin page 'Write a post' button to primary if the site has connections
 - General: indicate compatibility with the upcoming version of WordPress, 6.5.
 - Social Notes: Added the post list enhancements
 - Tailored editor for social notes
