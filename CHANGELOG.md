@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Tailored editor for social notes
 - Updated package dependencies.
 - Update package lock
+- Update to the most recent version of the @automattic/calypso-color-schemes package.
 - Use Blog ID in links to WPCOM instead of site slug.
 
 ### Fixed
