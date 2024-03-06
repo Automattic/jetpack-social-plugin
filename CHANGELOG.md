@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed no title from showing up in og:title
+- Fixed og:title having word-breaks.
 
 ## 4.0.0 - 2024-01-18
 ### Changed
