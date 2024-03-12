@@ -5,12 +5,12 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^2.4.0"
+		"automattic/jetpack-connection": "^2.4.1-alpha"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^4.1.0"
+		"automattic/jetpack-changelogger": "^4.1.1-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
