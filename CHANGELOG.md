@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added support for comments on Social Notes
+- Trigger red bubble notification when bad install is detected
 
 ### Changed
 - Only show installation errors on plugins page
