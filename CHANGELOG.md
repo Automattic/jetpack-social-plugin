@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Update to the most recent version of the @automattic/calypso-color-schemes package.
 
 ### Fixed
+- Fixed typos
 - Prevent enqueuing of admin styles on the frontend
 
 ## 4.1.0 - 2024-03-07
