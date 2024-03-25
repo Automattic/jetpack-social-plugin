@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update to the most recent version of the @automattic/calypso-color-schemes package.
 
+### Fixed
+- Prevent enqueuing of admin styles on the frontend
+
 ## 4.1.0 - 2024-03-07
 ### Added
 - Added a template lock to our Social Note CPT [#35619]
