@@ -858,6 +858,10 @@ return array(
 		'version' => '3.0.4',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-shutdown-handler.php'
 	),
+	'Social_Shares' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-social-shares.php'
+	),
 	'Version_Loader' => array(
 		'version' => '3.0.4',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-version-loader.php'

@@ -14,4 +14,8 @@ return array(
 		'version' => '0.42.8.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/social-image-generator/utilities.php'
 	),
+	'3d6facae188ac62d1f8a943582feb57b' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/utils.php'
+	),
 );
