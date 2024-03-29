@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added functions to display share urls
 - Added support for comments on Social Notes
+- Packages: add version tracking for identity-crisis package.
 - Trigger red bubble notification when bad install is detected
 
 ### Changed
