@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Allow multiple paragraphs for Social Notes
+- Only show custom media picker for normal posts
 - Only show installation errors on plugins page
 - Updated package dependencies.
 - Update to the most recent version of the @automattic/calypso-color-schemes package.
