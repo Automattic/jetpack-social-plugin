@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Only show installation errors on plugins page
 - Simplified social network selection for post sharing
 - Updated package dependencies.
+- Update to the most recent version of Color Studio, 2.6.0.
 - Update to the most recent version of the @automattic/calypso-color-schemes package.
 
 ### Fixed
