@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^2.7.1-alpha",
 		"automattic/jetpack-autoloader": "^3.0.4",
 		"automattic/jetpack-config": "^2.0.1",
-		"automattic/jetpack-assets": "^2.1.7-alpha",
+		"automattic/jetpack-assets": "^2.1.7",
 		"automattic/jetpack-redirect": "^2.0.1",
 		"automattic/jetpack-plans": "^0.4.4-alpha"
 	},
