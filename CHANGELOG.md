@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Allow multiple paragraphs for Social Notes
 - Only show custom media picker for normal posts
 - Only show installation errors on plugins page
+- Removed the featured image block from the template
 - Simplified social network selection for post sharing
 - Updated package dependencies.
 - Update to the most recent version of Color Studio, 2.6.0.
