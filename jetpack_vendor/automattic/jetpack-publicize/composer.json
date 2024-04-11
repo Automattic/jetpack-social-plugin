@@ -6,7 +6,7 @@
 	"require": {
 		"php": ">=7.0",
 		"automattic/jetpack-connection": "^2.7.1",
-		"automattic/jetpack-autoloader": "^3.0.5-alpha",
+		"automattic/jetpack-autoloader": "^3.0.5",
 		"automattic/jetpack-config": "^2.0.1",
 		"automattic/jetpack-assets": "^2.1.7",
 		"automattic/jetpack-redirect": "^2.0.1",
@@ -14,7 +14,7 @@
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^4.2.0-alpha",
+		"automattic/jetpack-changelogger": "^4.2.0",
 		"automattic/wordbless": "0.4.2"
 	},
 	"suggest": {
