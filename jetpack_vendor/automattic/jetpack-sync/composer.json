@@ -10,11 +10,11 @@
 		"automattic/jetpack-identity-crisis": "^0.18.3",
 		"automattic/jetpack-password-checker": "^0.3.1",
 		"automattic/jetpack-ip": "^0.2.2",
-		"automattic/jetpack-roles": "^2.0.1",
-		"automattic/jetpack-status": "^2.2.1"
+		"automattic/jetpack-roles": "^2.0.2-alpha",
+		"automattic/jetpack-status": "^2.2.2-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.2.1",
+		"automattic/jetpack-changelogger": "^4.2.2-alpha",
 		"yoast/phpunit-polyfills": "1.1.0",
 		"automattic/wordbless": "@dev"
 	},
