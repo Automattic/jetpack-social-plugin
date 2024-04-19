@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Added a CTA button to create a social note
 - Disabled the Note config toggles while the API calls are pending
 
+### Changed
+- Update the Social sidebar share post panel to direct non-admin authors to user connection if there is no user connection.
+
 ## 4.2.0 - 2024-04-11
 ### Added
 - Added functions to display share urls [#36328]
