@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Disabled the Note config toggles while the API calls are pending
 
 ### Changed
+- General: update WordPress version requirements to WordPress 6.4.
 - Update the Social sidebar share post panel to direct non-admin authors to user connection if there is no user connection.
 
 ## 4.2.0 - 2024-04-11
