@@ -10,8 +10,8 @@
 		"automattic/jetpack-assets": "^2.1.8",
 		"automattic/jetpack-constants": "^2.0.1",
 		"automattic/jetpack-roles": "^2.0.2",
-		"automattic/jetpack-status": "^3.0.0-alpha",
-		"automattic/jetpack-redirect": "^2.0.1"
+		"automattic/jetpack-status": "^3.0.0",
+		"automattic/jetpack-redirect": "^2.0.2"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
