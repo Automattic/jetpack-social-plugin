@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - General: use wp_admin_notice function introduced in WP 6.4 to display notices.
 - Update the Social sidebar share post panel to direct non-admin authors to user connection if there is no user connection.
 
+### Fixed
+- Fixed timeouts in E2E tests
+
 ## 4.2.0 - 2024-04-11
 ### Added
 - Added functions to display share urls [#36328]
