@@ -9,7 +9,7 @@
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
-		"automattic/jetpack-changelogger": "^4.2.2",
+		"automattic/jetpack-changelogger": "^4.2.3-alpha",
 		"yoast/phpunit-polyfills": "1.1.0"
 	},
 	"suggest": {
