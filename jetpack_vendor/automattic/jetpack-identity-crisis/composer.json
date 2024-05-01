@@ -9,7 +9,7 @@
 		"automattic/jetpack-constants": "^2.0.2",
 		"automattic/jetpack-status": "^3.0.2-alpha",
 		"automattic/jetpack-logo": "^2.0.2",
-		"automattic/jetpack-assets": "^2.1.8"
+		"automattic/jetpack-assets": "^2.1.9-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.2",
