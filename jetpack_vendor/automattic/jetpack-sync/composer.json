@@ -16,6 +16,8 @@
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.2",
 		"yoast/phpunit-polyfills": "1.1.0",
+		"automattic/jetpack-search": "@dev",
+		"automattic/jetpack-waf": "^0.16.7-alpha",
 		"automattic/wordbless": "@dev"
 	},
 	"suggest": {
@@ -50,6 +52,12 @@
 		},
 		"branch-alias": {
 			"dev-trunk": "2.15.x-dev"
+		},
+		"dependencies": {
+			"test-only": [
+				"packages/search",
+				"packages/waf"
+			]
 		}
 	},
 	"config": {
