@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.4.2",
 		"automattic/jetpack-assets": "^2.1.9-alpha",
-		"automattic/jetpack-autoloader": "^3.0.6",
+		"automattic/jetpack-autoloader": "^3.0.7-alpha",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2-alpha",
 		"automattic/jetpack-identity-crisis": "^0.18.6-alpha",
