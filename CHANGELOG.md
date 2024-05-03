@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added a CTA button to create a social note
 - Added feature flag for new social admin ui
+- Added more E2E tests
 - Add Woocommerce event remove_order_items to Jetpack Sync
 - Disabled the Note config toggles while the API calls are pending
 
