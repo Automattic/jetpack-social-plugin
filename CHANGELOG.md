@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Added more E2E tests
 - Add Woocommerce event remove_order_items to Jetpack Sync
 - Disabled the Note config toggles while the API calls are pending
+- Social Admin page: Added connection management component
 
 ### Changed
 - General: update WordPress version requirements to WordPress 6.4.
