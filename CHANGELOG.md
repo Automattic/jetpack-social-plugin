@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a CTA button to create a social note
+- Added and rendered GlobalNotices component
 - Added feature flag for new social admin ui
 - Added more E2E tests
 - Add Woocommerce event remove_order_items to Jetpack Sync
