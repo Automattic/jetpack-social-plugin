@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the Social sidebar share post panel to direct non-admin authors to user connection if there is no user connection.
 
 ### Fixed
+- Adjusted the webpack config so the social icon colours are picked up by PostCSS
 - Fixed timeouts in E2E tests
 
 ## 4.2.0 - 2024-04-11
