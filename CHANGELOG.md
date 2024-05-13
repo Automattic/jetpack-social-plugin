@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Disabled the Note config toggles while the API calls are pending
 - Social: Added add connection modal
 - Social Admin page: Added connection management component
+- Social Limits: Added clarification of cycle reset
 
 ### Changed
 - General: update WordPress version requirements to WordPress 6.4.
