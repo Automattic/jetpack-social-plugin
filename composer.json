@@ -10,7 +10,7 @@
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2",
 		"automattic/jetpack-identity-crisis": "^0.18.6",
-		"automattic/jetpack-publicize": "^0.44.0-alpha",
+		"automattic/jetpack-publicize": "^0.44.0",
 		"automattic/jetpack-connection": "^2.8.0",
 		"automattic/jetpack-my-jetpack": "^4.23.2",
 		"automattic/jetpack-sync": "^2.16.1",
