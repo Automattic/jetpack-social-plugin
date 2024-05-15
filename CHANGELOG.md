@@ -15,7 +15,6 @@ This is an alpha version! The changes listed here are not final.
 - Added and rendered GlobalNotices component
 - Added feature flag for new social admin ui
 - Added more E2E tests
-- Added the connection modal to the editor
 - Add Woocommerce event remove_order_items to Jetpack Sync
 - Disabled the Note config toggles while the API calls are pending
 - Social: Added add connection modal
