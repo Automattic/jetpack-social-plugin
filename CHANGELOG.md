@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Adjusted the webpack config so the social icon colours are picked up by PostCSS
+- Fixed CSS variables not loaded for modals on Social admin page
 - Fixed timeouts in E2E tests
 
 ## 4.2.0 - 2024-04-11
