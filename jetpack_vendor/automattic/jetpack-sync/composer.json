@@ -14,7 +14,7 @@
 		"automattic/jetpack-status": "^3.0.3"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.2.3",
+		"automattic/jetpack-changelogger": "^4.2.4-alpha",
 		"yoast/phpunit-polyfills": "1.1.0",
 		"automattic/jetpack-search": "@dev",
 		"automattic/jetpack-waf": "^0.16.7",

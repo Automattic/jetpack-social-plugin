@@ -19,7 +19,7 @@
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^4.2.3",
+		"automattic/jetpack-changelogger": "^4.2.4-alpha",
 		"automattic/wordbless": "@dev",
 		"automattic/jetpack-search": "@dev",
 		"automattic/jetpack-videopress": "@dev"
