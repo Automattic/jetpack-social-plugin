@@ -66,7 +66,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '2.16.4',
+      'ver' => '2.16.5-alpha1716311685',
     ),
   ),
 );
