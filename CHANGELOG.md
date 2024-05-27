@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.4.
 - General: use wp_admin_notice function introduced in WP 6.4 to display notices.
 - Remove explicit Plugin Install package dependency.
+- Social | Updated the connection test results endpoint for front-end
 - Updated package dependencies.
 - Update the Social sidebar share post panel to direct non-admin authors to user connection if there is no user connection.
 
