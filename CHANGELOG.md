@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Social | Updated the "Connect accounts" button to open connections modal
 - Social | Updated upgrade nudges to use the new plan
+- Updated package dependencies.
 - Uptaded the editor nudge text and logix
 
 ## 4.3.0 - 2024-05-29
