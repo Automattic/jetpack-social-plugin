@@ -5,15 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.4.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 4.4.0 - 2024-06-05
 ### Changed
-- Social | Updated the "Connect accounts" button to open connections modal
-- Social | Updated upgrade nudges to use the new plan
-- Updated package dependencies.
-- Uptaded the editor nudge text and logix
+- Social | Removed the top "Connect accounts" on the admin page [#37697]
+- Social | Updated upgrade nudges to use the new plan [#37638]
+- Updated package dependencies. [#37669]
+- Updated the editor nudge text and logic [#37644]
 
 ## 4.3.0 - 2024-05-29
 ### Added
