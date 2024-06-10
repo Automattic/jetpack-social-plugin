@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Change codebase to use clsx instead of classnames.
 - Move the admin upsell to the toggle section
+- Updated package dependencies.
 
 ### Fixed
 - Updated wp.org screenshots
