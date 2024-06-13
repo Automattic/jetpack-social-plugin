@@ -5,20 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.5.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 4.5.0 - 2024-06-13
 ### Changed
-- Change codebase to use clsx instead of classnames.
-- Move the admin upsell to the toggle section
-- Updated package dependencies.
+- Move the admin upsell to the toggle section [#37731]
+- Updated package dependencies. [#37767] [#37776] [#37796]
 
 ### Removed
-- Removed the social basic plan from the admin page
+- Removed the social basic plan from the admin page [#36846]
 
 ### Fixed
-- Updated wp.org screenshots
+- Updated wp.org screenshots [#37726]
 
 ## 4.4.0 - 2024-06-05
 ### Changed
