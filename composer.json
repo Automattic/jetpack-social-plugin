@@ -9,9 +9,9 @@
 		"automattic/jetpack-autoloader": "^3.0.8",
 		"automattic/jetpack-composer-plugin": "^2.0.2",
 		"automattic/jetpack-config": "^2.0.3",
-		"automattic/jetpack-publicize": "^0.46.0-alpha",
+		"automattic/jetpack-publicize": "^0.46.0",
 		"automattic/jetpack-connection": "^2.10.1",
-		"automattic/jetpack-my-jetpack": "^4.24.7-alpha",
+		"automattic/jetpack-my-jetpack": "^4.24.7",
 		"automattic/jetpack-sync": "^3.1.0",
 		"automattic/jetpack-status": "^3.3.0",
 		"automattic/jetpack-plans": "^0.4.7",
@@ -54,6 +54,7 @@
 		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
 		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -75,6 +76,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ4_5_0_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ4_5_0"
 	}
 }
