@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Move the admin upsell to the toggle section
 - Updated package dependencies.
 
+### Removed
+- Removed the social basic plan from the admin page
+
 ### Fixed
 - Updated wp.org screenshots
 
