@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Fixed
+- Fixed E2E tests navigating to block editor
 - Fixed the admin page pricing table not shown
 
 ## 4.5.0 - 2024-06-13
