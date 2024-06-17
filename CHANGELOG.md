@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed E2E tests navigating to block editor
 - Fixed the admin page pricing table not shown
+- Social: Fixed broken connections reconnect link to point it to new connections UI
 
 ## 4.5.0 - 2024-06-13
 ### Changed
