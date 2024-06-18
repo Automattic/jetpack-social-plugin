@@ -5,14 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.5.1-alpha - unreleased
+## 4.5.2-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Updated package dependencies.
 
 ### Fixed
 - Fixed E2E tests navigating to block editor
 - Fixed the admin page pricing table not shown
 - Social: Fixed broken connections reconnect link to point it to new connections UI
+
+## 4.5.1 - 2024-06-18
+### Fixed
+- My Jetpack: Update My Jetpack to a more stable version. [#37911]
 
 ## 4.5.0 - 2024-06-13
 ### Changed
