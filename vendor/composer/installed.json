@@ -914,17 +914,17 @@
         },
         {
             "name": "automattic/jetpack-my-jetpack",
-            "version": "v4.24.7",
-            "version_normalized": "4.24.7.0",
+            "version": "v4.25.1",
+            "version_normalized": "4.25.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Automattic/jetpack-my-jetpack.git",
-                "reference": "740d9357fd36b64fb3bc20a20d9261ee70868b04"
+                "reference": "1e0cb80e6aee01a6d7875954d0459377c38dc9f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Automattic/jetpack-my-jetpack/zipball/740d9357fd36b64fb3bc20a20d9261ee70868b04",
-                "reference": "740d9357fd36b64fb3bc20a20d9261ee70868b04",
+                "url": "https://api.github.com/repos/Automattic/jetpack-my-jetpack/zipball/1e0cb80e6aee01a6d7875954d0459377c38dc9f3",
+                "reference": "1e0cb80e6aee01a6d7875954d0459377c38dc9f3",
                 "shasum": ""
             },
             "require": {
@@ -949,7 +949,7 @@
             "suggest": {
                 "automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
             },
-            "time": "2024-06-13T08:48:58+00:00",
+            "time": "2024-06-17T23:12:23+00:00",
             "type": "jetpack-library",
             "extra": {
                 "autotagger": true,
@@ -959,7 +959,7 @@
                     "link-template": "https://github.com/Automattic/jetpack-my-jetpack/compare/${old}...${new}"
                 },
                 "branch-alias": {
-                    "dev-trunk": "4.24.x-dev"
+                    "dev-trunk": "4.25.x-dev"
                 },
                 "version-constants": {
                     "::PACKAGE_VERSION": "src/class-initializer.php"
@@ -984,7 +984,7 @@
             ],
             "description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
             "support": {
-                "source": "https://github.com/Automattic/jetpack-my-jetpack/tree/v4.24.7"
+                "source": "https://github.com/Automattic/jetpack-my-jetpack/tree/v4.25.1"
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-my-jetpack"
         },
