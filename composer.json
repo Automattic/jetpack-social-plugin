@@ -9,7 +9,7 @@
 		"automattic/jetpack-autoloader": "^3.0.8",
 		"automattic/jetpack-composer-plugin": "^2.0.2",
 		"automattic/jetpack-config": "^2.0.4",
-		"automattic/jetpack-publicize": "^0.47.1",
+		"automattic/jetpack-publicize": "^0.47.2-alpha",
 		"automattic/jetpack-connection": "^2.11.1",
 		"automattic/jetpack-my-jetpack": "^4.27.1",
 		"automattic/jetpack-sync": "^3.2.0-alpha",
