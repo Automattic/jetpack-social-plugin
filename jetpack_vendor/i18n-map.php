@@ -58,11 +58,11 @@ return array(
     ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
-      'ver' => '0.47.2-alpha1720168747',
+      'ver' => '0.47.2',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '3.2.0-alpha1720166530',
+      'ver' => '3.2.0',
     ),
   ),
 );
