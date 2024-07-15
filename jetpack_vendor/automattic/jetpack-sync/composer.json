@@ -16,7 +16,7 @@
 		"automattic/jetpack-changelogger": "^4.2.5",
 		"yoast/phpunit-polyfills": "1.1.0",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "^0.16.10",
+		"automattic/jetpack-waf": "^0.17.0-alpha",
 		"automattic/wordbless": "@dev"
 	},
 	"suggest": {
