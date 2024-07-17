@@ -5,13 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.5.3-alpha - unreleased
+## 5.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Removed unnecessary feature checks for social connections
 - Updated package dependencies.
+
+### Removed
+- General: update WordPress version requirements to WordPress 6.5.
 
 ## 4.5.2 - 2024-07-03
 ### Changed
