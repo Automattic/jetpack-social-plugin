@@ -11,10 +11,12 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Removed unnecessary feature checks for social connections
-- Updated package dependencies.
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
+
+### Fixed
+- Updated package dependencies.
 
 ## 4.5.2 - 2024-07-03
 ### Changed
