@@ -271,11 +271,11 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php'
 	),
 	'Automattic\\Jetpack\\ExPlat' => array(
-		'version' => '0.1.0.0',
+		'version' => '0.1.1.0-alpha1722363684',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-explat/src/class-explat.php'
 	),
 	'Automattic\\Jetpack\\ExPlat\\REST_Controller' => array(
-		'version' => '0.1.0.0',
+		'version' => '0.1.1.0-alpha1722363684',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-explat/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Files' => array(
