@@ -11,8 +11,8 @@
 		"automattic/jetpack-config": "^2.0.4",
 		"automattic/jetpack-publicize": "^0.47.4-alpha",
 		"automattic/jetpack-connection": "^2.11.2",
-		"automattic/jetpack-my-jetpack": "^4.30.0-alpha",
-		"automattic/jetpack-sync": "^3.4.0-alpha",
+		"automattic/jetpack-my-jetpack": "^4.30.1-alpha",
+		"automattic/jetpack-sync": "^3.4.0",
 		"automattic/jetpack-status": "^3.3.2",
 		"automattic/jetpack-plans": "^0.4.7",
 		"automattic/jetpack-post-list": "^0.6.2"
