@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
+- Removed the unused code for image auto-conversion from social store
 - Social | Removed the media auto-conversion UI
 
 ### Fixed
