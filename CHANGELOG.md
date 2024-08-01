@@ -5,20 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.0.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 5.0.0 - 2024-08-01
 ### Changed
-- Social: Removed unnecessary feature checks for social connections
+- Social: Removed unnecessary feature checks for social connections [#38216]
+- Updated package dependencies. [#38228] [#38235] [#38464]
 
 ### Removed
-- General: update WordPress version requirements to WordPress 6.5.
-- Removed the unused code for image auto-conversion from social store
-- Social | Removed the media auto-conversion UI
-
-### Fixed
-- Updated package dependencies.
+- General: update WordPress version requirements to WordPress 6.5. [#38382]
+- Removed the unused code for image auto-conversion from social store [#38609]
+- Social | Removed the media auto-conversion UI [#38497]
 
 ## 4.5.2 - 2024-07-03
 ### Changed
