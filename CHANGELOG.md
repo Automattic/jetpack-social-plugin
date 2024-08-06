@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added feature flag management for social
 
+### Fixed
+- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
+
 ## 5.0.0 - 2024-08-01
 ### Changed
 - Social: Removed unnecessary feature checks for social connections [#38216]
