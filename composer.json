@@ -12,7 +12,7 @@
 		"automattic/jetpack-publicize": "^0.48.0",
 		"automattic/jetpack-connection": "^2.11.3",
 		"automattic/jetpack-my-jetpack": "^4.32.0",
-		"automattic/jetpack-sync": "^3.4.1",
+		"automattic/jetpack-sync": "^3.5.0-alpha",
 		"automattic/jetpack-status": "^3.3.2",
 		"automattic/jetpack-plans": "^0.4.7",
 		"automattic/jetpack-post-list": "^0.6.2"
