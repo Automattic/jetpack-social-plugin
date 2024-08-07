@@ -153,6 +153,7 @@ return array(
     'Automattic\\Jetpack\\Publicize\\Social_Image_Generator\\Templates' => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/social-image-generator/class-templates.php',
     'Automattic\\Jetpack\\Redirect' => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
+    'Automattic\\Jetpack\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
     'Automattic\\Jetpack\\Social\\Meta_Tags' => $baseDir . '/src/class-meta-tags.php',
     'Automattic\\Jetpack\\Social\\Note' => $baseDir . '/src/class-note.php',
     'Automattic\\Jetpack\\Social\\REST_Settings_Controller' => $baseDir . '/src/class-rest-settings-controller.php',
