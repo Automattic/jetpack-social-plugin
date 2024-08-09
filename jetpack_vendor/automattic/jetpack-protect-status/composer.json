@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^2.11.4-alpha",
 		"automattic/jetpack-plugins-installer": "^0.4.0",
 		"automattic/jetpack-sync": "^3.5.1",
-		"automattic/jetpack-protect-models": "^0.1.0",
+		"automattic/jetpack-protect-models": "^0.2.0-alpha",
 		"automattic/jetpack-plans": "^0.4.7"
 	},
 	"require-dev": {
