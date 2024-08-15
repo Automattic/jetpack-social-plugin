@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-status": "^3.3.2"
+		"automattic/jetpack-status": "^3.3.3-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",

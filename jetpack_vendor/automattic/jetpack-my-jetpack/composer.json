@@ -8,18 +8,18 @@
 		"automattic/jetpack-admin-ui": "^0.4.2",
 		"automattic/jetpack-assets": "^2.3.2",
 		"automattic/jetpack-boost-speed-score": "^0.3.11",
-		"automattic/jetpack-connection": "^2.12.1",
+		"automattic/jetpack-connection": "^2.12.2-alpha",
 		"automattic/jetpack-explat": "^0.1.2",
 		"automattic/jetpack-jitm": "^3.1.16",
-		"automattic/jetpack-licensing": "^2.0.5",
+		"automattic/jetpack-licensing": "^2.0.6-alpha",
 		"automattic/jetpack-plugins-installer": "^0.4.1",
 		"automattic/jetpack-redirect": "^2.0.2",
 		"automattic/jetpack-constants": "^2.0.3",
 		"automattic/jetpack-plans": "^0.4.7",
-		"automattic/jetpack-status": "^3.3.2",
+		"automattic/jetpack-status": "^3.3.3-alpha",
 		"automattic/jetpack-sync": "^3.6.0",
-		"automattic/jetpack-protect-status": "^0.1.1",
-		"automattic/jetpack-waf": "^0.18.2"
+		"automattic/jetpack-protect-status": "^0.1.2-alpha",
+		"automattic/jetpack-waf": "^0.18.3-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
