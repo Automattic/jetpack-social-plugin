@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Social: Updated intial state logic to use the new consolidated initial state
 - Updated package dependencies.
 
+### Removed
+- Remove the unused Advanced plan nudge
+
 ## 5.1.0 - 2024-08-08
 ### Added
 - Added feature flag management for social [#38669]
