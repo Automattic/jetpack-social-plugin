@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Updated intial state logic to use the new consolidated initial state
+- Update composer lock file
 - Updated package dependencies.
 
 ### Removed
