@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Remove the unused Advanced plan nudge
 
+### Fixed
+- Revert recent SVG image optimizations.
+
 ## 5.1.0 - 2024-08-08
 ### Added
 - Added feature flag management for social [#38669]
