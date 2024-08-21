@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Remove the unused Advanced plan nudge
+- Social: Removed share limits UI and data logic
 
 ### Fixed
 - Revert recent SVG image optimizations.
