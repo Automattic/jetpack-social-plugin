@@ -6,10 +6,10 @@
 	"require": {
 		"php": ">=7.0",
 		"automattic/jetpack-admin-ui": "^0.4.2",
-		"automattic/jetpack-assets": "^2.3.3-alpha",
+		"automattic/jetpack-assets": "^2.3.3",
 		"automattic/jetpack-boost-speed-score": "^0.3.11",
-		"automattic/jetpack-connection": "^2.12.3-alpha",
-		"automattic/jetpack-explat": "^0.1.3-alpha",
+		"automattic/jetpack-connection": "^2.12.3",
+		"automattic/jetpack-explat": "^0.1.3",
 		"automattic/jetpack-jitm": "^3.1.17",
 		"automattic/jetpack-licensing": "^2.0.6",
 		"automattic/jetpack-plugins-installer": "^0.4.1",
@@ -17,7 +17,7 @@
 		"automattic/jetpack-constants": "^2.0.3",
 		"automattic/jetpack-plans": "^0.4.7",
 		"automattic/jetpack-status": "^3.3.3",
-		"automattic/jetpack-sync": "^3.7.0-alpha",
+		"automattic/jetpack-sync": "^3.7.0",
 		"automattic/jetpack-protect-status": "^0.1.2"
 	},
 	"require-dev": {
