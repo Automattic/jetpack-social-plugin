@@ -5,15 +5,15 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-constants": "^2.0.3"
+		"automattic/jetpack-constants": "^2.0.4-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
-		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^4.2.5",
+		"yoast/phpunit-polyfills": "^1.1.1",
+		"automattic/jetpack-changelogger": "^4.2.6-alpha",
 		"automattic/jetpack-connection": "@dev",
 		"automattic/jetpack-plans": "@dev",
-		"automattic/jetpack-ip": "^0.2.2"
+		"automattic/jetpack-ip": "^0.2.3-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
