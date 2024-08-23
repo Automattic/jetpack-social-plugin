@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-a8c-mc-stats": "^2.0.2-alpha",
-		"automattic/jetpack-status": "^3.3.4-alpha"
+		"automattic/jetpack-a8c-mc-stats": "^2.0.2",
+		"automattic/jetpack-status": "^3.3.4"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
