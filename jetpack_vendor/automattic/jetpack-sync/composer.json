@@ -16,7 +16,7 @@
 		"automattic/jetpack-changelogger": "^4.2.6",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "@dev",
+		"automattic/jetpack-waf": "^0.18.4-alpha",
 		"automattic/wordbless": "@dev"
 	},
 	"suggest": {
@@ -50,7 +50,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-sync/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "3.7.x-dev"
+			"dev-trunk": "3.8.x-dev"
 		},
 		"dependencies": {
 			"test-only": [
