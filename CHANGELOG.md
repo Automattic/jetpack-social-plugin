@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Moved PostPublishPanels component to publicize-components package
 - Social: Migrated shares data to the new script data
 - Social: Updated intial state logic to use the new consolidated initial state
+- Social: Updated the share status modal to render it globally
 - Update composer lock file
 - Updated package dependencies.
 
