@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Updated pricing table to clarify features
+
 ## 5.2.0 - 2024-08-29
 ### Changed
 - Admin menu: change order of Jetpack sub-menu items [#39095]
