@@ -15,7 +15,7 @@
 	},
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-boost-core": "^0.2.10"
+		"automattic/jetpack-boost-core": "^0.2.11"
 	},
 	"autoload": {
 		"classmap": [
