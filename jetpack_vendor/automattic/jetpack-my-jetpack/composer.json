@@ -17,7 +17,7 @@
 		"automattic/jetpack-constants": "^2.0.4",
 		"automattic/jetpack-plans": "^0.4.9",
 		"automattic/jetpack-status": "^3.3.4",
-		"automattic/jetpack-sync": "^3.9.1",
+		"automattic/jetpack-sync": "^3.10.0-alpha",
 		"automattic/jetpack-protect-status": "^0.1.4"
 	},
 	"require-dev": {
