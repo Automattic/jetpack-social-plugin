@@ -8,7 +8,7 @@
 		"automattic/jetpack-admin-ui": "^0.4.5",
 		"automattic/jetpack-assets": "^2.3.7",
 		"automattic/jetpack-boost-speed-score": "^0.3.12",
-		"automattic/jetpack-connection": "^4.0.0",
+		"automattic/jetpack-connection": "^4.0.1-alpha",
 		"automattic/jetpack-explat": "^0.1.7",
 		"automattic/jetpack-jitm": "^3.1.21",
 		"automattic/jetpack-licensing": "^2.0.9",
