@@ -5,7 +5,7 @@
  * @package automattic/jetpack-autoloader
  */
 
-namespace Automattic\Jetpack\Autoloader\jpc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ5_3_1_alpha\al3_0_10;
+namespace Automattic\Jetpack\Autoloader\jpc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ5_3_1_alpha\al3_1_0_alpha;
 
  // phpcs:ignore
 
@@ -55,6 +55,26 @@ class Version_Loader {
 		$this->classmap         = $classmap;
 		$this->psr4_map         = $psr4_map;
 		$this->filemap          = $filemap;
+	}
+
+	/**
+	 * Fetch the classmap.
+	 *
+	 * @since 3.1.0-alpha
+	 * @return array<string, array>
+	 */
+	public function get_class_map() {
+		return $this->classmap;
+	}
+
+	/**
+	 * Fetch the psr-4 mappings.
+	 *
+	 * @since 3.1.0-alpha
+	 * @return array<string, array>
+	 */
+	public function get_psr4_map() {
+		return $this->psr4_map;
 	}
 
 	/**
