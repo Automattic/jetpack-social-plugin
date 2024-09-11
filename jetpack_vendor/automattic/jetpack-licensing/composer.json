@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^4.0.2"
+		"automattic/jetpack-connection": "^4.0.3-alpha"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
