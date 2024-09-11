@@ -5,12 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.3.2-alpha - unreleased
+## 5.4.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+
+### Removed
+- Social: Cleaned up media auto-conversion backend logic
 
 ## 5.3.1 - 2024-09-06
 ### Changed

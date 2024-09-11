@@ -70,11 +70,11 @@ return array(
     ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
-      'ver' => '0.52.3',
+      'ver' => '0.53.0-alpha1726022383',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '3.12.0',
+      'ver' => '3.13.0-alpha1726022383',
     ),
   ),
 );
