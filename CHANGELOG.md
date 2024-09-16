@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Social: Migrated useAdminUiV1 feature flag to new script data
 - Updated package dependencies.
 
 ### Removed
