@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Social: adds hook for plugin developers to be able to pull social share URLs on save.
+
 ### Changed
 - Social: Migrated useAdminUiV1 feature flag to new script data
 - Updated package dependencies.
