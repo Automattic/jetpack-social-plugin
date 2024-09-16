@@ -18,7 +18,7 @@
 		"automattic/jetpack-plans": "^0.4.10",
 		"automattic/jetpack-status": "^4.0.1",
 		"automattic/jetpack-sync": "^3.13.0",
-		"automattic/jetpack-protect-status": "^0.1.5"
+		"automattic/jetpack-protect-status": "^0.2.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",

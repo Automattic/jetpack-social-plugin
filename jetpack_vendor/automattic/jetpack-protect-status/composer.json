@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^4.0.4-alpha",
 		"automattic/jetpack-plugins-installer": "^0.4.3",
 		"automattic/jetpack-sync": "^3.13.0",
-		"automattic/jetpack-protect-models": "^0.2.1",
+		"automattic/jetpack-protect-models": "^0.3.0-alpha",
 		"automattic/jetpack-plans": "^0.4.10"
 	},
 	"require-dev": {
@@ -43,7 +43,7 @@
 	"extra": {
 		"autotagger": true,
 		"branch-alias": {
-			"dev-trunk": "0.1.x-dev"
+			"dev-trunk": "0.2.x-dev"
 		},
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-protect-status/compare/v${old}...v${new}"
