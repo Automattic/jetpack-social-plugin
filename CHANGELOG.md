@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Social: Cleaned up media auto-conversion backend logic
 
+### Fixed
+- Social: Updated social previews button styles to fit the translated string
+
 ## 5.3.1 - 2024-09-06
 ### Changed
 - Internal updates.
