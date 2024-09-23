@@ -5,18 +5,18 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^5.0.0-alpha",
+		"automattic/jetpack-connection": "^5.0.0",
 		"automattic/jetpack-constants": "^2.0.4",
 		"automattic/jetpack-password-checker": "^0.3.2",
-		"automattic/jetpack-ip": "^0.3.0-alpha",
+		"automattic/jetpack-ip": "^0.3.0",
 		"automattic/jetpack-roles": "^2.0.3",
-		"automattic/jetpack-status": "^4.0.1"
+		"automattic/jetpack-status": "^4.0.2"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.6",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "@dev",
+		"automattic/jetpack-waf": "^0.19.0",
 		"automattic/wordbless": "@dev"
 	},
 	"suggest": {
