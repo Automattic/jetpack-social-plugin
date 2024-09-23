@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Connection: Removed deprecated method features_available
+- Connection: Removed features_enabled deprecated method
 - Social: Cleaned up media auto-conversion backend logic
 
 ### Fixed
