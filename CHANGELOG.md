@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Cleaned up media auto-conversion backend logic
 
 ### Fixed
+- My Jetpack: visual update to the GlobalNotice component look better on mobile.
 - Social: Updated social previews button styles to fit the translated string
 
 ## 5.3.1 - 2024-09-06
