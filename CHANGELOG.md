@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fixed share status tooltip text overflow
+
 ## 5.4.1 - 2024-10-02
 ### Changed
 - Internal updates.
