@@ -5,12 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.4.2-alpha - unreleased
+## 5.5.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added Bluesky to social previews
+- Social Notes: add support for the ActivityPub Reply-To block.
 
 ### Changed
 - Only include `wp-polyfill` as a script dependency when needed.
