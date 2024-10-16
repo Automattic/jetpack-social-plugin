@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Added Jetpack Beta's slug to Social OG conflicting plugins
 - Social: Fixed share status tooltip text overflow
 
 ## 5.4.1 - 2024-10-02
