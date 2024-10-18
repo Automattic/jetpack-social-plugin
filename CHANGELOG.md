@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Notes: add support for the ActivityPub Reply-To block.
 
 ### Changed
+- Initial State: Migrated URLs to script data
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated package dependencies.
 
