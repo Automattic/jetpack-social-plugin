@@ -5,23 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.5.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 5.5.0 - 2024-10-25
 ### Added
-- Added Bluesky to social previews
-- Social Notes: add support for the ActivityPub Reply-To block.
+- Added Bluesky to social previews [#39659]
+- Social Notes: add support for the ActivityPub Reply-To block. [#39738]
 
 ### Changed
-- General: indicate compatibility with the upcoming version of WordPress - 6.7.
-- Initial State: Migrated URLs to script data
-- Only include `wp-polyfill` as a script dependency when needed.
-- Updated package dependencies.
+- General: indicate compatibility with the upcoming version of WordPress - 6.7. [#39786]
+- Initial State: Migrated URLs to script data [#39797]
+- Only include `wp-polyfill` as a script dependency when needed. [#39629]
+- Updated package dependencies. [#39594] [#39653] [#39707]
 
 ### Fixed
-- Added Jetpack Beta's slug to Social OG conflicting plugins
-- Social: Fixed share status tooltip text overflow
+- Added Jetpack Beta's slug to Social OG conflicting plugins [#39792]
+- Social: Fixed share status tooltip text overflow [#39599]
 
 ## 5.4.1 - 2024-10-02
 ### Changed
