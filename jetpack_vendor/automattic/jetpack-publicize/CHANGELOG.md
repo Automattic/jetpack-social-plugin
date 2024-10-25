@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.55.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.55.0] - 2024-10-25
 ### Fixed
-- Social: Fix Bsky profile URL
+- Social: Fix Bsky profile URL [#39849]
 
 ## [0.54.4] - 2024-10-21
 ### Changed
@@ -743,7 +740,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package.json metadata.
 
-[0.55.0-alpha]: https://github.com/Automattic/jetpack-publicize/compare/v0.54.4...v0.55.0-alpha
+[0.55.0]: https://github.com/Automattic/jetpack-publicize/compare/v0.54.4...v0.55.0
 [0.54.4]: https://github.com/Automattic/jetpack-publicize/compare/v0.54.3...v0.54.4
 [0.54.3]: https://github.com/Automattic/jetpack-publicize/compare/v0.54.2...v0.54.3
 [0.54.2]: https://github.com/Automattic/jetpack-publicize/compare/v0.54.1...v0.54.2
