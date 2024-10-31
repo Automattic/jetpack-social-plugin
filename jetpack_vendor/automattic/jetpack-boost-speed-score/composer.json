@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^4.2.7",
+		"automattic/jetpack-changelogger": "^4.2.8-alpha",
 		"brain/monkey": "^2.6"
 	},
 	"autoload-dev": {
@@ -15,7 +15,7 @@
 	},
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-boost-core": "^0.2.13"
+		"automattic/jetpack-boost-core": "^0.2.14-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -25,6 +25,9 @@
 	"scripts": {
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
+		],
+		"test-coverage": [
+			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/php/clover.xml\""
 		],
 		"test-php": [
 			"@composer phpunit"

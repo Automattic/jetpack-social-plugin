@@ -5,16 +5,16 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^5.1.5",
-		"automattic/jetpack-autoloader": "^3.1.2",
+		"automattic/jetpack-connection": "^5.1.6-alpha",
+		"automattic/jetpack-autoloader": "^3.1.3-alpha",
 		"automattic/jetpack-config": "^2.0.4",
-		"automattic/jetpack-assets": "^2.3.12",
-		"automattic/jetpack-redirect": "^2.0.4",
-		"automattic/jetpack-plans": "^0.4.12"
+		"automattic/jetpack-assets": "^2.3.13-alpha",
+		"automattic/jetpack-redirect": "^2.0.5-alpha",
+		"automattic/jetpack-plans": "^0.4.13-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^4.2.7",
+		"automattic/jetpack-changelogger": "^4.2.8-alpha",
 		"automattic/wordbless": "0.4.2"
 	},
 	"suggest": {
@@ -32,6 +32,9 @@
 	"scripts": {
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
+		],
+		"test-coverage": [
+			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/php/clover.xml\""
 		],
 		"test-php": [
 			"@composer phpunit"

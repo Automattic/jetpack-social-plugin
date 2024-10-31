@@ -5,11 +5,11 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^5.1.5"
+		"automattic/jetpack-connection": "^5.1.6-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^4.2.7"
+		"automattic/jetpack-changelogger": "^4.2.8-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -20,11 +20,15 @@
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
 		],
+		"test-coverage": [
+			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/php/clover.xml\"",
+			"pnpm run test-coverage"
+		],
 		"test-php": [
 			"@composer phpunit"
 		],
 		"test-js": [
-			"echo 'Run `pnpm run test` when ready'"
+			"pnpm run test"
 		],
 		"test-js-watch": [
 			"Composer\\Config::disableProcessTimeout",
