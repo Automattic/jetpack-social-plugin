@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 
 ### Changed
+- My Jetpack: add experiment to the post-connection flow in My Jetpack.
 - Skip pricing page when connecting via block editor
 
 ### Removed
