@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 
 ### Fixed
+- Fixed dataviews styles imported in share status being added globally
 - Social: Fixed the Instagram max video length
 
 ## 5.5.1 - 2024-10-29
