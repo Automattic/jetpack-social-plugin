@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 
+### Changed
+- Social: Migrated Social Image Generator settings to new store
+
 ### Fixed
 - Fixed dataviews styles imported in share status being added globally
 - Social: Fixed the Instagram max video length

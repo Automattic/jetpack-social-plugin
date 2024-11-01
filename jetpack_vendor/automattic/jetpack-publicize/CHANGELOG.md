@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 
+### Changed
+- Social: Migrated Social Image Generator settings to new store
+
 ## [0.55.0] - 2024-10-25
 ### Fixed
 - Social: Fix Bsky profile URL [#39849]
