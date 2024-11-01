@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 
+### Fixed
+- Fix PHPUnit coverage warnings.
+
 ## [0.3.0] - 2024-09-23
 ### Added
 - IP Utils: added support for CIDR ranges. [#39425]
