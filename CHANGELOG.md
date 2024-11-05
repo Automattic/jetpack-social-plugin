@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Change order of connections.
 - Social: Migrated Social Image Generator settings to new store
+- Updated package dependencies.
 
 ### Fixed
 - Fixed dataviews styles imported in share status being added globally

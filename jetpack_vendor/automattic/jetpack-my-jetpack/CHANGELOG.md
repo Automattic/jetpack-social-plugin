@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
+### Changed
+- Updated package dependencies.
+
 ## [4.36.0] - 2024-11-04
 ### Added
 - Enable test coverage. [#39961]
