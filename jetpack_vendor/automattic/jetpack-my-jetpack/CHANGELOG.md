@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.37.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+
 ## [4.36.0] - 2024-11-04
 ### Added
 - Enable test coverage. [#39961]
@@ -1799,6 +1806,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Created package
 
+[4.37.0-alpha]: https://github.com/Automattic/jetpack-my-jetpack/compare/4.36.0...4.37.0-alpha
 [4.36.0]: https://github.com/Automattic/jetpack-my-jetpack/compare/4.35.16...4.36.0
 [4.35.16]: https://github.com/Automattic/jetpack-my-jetpack/compare/4.35.15...4.35.16
 [4.35.15]: https://github.com/Automattic/jetpack-my-jetpack/compare/4.35.14...4.35.15
