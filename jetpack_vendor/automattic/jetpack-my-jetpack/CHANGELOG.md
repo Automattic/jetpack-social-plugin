@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
 ### Changed
+- Admin: Updating deprecation notices.
 - Updated package dependencies.
 
 ## [4.36.0] - 2024-11-04
