@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Change order of connections.
+- Clean up unused TS types
 - Migrated social plugins settings to new script data
 - Social: Migrated Social Image Generator settings to new store
 - Updated package dependencies.
