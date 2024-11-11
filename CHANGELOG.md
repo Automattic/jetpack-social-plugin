@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Clean up unused TS types
 - Migrated social plugins settings to new script data
 - Social: Migrated Social Image Generator settings to new store
+- Social: Migrated the last bits of social store to new script data
 - Updated package dependencies.
 
 ### Fixed
