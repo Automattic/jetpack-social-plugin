@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed dataviews styles imported in share status being added globally
+- Fixed the inifite reload issue on Jetpack Sharing settings
 - Social: Fixed the Instagram max video length
 
 ## 5.5.1 - 2024-10-29
