@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.6.0-alpha - unreleased
+## 6.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -22,6 +22,9 @@ This is an alpha version! The changes listed here are not final.
 - Social: Migrated Social Image Generator settings to new store
 - Social: Migrated the last bits of social store to new script data
 - Updated package dependencies.
+
+### Removed
+- General: Update minimum WordPress version to 6.6.
 
 ### Fixed
 - Fixed dataviews styles imported in share status being added globally
