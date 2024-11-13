@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added a new toggle for UTM tracking
 
+### Removed
+- General: Update minimum PHP version to 7.2.
+
 ## [0.55.2] - 2024-11-11
 ### Changed
 - Social: Migrated social plugins settings to new script data. [#40032] [#40081]

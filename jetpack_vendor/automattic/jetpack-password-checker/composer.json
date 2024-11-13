@@ -4,10 +4,10 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.0"
+		"php": ">=7.2"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.2.8",
+		"automattic/jetpack-changelogger": "^5.0.0-alpha",
 		"automattic/wordbless": "@dev",
 		"yoast/phpunit-polyfills": "^1.1.1"
 	},
@@ -42,7 +42,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-password-checker/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.3.x-dev"
+			"dev-trunk": "0.4.x-dev"
 		}
 	},
 	"config": {

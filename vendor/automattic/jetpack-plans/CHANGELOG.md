@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Removed
+- General: Update minimum PHP version to 7.2.
+
 ## [0.4.13] - 2024-11-04
 ### Added
 - Enable test coverage. [#39961]
@@ -162,6 +169,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Deprecated
 - Moved the options class into Connection. [#24095]
 
+[0.5.0-alpha]: https://github.com/Automattic/jetpack-plans/compare/v0.4.13...v0.5.0-alpha
 [0.4.13]: https://github.com/Automattic/jetpack-plans/compare/v0.4.12...v0.4.13
 [0.4.12]: https://github.com/Automattic/jetpack-plans/compare/v0.4.11...v0.4.12
 [0.4.11]: https://github.com/Automattic/jetpack-plans/compare/v0.4.10...v0.4.11
