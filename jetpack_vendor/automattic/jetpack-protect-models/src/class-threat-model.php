@@ -113,7 +113,7 @@ class Threat_Model {
 	/**
 	 * The threat's extension information.
 	 *
-	 * @since 0.4.0-alpha
+	 * @since 0.4.0
 	 *
 	 * @var null|Extension_Model
 	 */

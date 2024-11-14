@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [6.0.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [6.0.0] - 2024-11-14
 ### Removed
-- General: Update minimum PHP version to 7.2.
+- General: Update minimum PHP version to 7.2. [#40147]
 
 ## [5.1.7] - 2024-11-11
 ### Changed
@@ -1250,7 +1247,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Separate the connection library into its own package.
 
-[6.0.0-alpha]: https://github.com/Automattic/jetpack-connection/compare/v5.1.7...v6.0.0-alpha
+[6.0.0]: https://github.com/Automattic/jetpack-connection/compare/v5.1.7...v6.0.0
 [5.1.7]: https://github.com/Automattic/jetpack-connection/compare/v5.1.6...v5.1.7
 [5.1.6]: https://github.com/Automattic/jetpack-connection/compare/v5.1.5...v5.1.6
 [5.1.5]: https://github.com/Automattic/jetpack-connection/compare/v5.1.4...v5.1.5

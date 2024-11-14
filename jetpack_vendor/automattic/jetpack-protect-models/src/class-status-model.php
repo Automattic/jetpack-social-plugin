@@ -35,7 +35,7 @@ class Status_Model {
 	/**
 	 * The current reported security threats.
 	 *
-	 * @since 0.4.0-alpha
+	 * @since 0.4.0
 	 *
 	 * @var array<Threat_Model>
 	 */
@@ -86,7 +86,7 @@ class Status_Model {
 	/**
 	 * The number of threats.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Count Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Count Status_Model::$threats instead.
 	 *
 	 * @var int
 	 */
@@ -95,7 +95,7 @@ class Status_Model {
 	/**
 	 * The number of plugin threats.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and count Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and count Status_Model::$threats instead.
 	 *
 	 * @var int
 	 */
@@ -104,7 +104,7 @@ class Status_Model {
 	/**
 	 * The number of theme threats.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and count Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and count Status_Model::$threats instead.
 	 *
 	 * @var int
 	 */
@@ -113,7 +113,7 @@ class Status_Model {
 	/**
 	 * WordPress core status.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and use Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and use Status_Model::$threats instead.
 	 *
 	 * @var object
 	 */
@@ -122,7 +122,7 @@ class Status_Model {
 	/**
 	 * Status themes.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and use Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and use Status_Model::$threats instead.
 	 *
 	 * @var array<Extension_Model>
 	 */
@@ -131,7 +131,7 @@ class Status_Model {
 	/**
 	 * Status plugins.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and use Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and use Status_Model::$threats instead.
 	 *
 	 * @var array<Extension_Model>
 	 */
@@ -140,7 +140,7 @@ class Status_Model {
 	/**
 	 * File threats.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and use Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and use Status_Model::$threats instead.
 	 *
 	 * @var array<Extension_Model>
 	 */
@@ -149,7 +149,7 @@ class Status_Model {
 	/**
 	 * Database threats.
 	 *
-	 * @deprecated 0.4.0-alpha This property is deprecated. Filter and use Status_Model::$threats instead.
+	 * @deprecated 0.4.0 This property is deprecated. Filter and use Status_Model::$threats instead.
 	 *
 	 * @var array<Extension_Model>
 	 */

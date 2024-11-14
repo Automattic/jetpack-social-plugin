@@ -5,17 +5,17 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^6.0.0-alpha",
-		"automattic/jetpack-autoloader": "^4.0.0-alpha",
-		"automattic/jetpack-config": "^3.0.0-alpha",
-		"automattic/jetpack-assets": "^3.0.0-alpha",
-		"automattic/jetpack-redirect": "^3.0.0-alpha",
-		"automattic/jetpack-plans": "^0.5.0-alpha",
-		"automattic/jetpack-status": "^5.0.0-alpha"
+		"automattic/jetpack-connection": "^6.0.0",
+		"automattic/jetpack-autoloader": "^4.0.0",
+		"automattic/jetpack-config": "^3.0.0",
+		"automattic/jetpack-assets": "^3.0.0",
+		"automattic/jetpack-redirect": "^3.0.0",
+		"automattic/jetpack-plans": "^0.5.0",
+		"automattic/jetpack-status": "^5.0.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^5.0.0-alpha",
+		"automattic/jetpack-changelogger": "^5.0.0",
 		"automattic/wordbless": "0.4.2"
 	},
 	"suggest": {
