@@ -10,10 +10,10 @@
 		"automattic/jetpack-password-checker": "^0.4.0",
 		"automattic/jetpack-ip": "^0.4.0",
 		"automattic/jetpack-roles": "^3.0.0",
-		"automattic/jetpack-status": "^5.0.0"
+		"automattic/jetpack-status": "^5.0.1-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^5.0.0",
+		"automattic/jetpack-changelogger": "^5.1.0-alpha",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-search": "@dev",
 		"automattic/jetpack-waf": "@dev",

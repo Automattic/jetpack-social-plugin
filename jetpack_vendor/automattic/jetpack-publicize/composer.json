@@ -6,16 +6,16 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.0.1-alpha",
-		"automattic/jetpack-autoloader": "^4.0.0",
+		"automattic/jetpack-autoloader": "^5.0.0-alpha",
 		"automattic/jetpack-config": "^3.0.0",
-		"automattic/jetpack-assets": "^3.0.0",
+		"automattic/jetpack-assets": "^4.0.0-alpha",
 		"automattic/jetpack-redirect": "^3.0.0",
 		"automattic/jetpack-plans": "^0.5.0",
-		"automattic/jetpack-status": "^5.0.0"
+		"automattic/jetpack-status": "^5.0.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^5.0.0",
+		"automattic/jetpack-changelogger": "^5.1.0-alpha",
 		"automattic/wordbless": "0.4.2"
 	},
 	"suggest": {
