@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Allow using application password for site registration.
 
+### Changed
+- Updated package dependencies.
+
 ## [6.0.1] - 2024-11-18
 ### Fixed
 - Work around a WP user caching bug (https://core.trac.wordpress.org/ticket/62003). [#40188]

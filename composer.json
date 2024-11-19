@@ -21,7 +21,7 @@
 		"automattic/jetpack-changelogger": "^5.1.0-alpha",
 		"automattic/wordbless": "0.4.2",
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"brain/monkey": "2.6.1"
+		"brain/monkey": "^2.6.2"
 	},
 	"autoload": {
 		"classmap": [

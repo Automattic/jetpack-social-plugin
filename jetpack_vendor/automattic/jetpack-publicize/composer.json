@@ -9,7 +9,7 @@
 		"automattic/jetpack-autoloader": "^5.0.0-alpha",
 		"automattic/jetpack-config": "^3.0.0",
 		"automattic/jetpack-assets": "^4.0.0-alpha",
-		"automattic/jetpack-redirect": "^3.0.0",
+		"automattic/jetpack-redirect": "^3.0.1-alpha",
 		"automattic/jetpack-plans": "^0.5.0",
 		"automattic/jetpack-status": "^5.0.1-alpha"
 	},
