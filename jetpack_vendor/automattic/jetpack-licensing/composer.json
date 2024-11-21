@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^6.1.0-alpha"
 	},
 	"require-dev": {
-		"automattic/wordbless": "@dev",
+		"automattic/wordbless": "^0.4.2",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-changelogger": "^5.1.0-alpha"
 	},

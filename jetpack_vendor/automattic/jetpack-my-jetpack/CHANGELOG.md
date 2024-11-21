@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Notices: do not display the Jetpack Manage banners for accounts enrolled into our agency program.
 - Remove creator card and update paid plan checks to account for growth
+- Updated dependencies.
 - Updated package dependencies.
 
 ## [5.0.1] - 2024-11-18

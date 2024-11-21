@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed some unused code for Social
 - Social: Migrated Social Image Generator settings to new store
 - Social: Migrated the last bits of social store to new script data
+- Updated dependencies.
 - Updated package dependencies.
 
 ### Removed

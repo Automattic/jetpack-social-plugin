@@ -7,14 +7,14 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.1.0-alpha",
 		"automattic/jetpack-plugins-installer": "^0.5.0",
-		"automattic/jetpack-sync": "^4.0.0",
-		"automattic/jetpack-protect-models": "^0.4.0",
-		"automattic/jetpack-plans": "^0.5.0"
+		"automattic/jetpack-sync": "^4.0.1-alpha",
+		"automattic/jetpack-protect-models": "^0.4.1-alpha",
+		"automattic/jetpack-plans": "^0.5.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-changelogger": "^5.1.0-alpha",
-		"automattic/wordbless": "dev-master"
+		"automattic/wordbless": "^0.4.2"
 	},
 	"autoload": {
 		"classmap": [

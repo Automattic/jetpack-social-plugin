@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Allow using application password for site registration.
 
 ### Changed
+- Updated dependencies.
 - Updated package dependencies.
 
 ## [6.0.1] - 2024-11-18
