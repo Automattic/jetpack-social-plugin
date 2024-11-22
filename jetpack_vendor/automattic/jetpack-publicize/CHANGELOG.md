@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated dependencies.
 - Updated package dependencies.
 
+### Fixed
+- Publicize: fix page-detection util methods to stop unnecessary API calls to wp.com
+
 ## [0.56.0] - 2024-11-18
 ### Added
 - Added a new toggle for UTM tracking [#39998]
