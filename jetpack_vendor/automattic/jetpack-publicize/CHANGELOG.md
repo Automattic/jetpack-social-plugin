@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Fixed initial state error in the editor for simple sites
 - Publicize: fix page-detection util methods to stop unnecessary API calls to wp.com
 
 ## [0.56.0] - 2024-11-18
