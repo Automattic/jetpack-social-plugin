@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [4.0.1-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [4.0.1] - 2024-11-25
 ### Changed
-- Updated dependencies.
+- Updated dependencies. [#40286]
 
 ## [4.0.0] - 2024-11-14
 ### Added
@@ -1350,7 +1347,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Packages: Move sync to a classmapped package
 
-[4.0.1-alpha]: https://github.com/Automattic/jetpack-sync/compare/v4.0.0...v4.0.1-alpha
+[4.0.1]: https://github.com/Automattic/jetpack-sync/compare/v4.0.0...v4.0.1
 [4.0.0]: https://github.com/Automattic/jetpack-sync/compare/v3.15.0...v4.0.0
 [3.15.0]: https://github.com/Automattic/jetpack-sync/compare/v3.14.4...v3.15.0
 [3.14.4]: https://github.com/Automattic/jetpack-sync/compare/v3.14.3...v3.14.4
