@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added linkedin warning
 - Enable test coverage.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+- Post share status in the editor is now immediately available on page load
 
 ### Changed
 - Change order of connections.
