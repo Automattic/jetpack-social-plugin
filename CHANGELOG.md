@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a new toggle for UTM tracking
+- Added linkedin warning
 - Enable test coverage.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
