@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed some unused code for Social
 - Social: Migrated Social Image Generator settings to new store
 - Social: Migrated the last bits of social store to new script data
+- Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated dependencies.
 - Updated package dependencies.
 
