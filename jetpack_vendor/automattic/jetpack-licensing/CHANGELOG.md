@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.2-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Exclude revoked licenses from results when filtering unattached licenses in `Licensing::get_user_licenses()`. Only unattached and valid licenses are now returned.
+
 ## [3.0.1] - 2024-11-25
 ### Changed
 - Updated dependencies. [#40286]
@@ -308,6 +315,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Licensing: Add support for Jetpack licenses
 
+[3.0.2-alpha]: https://github.com/Automattic/jetpack-licensing/compare/v3.0.1...v3.0.2-alpha
 [3.0.1]: https://github.com/Automattic/jetpack-licensing/compare/v3.0.0...v3.0.1
 [3.0.0]: https://github.com/Automattic/jetpack-licensing/compare/v2.0.12...v3.0.0
 [2.0.12]: https://github.com/Automattic/jetpack-licensing/compare/v2.0.11...v2.0.12
