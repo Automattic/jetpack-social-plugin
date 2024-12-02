@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: add animation during site connection to make it less confusing to users connecting their site for the first time.
 - My Jetpack: add loading animation to recommendations step.
 
+### Removed
+- My Jetpack: remove experiment code.
+
 ### Fixed
 - Fix My Jetpack recommendation card styling on mobile
 
