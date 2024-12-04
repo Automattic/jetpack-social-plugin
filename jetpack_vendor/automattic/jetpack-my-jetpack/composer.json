@@ -9,7 +9,7 @@
 		"automattic/jetpack-assets": "^4.0.1",
 		"automattic/jetpack-boost-speed-score": "^0.4.0",
 		"automattic/jetpack-connection": "^6.1.1",
-		"automattic/jetpack-explat": "^0.2.2-alpha",
+		"automattic/jetpack-explat": "^0.2.2",
 		"automattic/jetpack-jitm": "^4.0.2",
 		"automattic/jetpack-licensing": "^3.0.2",
 		"automattic/jetpack-plugins-installer": "^0.5.0",
@@ -18,7 +18,7 @@
 		"automattic/jetpack-plans": "^0.5.1",
 		"automattic/jetpack-status": "^5.0.1",
 		"automattic/jetpack-sync": "^4.0.2",
-		"automattic/jetpack-protect-status": "^0.4.0-alpha"
+		"automattic/jetpack-protect-status": "^0.4.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
