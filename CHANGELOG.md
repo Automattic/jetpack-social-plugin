@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Change order of connections.
 - Clean up unused TS types
 - Migrated social plugins settings to new script data
+- Moved the admin menu initialization to the init hook.
 - Readme: update documentation to mention all the social networks we support, including the newer ones.
 - Removed some unused code for Social
 - Resolved an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation.
