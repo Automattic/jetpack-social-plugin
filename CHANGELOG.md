@@ -37,6 +37,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.6.
 
 ### Fixed
+- E2E Tests: Only install single browser used by Playwright.
 - Fixed dataviews styles imported in share status being added globally
 - Fixed the inifite reload issue on Jetpack Sharing settings
 - Social: Fixed the Instagram max video length
