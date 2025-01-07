@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - Social admin page: Ensure the support link points to Jetpack support
 - Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated dependencies.
+- Updated E2E tests to use @wordpress/e2e-test-utils-playwright
 - Updated package dependencies.
 
 ### Removed
