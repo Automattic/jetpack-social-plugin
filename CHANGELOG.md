@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - E2E Tests: Only install single browser used by Playwright.
 - Fixed dataviews styles imported in share status being added globally
 - Fixed the inifite reload issue on Jetpack Sharing settings
+- Page & Post: Fix the layout on mobile when details are open
 - Social: Fixed the Instagram max video length
 
 ## 5.5.1 - 2024-10-29
