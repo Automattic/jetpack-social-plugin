@@ -39,6 +39,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - E2E Tests: Only install single browser used by Playwright.
+- Fixed an issue where we showed the license message even with a plan
 - Fixed dataviews styles imported in share status being added globally
 - Fixed the inifite reload issue on Jetpack Sharing settings
 - Page & Post: Fix the layout on mobile when details are open
