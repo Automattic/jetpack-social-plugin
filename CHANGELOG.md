@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - License: Social admin page header hides license link on WoA sites.
 
+### Fixed
+- Fixed wordpress.com log in error when connecting Social accounts
+
 ## 6.0.0 - 2025-01-14
 ### Added
 - Add Bluesky to social feature copy. [#40487]
