@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
 - License: Social admin page header hides license link on WoA sites.
+- Updated package dependencies.
 
 ### Fixed
 - Fixed wordpress.com log in error when connecting Social accounts
