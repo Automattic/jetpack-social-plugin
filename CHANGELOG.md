@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
 - License: Social admin page header hides license link on WoA sites.
+- Moved the Social admin page to the publicize-components package
 - Refactored Social Note settings to use core
 - Updated package dependencies.
 
