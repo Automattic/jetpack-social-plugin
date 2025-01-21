@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed wordpress.com log in error when connecting Social accounts
+- Fix publicize error in the editor due to malformed connections data
 
 ## 6.0.0 - 2025-01-14
 ### Added
