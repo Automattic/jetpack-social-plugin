@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Fixed profile links for LinkedIn connections
 - Fixed wordpress.com log in error when connecting Social accounts
 - Fix publicize error in the editor due to malformed connections data
 
