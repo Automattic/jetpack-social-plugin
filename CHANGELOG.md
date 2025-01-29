@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Moved Social admin page code and assets logic to publicize package
+- Move initial state from Social plugin to publicize package
 - Open Graph Meta Tags: do not display Jetpack's tags when the SEOPress plugin is active.
 - Updated package dependencies.
 
