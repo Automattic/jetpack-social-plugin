@@ -11,19 +11,19 @@
 		"automattic/jetpack-connection": "^6.3.2-alpha",
 		"automattic/jetpack-explat": "^0.2.5-alpha",
 		"automattic/jetpack-jitm": "^4.0.5-alpha",
-		"automattic/jetpack-licensing": "^3.0.3",
+		"automattic/jetpack-licensing": "^3.0.4-alpha",
 		"automattic/jetpack-plugins-installer": "^0.5.0",
 		"automattic/jetpack-redirect": "^3.0.1",
 		"automattic/jetpack-constants": "^3.0.1",
-		"automattic/jetpack-plans": "^0.5.1",
+		"automattic/jetpack-plans": "^0.5.2-alpha",
 		"automattic/jetpack-status": "^5.0.2",
 		"automattic/jetpack-sync": "^4.6.0-alpha",
-		"automattic/jetpack-protect-status": "^0.4.2"
+		"automattic/jetpack-protect-status": "^0.4.3-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-changelogger": "^5.1.0",
-		"automattic/wordbless": "^0.4.2"
+		"automattic/jetpack-test-environment": "@dev"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -58,9 +58,7 @@
 		"watch": [
 			"Composer\\Config::disableProcessTimeout",
 			"pnpm run watch"
-		],
-		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
-		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
+		]
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

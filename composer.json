@@ -14,12 +14,12 @@
 		"automattic/jetpack-my-jetpack": "^5.4.1-alpha",
 		"automattic/jetpack-sync": "^4.6.0-alpha",
 		"automattic/jetpack-status": "^5.0.2",
-		"automattic/jetpack-plans": "^0.5.1",
-		"automattic/jetpack-post-list": "^0.7.3"
+		"automattic/jetpack-plans": "^0.5.2-alpha",
+		"automattic/jetpack-post-list": "^0.7.4-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^5.1.0",
-		"automattic/wordbless": "0.4.2",
+		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"brain/monkey": "^2.6.2"
 	},
@@ -51,9 +51,7 @@
 		"watch": [
 			"Composer\\Config::disableProcessTimeout",
 			"pnpm run watch"
-		],
-		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
-		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
+		]
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
