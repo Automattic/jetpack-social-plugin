@@ -178,7 +178,6 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ6_2_0_alpha
         'Automattic\\Jetpack\\Publicize\\REST_API\\Connections_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-connections-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Connections_Post_Field' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-connections-post-field.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Proxy_Requests' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-proxy-requests.php',
-        'Automattic\\Jetpack\\Publicize\\REST_API\\Settings_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-settings-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/class-rest-controller.php',
         'Automattic\\Jetpack\\Publicize\\Services' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/class-services.php',
         'Automattic\\Jetpack\\Publicize\\Share_Limits' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/class-share-limits.php',
