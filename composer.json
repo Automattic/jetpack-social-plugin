@@ -15,7 +15,7 @@
 		"automattic/jetpack-sync": "^4.6.0-alpha",
 		"automattic/jetpack-status": "^5.0.3-alpha",
 		"automattic/jetpack-plans": "^0.5.2-alpha",
-		"automattic/jetpack-post-list": "^0.7.4-alpha"
+		"automattic/jetpack-post-list": "^0.8.0-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^5.1.0",

@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Enabled Social Post UI for WPCOM sites
+- Post List: Add a Copy Link Quick Action
 
 ### Changed
 - Moved Social admin page code and assets logic to publicize package
