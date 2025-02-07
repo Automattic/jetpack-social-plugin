@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Move settings endpoint to publicize package
 - Updated package dependencies.
 - Update the settings endppoint to use existing endpoints
+- Update the unowned section from a product grid to a product list
 
 ### Removed
 - Social Previews | Remove "Your post" section in favour of Social Post UI
