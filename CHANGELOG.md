@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
 - Moved Social admin page code and assets logic to publicize package
 - Move initial state from Social plugin to publicize package
+- Only register social/settings endpoint if Jetpack version does not have it
 - Open Graph Meta Tags: do not display Jetpack's tags when the SEOPress plugin is active.
 - Social: Enable new admin page for the Social plugn
 - Social post character limits are now dynamic based on selected connections
