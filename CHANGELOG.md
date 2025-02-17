@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Post List: Add a Copy Link Quick Action
 
 ### Changed
+- Connection: Display connection status on Users page independent of the SSO module.
 - External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
 - Moved Social admin page code and assets logic to publicize package
 - Move initial state from Social plugin to publicize package
