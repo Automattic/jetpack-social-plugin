@@ -31,6 +31,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Social Previews | Remove "Your post" section in favour of Social Post UI
 
+### Fixed
+- Social Previews | Fixed distorted image for Tumblr preview
+
 ## 6.1.0 - 2025-01-27
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0. [#41167]
