@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Previews | Remove "Your post" section in favour of Social Post UI
 
 ### Fixed
+- Code: Prevent dynamic class properties.
 - Social Previews | Fixed distorted image for Tumblr preview
 
 ## 6.1.0 - 2025-01-27
