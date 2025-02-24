@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enabled Social Post UI for WPCOM sites
 - Post List: Add a Copy Link Quick Action
+- Social: Updated the admin page for use by Editors and Authors
 
 ### Changed
 - Connection: Display connection status on Users page independent of the SSO module.
