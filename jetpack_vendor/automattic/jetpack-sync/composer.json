@@ -10,7 +10,7 @@
 		"automattic/jetpack-password-checker": "^0.4.3",
 		"automattic/jetpack-ip": "^0.4.2",
 		"automattic/jetpack-roles": "^3.0.2",
-		"automattic/jetpack-status": "^5.0.4"
+		"automattic/jetpack-status": "^5.0.5-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.0",
