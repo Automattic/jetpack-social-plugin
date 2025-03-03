@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Move settings endpoint to publicize package
 - Updated composer.lock
 - Updated package dependencies.
+- Update package dependencies.
 - Update the settings endppoint to use existing endpoints
 - Update the unowned section from a product grid to a product list
 
