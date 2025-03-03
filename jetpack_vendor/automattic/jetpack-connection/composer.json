@@ -5,10 +5,10 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-a8c-mc-stats": "^3.0.1",
-		"automattic/jetpack-admin-ui": "^0.5.3",
+		"automattic/jetpack-a8c-mc-stats": "^3.0.2-alpha",
+		"automattic/jetpack-admin-ui": "^0.5.4-alpha",
 		"automattic/jetpack-assets": "^4.0.9-alpha",
-		"automattic/jetpack-constants": "^3.0.2",
+		"automattic/jetpack-constants": "^3.0.3-alpha",
 		"automattic/jetpack-roles": "^3.0.2",
 		"automattic/jetpack-status": "^5.0.5-alpha",
 		"automattic/jetpack-redirect": "^3.0.2"
