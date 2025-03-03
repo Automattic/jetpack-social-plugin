@@ -7,9 +7,9 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.7.0-alpha",
 		"automattic/jetpack-plugins-installer": "^0.5.1",
-		"automattic/jetpack-sync": "^4.8.2",
-		"automattic/jetpack-protect-models": "^0.5.1",
-		"automattic/jetpack-plans": "^0.5.3"
+		"automattic/jetpack-sync": "^4.8.3-alpha",
+		"automattic/jetpack-protect-models": "^0.5.2-alpha",
+		"automattic/jetpack-plans": "^0.5.4-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
