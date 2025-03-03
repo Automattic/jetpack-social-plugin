@@ -12,7 +12,7 @@
 		"automattic/jetpack-explat": "^0.2.9-alpha",
 		"automattic/jetpack-jitm": "^4.2.0-alpha",
 		"automattic/jetpack-licensing": "^3.0.6-alpha",
-		"automattic/jetpack-plugins-installer": "^0.5.1",
+		"automattic/jetpack-plugins-installer": "^0.5.2-alpha",
 		"automattic/jetpack-redirect": "^3.0.3-alpha",
 		"automattic/jetpack-constants": "^3.0.3-alpha",
 		"automattic/jetpack-plans": "^0.5.4-alpha",
