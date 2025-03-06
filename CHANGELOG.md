@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Connection: Display connection status on Users page independent of the SSO module.
 - External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
+- Moved JS editor code from Jetpack and Social to Publicize package
 - Moved Social admin page code and assets logic to publicize package
 - Move initial state from Social plugin to publicize package
 - Only register social/settings endpoint if Jetpack version does not have it
