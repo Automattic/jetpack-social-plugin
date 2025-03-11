@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enabled Social Post UI for WPCOM sites
 - Post List: Add a Copy Link Quick Action
+- Publicize Components: Add the schedule button
 - Social: Updated the admin page for use by Editors and Authors
 
 ### Changed
