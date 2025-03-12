@@ -6,15 +6,16 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.7.4-alpha",
-		"automattic/jetpack-plugins-installer": "^0.5.2",
-		"automattic/jetpack-sync": "^4.8.3",
-		"automattic/jetpack-protect-models": "^0.5.2",
-		"automattic/jetpack-plans": "^0.5.4"
+		"automattic/jetpack-plugins-installer": "^0.5.3-alpha",
+		"automattic/jetpack-sync": "^4.8.4-alpha",
+		"automattic/jetpack-protect-models": "^0.5.3-alpha",
+		"automattic/jetpack-plans": "^0.5.5-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^6.0.0",
-		"automattic/jetpack-test-environment": "@dev"
+		"automattic/jetpack-changelogger": "^6.0.1-alpha",
+		"automattic/jetpack-test-environment": "@dev",
+		"automattic/phpunit-select-config": "^1.0.1-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -25,10 +26,10 @@
 		"build-development": "echo 'Add your build step to composer.json, please!'",
 		"build-production": "echo 'Add your build step to composer.json, please!'",
 		"phpunit": [
-			"./vendor/phpunit/phpunit/phpunit --colors=always"
+			"phpunit-select-config phpunit.#.xml.dist --colors=always"
 		],
 		"test-coverage": [
-			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-php \"$COVERAGE_DIR/php.cov\""
+			"php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\""
 		],
 		"test-php": [
 			"@composer phpunit"
