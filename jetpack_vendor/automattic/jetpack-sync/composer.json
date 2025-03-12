@@ -13,12 +13,12 @@
 		"automattic/jetpack-status": "^5.0.7-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.1-alpha",
+		"automattic/jetpack-changelogger": "^6.0.1",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-search": "@dev",
 		"automattic/jetpack-waf": "^0.23.6-alpha",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.1-alpha"
+		"automattic/phpunit-select-config": "^1.0.0"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."

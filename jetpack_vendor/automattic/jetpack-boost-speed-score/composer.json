@@ -5,9 +5,9 @@
 	"license": "GPL-2.0-or-later",
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^6.0.1-alpha",
+		"automattic/jetpack-changelogger": "^6.0.1",
 		"brain/monkey": "^2.6",
-		"automattic/phpunit-select-config": "^1.0.1-alpha"
+		"automattic/phpunit-select-config": "^1.0.0"
 	},
 	"autoload-dev": {
 		"psr-4": {
