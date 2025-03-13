@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Open Graph Meta Tags: do not display Jetpack's tags when the SEOPress plugin is active.
 - Social: Enable new admin page for the Social plugn
 - Social post character limits are now dynamic based on selected connections
+- Social | Migrate review prompt initial state to script data
 - Social | Move settings endpoint to publicize package
 - Updated composer.lock
 - Updated package dependencies.
