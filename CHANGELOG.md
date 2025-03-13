@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added the schedule share functionality to the share post modal
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enabled Social Post UI for WPCOM sites
 - Post List: Add a Copy Link Quick Action
