@@ -38,6 +38,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Social Previews | Remove "Your post" section in favour of Social Post UI
+- Social | Removed the old unused initial state
 
 ### Fixed
 - Code: Prevent dynamic class properties.
