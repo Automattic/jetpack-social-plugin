@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Code: Prevent dynamic class properties.
+- Fixed connecting LinkedIn company pages and Tumblr additional blogs
 - Social Previews | Fixed distorted image for Tumblr preview
 
 ## 6.1.0 - 2025-01-27
