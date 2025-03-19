@@ -5,12 +5,12 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^6.7.6",
+		"automattic/jetpack-connection": "^6.7.5",
 		"automattic/jetpack-constants": "^3.0.4",
 		"automattic/jetpack-password-checker": "^0.4.6",
 		"automattic/jetpack-ip": "^0.4.5",
 		"automattic/jetpack-roles": "^3.0.4",
-		"automattic/jetpack-status": "^5.0.9"
+		"automattic/jetpack-status": "^5.0.8"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.1",
