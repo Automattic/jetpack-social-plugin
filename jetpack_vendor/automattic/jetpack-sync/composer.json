@@ -5,20 +5,20 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^6.7.7-alpha",
-		"automattic/jetpack-constants": "^3.0.5-alpha",
-		"automattic/jetpack-password-checker": "^0.4.7-alpha",
-		"automattic/jetpack-ip": "^0.4.6-alpha",
-		"automattic/jetpack-roles": "^3.0.5-alpha",
-		"automattic/jetpack-status": "^5.0.10-alpha"
+		"automattic/jetpack-connection": "^6.7.7",
+		"automattic/jetpack-constants": "^3.0.5",
+		"automattic/jetpack-password-checker": "^0.4.7",
+		"automattic/jetpack-ip": "^0.4.6",
+		"automattic/jetpack-roles": "^3.0.5",
+		"automattic/jetpack-status": "^5.0.10"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.2-alpha",
+		"automattic/jetpack-changelogger": "^6.0.2",
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "^0.23.8-alpha",
+		"automattic/jetpack-waf": "@dev",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.1-alpha"
+		"automattic/phpunit-select-config": "^1.0.1"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
