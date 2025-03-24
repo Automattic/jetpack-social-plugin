@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^6.8.0-alpha",
+		"automattic/jetpack-connection": "^6.8.0",
 		"automattic/jetpack-constants": "^3.0.5",
 		"automattic/jetpack-password-checker": "^0.4.7",
 		"automattic/jetpack-ip": "^0.4.6",
@@ -16,7 +16,7 @@
 		"automattic/jetpack-changelogger": "^6.0.2",
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "@dev",
+		"automattic/jetpack-waf": "^0.23.8",
 		"automattic/jetpack-test-environment": "@dev",
 		"automattic/phpunit-select-config": "^1.0.1"
 	},
