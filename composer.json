@@ -10,10 +10,10 @@
 		"automattic/jetpack-composer-plugin": "^4.0.4",
 		"automattic/jetpack-config": "^3.1.0-alpha",
 		"automattic/jetpack-publicize": "^0.62.3",
-		"automattic/jetpack-connection": "^6.8.1",
+		"automattic/jetpack-connection": "^6.9.0-alpha",
 		"automattic/jetpack-my-jetpack": "^5.9.2-alpha",
 		"automattic/jetpack-sync": "^4.9.2",
-		"automattic/jetpack-status": "^5.0.10",
+		"automattic/jetpack-status": "^5.1.0-alpha",
 		"automattic/jetpack-plans": "^0.6.1",
 		"automattic/jetpack-post-list": "^0.8.10"
 	},
