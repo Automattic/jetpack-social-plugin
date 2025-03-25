@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Adds Account Protection initialization
 
+### Fixed
+- Fix arguments for jetpack_open_graph_tags filter
+
 ## 6.3.0 - 2025-03-21
 ### Added
 - My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack. [#42523]
