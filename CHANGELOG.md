@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Adds Account Protection initialization
 
+### Changed
+- Connection: Allow pre-selected login providers
+
 ### Fixed
 - Fix arguments for jetpack_open_graph_tags filter
 
