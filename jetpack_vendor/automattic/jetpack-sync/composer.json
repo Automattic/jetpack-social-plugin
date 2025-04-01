@@ -16,7 +16,7 @@
 		"automattic/jetpack-changelogger": "^6.0.3",
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "^0.24.0",
+		"automattic/jetpack-waf": "@dev",
 		"automattic/jetpack-test-environment": "@dev",
 		"automattic/phpunit-select-config": "^1.0.2"
 	},
