@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Connection: Allow pre-selected login providers
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
+- Update package dependencies.
 
 ### Fixed
 - Fix arguments for jetpack_open_graph_tags filter
