@@ -9,7 +9,7 @@
 		"automattic/jetpack-assets": "^4.0.17",
 		"automattic/jetpack-boost-speed-score": "^0.4.7",
 		"automattic/jetpack-connection": "^6.10.2",
-		"automattic/jetpack-explat": "^0.2.15-alpha",
+		"automattic/jetpack-explat": "^0.2.15",
 		"automattic/jetpack-jitm": "^4.2.11",
 		"automattic/jetpack-licensing": "^3.0.8",
 		"automattic/jetpack-plugins-installer": "^0.5.4",
