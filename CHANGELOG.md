@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Do not load in the editor if sharing is disabled
 - Fix arguments for jetpack_open_graph_tags filter
 
 ## 6.3.0 - 2025-03-21
