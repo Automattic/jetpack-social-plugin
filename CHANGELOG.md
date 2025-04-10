@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added more error logging.
 - Added Share status support for WPCOM sites
+- Adding My Jetpack tour.
 - Adds Account Protection initialization
 - Improve the onboarding experience of Jetpack guiding the users through a new onboarding process.
 
