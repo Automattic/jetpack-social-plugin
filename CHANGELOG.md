@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Connection: Allow pre-selected login providers
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
+- Improved the logic for share status
 - Update package dependencies.
 
 ### Fixed
