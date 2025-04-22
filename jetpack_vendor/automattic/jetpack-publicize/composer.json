@@ -10,7 +10,7 @@
 		"automattic/jetpack-autoloader": "^5.0.7-alpha",
 		"automattic/jetpack-config": "^3.1.0",
 		"automattic/jetpack-assets": "^4.0.19-alpha",
-		"automattic/jetpack-redirect": "^3.0.6",
+		"automattic/jetpack-redirect": "^3.0.7-alpha",
 		"automattic/jetpack-plans": "^0.7.1-alpha",
 		"automattic/jetpack-status": "^5.1.4-alpha"
 	},
@@ -18,7 +18,7 @@
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"automattic/jetpack-changelogger": "^6.0.5-alpha",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.2"
+		"automattic/phpunit-select-config": "^1.0.3-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."

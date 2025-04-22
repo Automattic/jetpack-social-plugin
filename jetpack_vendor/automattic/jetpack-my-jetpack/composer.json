@@ -11,9 +11,9 @@
 		"automattic/jetpack-connection": "^6.11.1-alpha",
 		"automattic/jetpack-explat": "^0.2.16",
 		"automattic/jetpack-jitm": "^4.2.14-alpha",
-		"automattic/jetpack-licensing": "^3.0.8",
+		"automattic/jetpack-licensing": "^3.0.9-alpha",
 		"automattic/jetpack-plugins-installer": "^0.5.4",
-		"automattic/jetpack-redirect": "^3.0.6",
+		"automattic/jetpack-redirect": "^3.0.7-alpha",
 		"automattic/jetpack-constants": "^3.0.8-alpha",
 		"automattic/jetpack-plans": "^0.7.1-alpha",
 		"automattic/jetpack-status": "^5.1.4-alpha",
@@ -24,7 +24,7 @@
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"automattic/jetpack-changelogger": "^6.0.5-alpha",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.2"
+		"automattic/phpunit-select-config": "^1.0.3-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
