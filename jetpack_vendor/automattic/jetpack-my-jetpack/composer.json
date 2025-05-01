@@ -6,10 +6,10 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-admin-ui": "^0.5.9-alpha",
-		"automattic/jetpack-assets": "^4.0.19",
+		"automattic/jetpack-assets": "^4.0.20-alpha",
 		"automattic/jetpack-boost-speed-score": "^0.4.8",
 		"automattic/jetpack-connection": "^6.11.2-alpha",
-		"automattic/jetpack-explat": "^0.2.17",
+		"automattic/jetpack-explat": "^0.2.18-alpha",
 		"automattic/jetpack-jitm": "^4.2.15-alpha",
 		"automattic/jetpack-licensing": "^3.0.9",
 		"automattic/jetpack-plugins-installer": "^0.5.5",
