@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.7.
 
 ### Fixed
+- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
 - My Jetpack: Fix social login getting stuck when email input not empty
 
 ## 6.4.0 - 2025-04-17
