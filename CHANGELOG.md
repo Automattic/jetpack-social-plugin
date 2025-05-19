@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- E2E Tests: Update config file encryption algorithm.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
 - My Jetpack: Optimize the images for onboarding slider for faster page load.
 - My Jetpack: Updated the onboarding UI, changing it to a single button
