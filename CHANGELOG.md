@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added option to set default image for Social Image Generator.
+
 ### Changed
 - E2E Tests: Update config file encryption algorithm.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
