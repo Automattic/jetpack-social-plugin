@@ -5,28 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 7.0.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 7.0.0 - 2025-05-22
 ### Added
-- Added option to set default image for Social Image Generator.
+- Added option to set default image for Social Image Generator. [#43461]
 
 ### Changed
-- E2E Tests: Update config file encryption algorithm.
-- jetpack-assets now requires jetpack-status so updating composer lock files.
-- My Jetpack: Optimize the images for onboarding slider for faster page load.
-- My Jetpack: Updated the onboarding UI, changing it to a single button
-- Update package dependencies.
+- E2E Tests: Update config file encryption algorithm. [#43523]
+- jetpack-assets now requires jetpack-status so updating composer lock files. [#43085]
+- My Jetpack: Optimize the images for onboarding slider for faster page load. [#43473]
+- My Jetpack: Updated the onboarding UI, changing it to a single button. [#43203]
+- Update package dependencies. [#43425]
 
 ### Removed
-- General: Update minimum WordPress version to 6.7.
+- General: Update minimum WordPress version to 6.7. [#43192]
 
 ### Fixed
-- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
-- My Jetpack: Fixed Onboarding UI responsiveness at 600px.
-- My Jetpack: Fix readability of license activation button on hover.
-- My Jetpack: Fix social login getting stuck when email input not empty
+- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor. [#43035]
+- My Jetpack: Fixed Onboarding UI responsiveness at 600px. [#43533]
+- My Jetpack: Fix readability of license activation button on hover. [#43550]
+- My Jetpack: Fix social login getting stuck when email input not empty. [#43158]
 
 ## 6.4.0 - 2025-04-17
 ### Added
