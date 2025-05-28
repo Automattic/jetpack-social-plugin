@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Hide backup failure notice when backups are deactivated.
 
+### Fixed
+- Fixed images in connections management not loading when concatenating JS.
+
 ## 7.0.0 - 2025-05-22
 ### Added
 - Added option to set default image for Social Image Generator. [#43461]
