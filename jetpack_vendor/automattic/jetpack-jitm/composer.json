@@ -7,8 +7,8 @@
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
 		"automattic/jetpack-assets": "^4.0.25",
-		"automattic/jetpack-connection": "^6.13.0",
-		"automattic/jetpack-device-detection": "^3.0.6",
+		"automattic/jetpack-connection": "^6.13.1-alpha",
+		"automattic/jetpack-device-detection": "^3.0.7-alpha",
 		"automattic/jetpack-logo": "^3.0.5",
 		"automattic/jetpack-redirect": "^3.0.7",
 		"automattic/jetpack-status": "^5.1.4"
