@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "^0.5.9",
+		"automattic/jetpack-admin-ui": "^0.5.10-alpha",
 		"automattic/jetpack-assets": "^4.0.25",
 		"automattic/jetpack-boost-speed-score": "^0.4.9",
 		"automattic/jetpack-connection": "^6.13.1-alpha",
