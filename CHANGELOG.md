@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Hide backup failure notice when backups are deactivated.
+- Update package dependencies.
 
 ### Fixed
 - Fixed images in connections management not loading when concatenating JS.
