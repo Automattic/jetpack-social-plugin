@@ -10,7 +10,7 @@
 		"automattic/jetpack-assets": "^4.0.25",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-roles": "^3.0.8",
-		"automattic/jetpack-status": "^5.1.4",
+		"automattic/jetpack-status": "^5.2.0-alpha",
 		"automattic/jetpack-redirect": "^3.0.7"
 	},
 	"require-dev": {
