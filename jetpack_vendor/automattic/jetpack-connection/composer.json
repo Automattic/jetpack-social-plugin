@@ -7,10 +7,10 @@
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
 		"automattic/jetpack-admin-ui": "^0.5.10",
-		"automattic/jetpack-assets": "^4.0.25",
+		"automattic/jetpack-assets": "^4.0.26",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-roles": "^3.0.8",
-		"automattic/jetpack-status": "^5.2.0-alpha",
+		"automattic/jetpack-status": "^5.2.0",
 		"automattic/jetpack-redirect": "^3.0.7"
 	},
 	"require-dev": {
