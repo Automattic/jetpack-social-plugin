@@ -22,7 +22,7 @@ return array(
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
-      'ver' => '3.1.0',
+      'ver' => '3.1.1-alpha1750336055',
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
