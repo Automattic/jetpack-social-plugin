@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed images in connections management not loading when concatenating JS.
 - Social Notes: update filter name to match recent changes in WordPress.
+- Social Previews: Fixed a bug with text overflowing with Mastodon.
 
 ## 7.0.0 - 2025-05-22
 ### Added
