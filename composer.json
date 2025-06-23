@@ -6,11 +6,11 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.5.10",
 		"automattic/jetpack-assets": "^4.0.28",
-		"automattic/jetpack-autoloader": "^5.0.7",
+		"automattic/jetpack-autoloader": "^5.0.8-alpha",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-publicize": "^0.65.5-alpha",
-		"automattic/jetpack-connection": "^6.13.7",
+		"automattic/jetpack-connection": "^6.13.8-alpha",
 		"automattic/jetpack-my-jetpack": "^5.16.5",
 		"automattic/jetpack-sync": "^4.14.1",
 		"automattic/jetpack-status": "^5.2.1",
