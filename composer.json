@@ -6,16 +6,16 @@
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.5.10",
 		"automattic/jetpack-assets": "^4.0.28",
-		"automattic/jetpack-autoloader": "^5.0.8-alpha",
+		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-publicize": "^0.65.5-alpha",
-		"automattic/jetpack-connection": "^6.13.8-alpha",
-		"automattic/jetpack-my-jetpack": "^5.16.5",
+		"automattic/jetpack-publicize": "^0.65.5",
+		"automattic/jetpack-connection": "^6.13.8",
+		"automattic/jetpack-my-jetpack": "^5.16.6",
 		"automattic/jetpack-sync": "^4.14.1",
-		"automattic/jetpack-status": "^5.3.0-alpha",
+		"automattic/jetpack-status": "^5.3.0",
 		"automattic/jetpack-plans": "^0.8.0",
-		"automattic/jetpack-post-list": "^0.8.19-alpha"
+		"automattic/jetpack-post-list": "^0.8.19"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.5",
