@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed images in connections management not loading when concatenating JS.
+- JITM: Fix ineffective caching due to expired plugin sync transient
 - Social Notes: update filter name to match recent changes in WordPress.
 - Social Previews: Fixed a bug with text overflowing with Mastodon.
 

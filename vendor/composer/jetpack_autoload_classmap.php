@@ -323,19 +323,19 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php'
 	),
 	'Automattic\\Jetpack\\JITMS\\JITM' => array(
-		'version' => '4.2.25.0',
+		'version' => '4.2.26.0-alpha1751297749',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php'
 	),
 	'Automattic\\Jetpack\\JITMS\\Post_Connection_JITM' => array(
-		'version' => '4.2.25.0',
+		'version' => '4.2.26.0-alpha1751297749',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php'
 	),
 	'Automattic\\Jetpack\\JITMS\\Pre_Connection_JITM' => array(
-		'version' => '4.2.25.0',
+		'version' => '4.2.26.0-alpha1751297749',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-pre-connection-jitm.php'
 	),
 	'Automattic\\Jetpack\\JITMS\\Rest_Api_Endpoints' => array(
-		'version' => '4.2.25.0',
+		'version' => '4.2.26.0-alpha1751297749',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-rest-api-endpoints.php'
 	),
 	'Automattic\\Jetpack\\Licensing' => array(
