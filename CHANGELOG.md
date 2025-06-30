@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Hide backup failure notice when backups are deactivated.
+- My Jetpack: Updating Stats card to include a chart for better analytics.
 - Update package dependencies.
 
 ### Fixed
