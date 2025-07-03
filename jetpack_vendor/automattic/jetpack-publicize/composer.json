@@ -6,10 +6,10 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-admin-ui": "^0.5.10",
-		"automattic/jetpack-connection": "^6.13.13",
+		"automattic/jetpack-connection": "^6.14.0-alpha",
 		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-assets": "^4.0.32",
+		"automattic/jetpack-assets": "^4.1.0-alpha",
 		"automattic/jetpack-redirect": "^3.0.7",
 		"automattic/jetpack-plans": "^0.8.0",
 		"automattic/jetpack-status": "^5.3.1"
@@ -63,7 +63,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-publicize/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.65.x-dev"
+			"dev-trunk": "0.66.x-dev"
 		}
 	},
 	"config": {
