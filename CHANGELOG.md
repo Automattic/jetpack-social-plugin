@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Notes: Add a fallback title for Social Notes, which can be customized via the 'jetpack_social_notes_default_title' filter.
 
 ### Changed
+- E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Hide backup failure notice when backups are deactivated.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
