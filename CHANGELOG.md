@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Fixd image validation when images sizes are customised.
 - Fixed images in connections management not loading when concatenating JS.
 - JITM: Fix ineffective caching due to expired plugin sync transient
 - Social Notes: update filter name to match recent changes in WordPress.
