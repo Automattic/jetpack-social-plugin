@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
+- Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Hide backup failure notice when backups are deactivated.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
