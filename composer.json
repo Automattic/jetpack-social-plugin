@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.5.10",
-		"automattic/jetpack-assets": "^4.2.0",
+		"automattic/jetpack-assets": "^4.3.0-alpha",
 		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
