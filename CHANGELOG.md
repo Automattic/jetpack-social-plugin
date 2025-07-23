@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Image Generator: do not use the latest post's Social Image as Open Graph Image tag on the home page.
 - Social Notes: update filter name to match recent changes in WordPress.
 - Social Previews: Fixed a bug with text overflowing with Mastodon.
+- Update JITMs to remove jQuery dependency
 
 ## 7.0.0 - 2025-05-22
 ### Added
