@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixd image validation when images sizes are customised.
 - Fixed images in connections management not loading when concatenating JS.
 - JITM: Fix ineffective caching due to expired plugin sync transient
+- My Jetpack: Fixing footer alignment for diconnected accounts.
 - Social Image Generator: do not use the latest post's Social Image as Open Graph Image tag on the home page.
 - Social Notes: update filter name to match recent changes in WordPress.
 - Social Previews: Fixed a bug with text overflowing with Mastodon.
