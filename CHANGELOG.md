@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Hide backup failure notice when backups are deactivated.
+- My Jetpack: Unify the user connection flow with a unified screen.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Sync: Ignore the ActivityPub Outbox CPT
 - Update package dependencies.
