@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixed images in connections management not loading when concatenating JS.
 - JITM: Fix ineffective caching due to expired plugin sync transient
 - My Jetpack: Fixing footer alignment for diconnected accounts.
+- My Jetpack: Prevent expiration alerts for products covered by active bundles
 - My Jetpack: Restoring plan purchase link.
 - Social Image Generator: do not use the latest post's Social Image as Open Graph Image tag on the home page.
 - Social Notes: update filter name to match recent changes in WordPress.
