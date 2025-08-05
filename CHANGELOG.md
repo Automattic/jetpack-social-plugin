@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added font option for Social Image Generator.
 - My Jetpack: Added analytics for empty product search results.
 - Social Notes: Add a fallback title for Social Notes, which can be customized via the 'jetpack_social_notes_default_title' filter.
 
