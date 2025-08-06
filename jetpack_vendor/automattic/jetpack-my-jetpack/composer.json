@@ -16,7 +16,7 @@
 		"automattic/jetpack-redirect": "^3.0.8",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-plans": "^0.9.1",
-		"automattic/jetpack-status": "^6.0.2-alpha",
+		"automattic/jetpack-status": "^6.0.2",
 		"automattic/jetpack-sync": "^4.18.0",
 		"automattic/jetpack-protect-status": "^0.7.1"
 	},
