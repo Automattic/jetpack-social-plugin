@@ -6,7 +6,7 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
-		"automattic/jetpack-status": "^6.0.3-alpha"
+		"automattic/jetpack-status": "^6.0.2"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
