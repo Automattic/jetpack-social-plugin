@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Fixed multisite availability check for restricted products and modules
 - Update dependencies.
+- Update package dependencies.
 
 ## 7.1.0 - 2025-08-05
 ### Added

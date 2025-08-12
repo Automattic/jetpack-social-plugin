@@ -5,11 +5,11 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-assets": "^4.3.3"
+		"automattic/jetpack-assets": "^4.3.4-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/jetpack-changelogger": "^6.0.5",
+		"automattic/jetpack-changelogger": "^6.0.6-alpha",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/phpunit-select-config": "^1.0.3"
 	},
