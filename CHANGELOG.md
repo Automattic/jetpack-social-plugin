@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Update package dependencies.
 
+### Fixed
+- Fixes an issue with Social where default image id could not be cleared.
+
 ## 7.1.0 - 2025-08-05
 ### Added
 - Social Image Generator: Add font option. [#44514]
