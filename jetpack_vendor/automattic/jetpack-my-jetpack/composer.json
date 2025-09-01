@@ -8,7 +8,7 @@
 		"automattic/jetpack-admin-ui": "^0.5.11",
 		"automattic/jetpack-assets": "^4.3.5",
 		"automattic/jetpack-boost-speed-score": "^0.4.10",
-		"automattic/jetpack-connection": "^6.18.5-alpha",
+		"automattic/jetpack-connection": "^6.18.5",
 		"automattic/jetpack-explat": "^0.3.8",
 		"automattic/jetpack-jitm": "^4.3.3",
 		"automattic/jetpack-licensing": "^3.1.0",
@@ -17,7 +17,7 @@
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-plans": "^0.10.0",
 		"automattic/jetpack-status": "^6.0.3",
-		"automattic/jetpack-sync": "^4.21.0-alpha",
+		"automattic/jetpack-sync": "^4.21.0",
 		"automattic/jetpack-protect-status": "^0.7.2"
 	},
 	"require-dev": {
