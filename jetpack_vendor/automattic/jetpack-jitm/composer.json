@@ -6,8 +6,8 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
-		"automattic/jetpack-assets": "^4.3.7-alpha",
-		"automattic/jetpack-connection": "^6.18.7-alpha",
+		"automattic/jetpack-assets": "^4.3.7",
+		"automattic/jetpack-connection": "^6.18.7",
 		"automattic/jetpack-device-detection": "^3.0.9",
 		"automattic/jetpack-logo": "^3.0.5",
 		"automattic/jetpack-redirect": "^3.0.9",
@@ -16,7 +16,7 @@
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "^6.0.7-alpha",
+		"automattic/jetpack-changelogger": "^6.0.7",
 		"automattic/phpunit-select-config": "^1.0.3"
 	},
 	"suggest": {
