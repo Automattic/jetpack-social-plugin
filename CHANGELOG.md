@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
+
 ## 7.2.0 - 2025-10-10
 ### Added
 - Add typecheck support for E2E tests. [#44788]
