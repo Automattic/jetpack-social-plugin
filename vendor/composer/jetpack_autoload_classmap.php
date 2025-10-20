@@ -67,51 +67,51 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Contracts\\Boost_API_Client' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/contracts/boost-api-client.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\Boost_API' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-boost-api.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\Cacheable' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-cacheable.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\Transient' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-transient.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\Url' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-url.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\Utils' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-utils.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Lib\\WPCOM_Boost_API_Client' => array(
-		'version' => '0.3.13.0',
+		'version' => '0.3.14.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-wpcom-boost-api-client.php'
 	),
 	'Automattic\\Jetpack\\Boost_Speed_Score\\Jetpack_Boost_Modules' => array(
-		'version' => '0.4.10.0',
+		'version' => '0.4.11.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-jetpack-boost-modules.php'
 	),
 	'Automattic\\Jetpack\\Boost_Speed_Score\\Speed_Score' => array(
-		'version' => '0.4.10.0',
+		'version' => '0.4.11.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score.php'
 	),
 	'Automattic\\Jetpack\\Boost_Speed_Score\\Speed_Score_Graph_History_Request' => array(
-		'version' => '0.4.10.0',
+		'version' => '0.4.11.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score-graph-history-request.php'
 	),
 	'Automattic\\Jetpack\\Boost_Speed_Score\\Speed_Score_History' => array(
-		'version' => '0.4.10.0',
+		'version' => '0.4.11.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score-history.php'
 	),
 	'Automattic\\Jetpack\\Boost_Speed_Score\\Speed_Score_Request' => array(
-		'version' => '0.4.10.0',
+		'version' => '0.4.11.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score-request.php'
 	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(
@@ -559,23 +559,23 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-vulnerability-model.php'
 	),
 	'Automattic\\Jetpack\\Protect_Status\\Plan' => array(
-		'version' => '0.7.4.0-alpha1760620421',
+		'version' => '0.7.4.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-plan.php'
 	),
 	'Automattic\\Jetpack\\Protect_Status\\Protect_Status' => array(
-		'version' => '0.7.4.0-alpha1760620421',
+		'version' => '0.7.4.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-protect-status.php'
 	),
 	'Automattic\\Jetpack\\Protect_Status\\REST_Controller' => array(
-		'version' => '0.7.4.0-alpha1760620421',
+		'version' => '0.7.4.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Protect_Status\\Scan_Status' => array(
-		'version' => '0.7.4.0-alpha1760620421',
+		'version' => '0.7.4.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-scan-status.php'
 	),
 	'Automattic\\Jetpack\\Protect_Status\\Status' => array(
-		'version' => '0.7.4.0-alpha1760620421',
+		'version' => '0.7.4.0-alpha1760965881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-status.php'
 	),
 	'Automattic\\Jetpack\\Publicize\\Connections' => array(
