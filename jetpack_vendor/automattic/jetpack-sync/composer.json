@@ -13,7 +13,7 @@
 		"automattic/jetpack-status": "^6.1.1"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.7",
+		"automattic/jetpack-changelogger": "^6.0.8-alpha",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-search": "@dev",
 		"automattic/jetpack-waf": "^0.27.6",
