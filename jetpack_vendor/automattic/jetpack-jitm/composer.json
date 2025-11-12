@@ -7,7 +7,7 @@
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
 		"automattic/jetpack-assets": "^4.3.12",
-		"automattic/jetpack-connection": "^6.19.5-alpha",
+		"automattic/jetpack-connection": "^6.19.5",
 		"automattic/jetpack-device-detection": "^3.3.0",
 		"automattic/jetpack-logo": "^3.0.5",
 		"automattic/jetpack-redirect": "^3.0.9",
@@ -16,7 +16,7 @@
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "^6.0.9-alpha",
+		"automattic/jetpack-changelogger": "^6.0.9",
 		"automattic/phpunit-select-config": "^1.0.3"
 	},
 	"suggest": {
