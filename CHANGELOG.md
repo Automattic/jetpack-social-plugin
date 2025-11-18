@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Don't translate product names.
 - Update package dependencies.
+- Update the connections list in the editor to a vertical toggle list with labels and icons.
 
 ### Fixed
 - Fix connection icon not reflecting the change when profile picture is updated.
