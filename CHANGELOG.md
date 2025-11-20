@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix connection icon not reflecting the change when profile picture is updated.
+- Jetpack: remove getIconColor functions for block icons
 - My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
 
 ## 7.2.0 - 2025-10-10
