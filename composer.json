@@ -18,7 +18,7 @@
 		"automattic/jetpack-post-list": "^0.8.33"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.9",
+		"automattic/jetpack-changelogger": "^6.0.10-alpha",
 		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"brain/monkey": "^2.6.2",
