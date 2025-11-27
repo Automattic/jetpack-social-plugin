@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Improve the sidebar by making titles more descriptive and combining sections.
 
+### Fixed
+- Fix e2e tests for link preview in the editor sidebar.
+
 ## 7.3.0 - 2025-11-21
 ### Added
 - Tested up to WordPress 6.9. [#45571]
