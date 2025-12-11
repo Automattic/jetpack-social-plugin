@@ -6,17 +6,17 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-a8c-mc-stats": "^3.0.5",
-		"automattic/jetpack-assets": "^4.3.16",
-		"automattic/jetpack-connection": "^6.19.11",
+		"automattic/jetpack-assets": "^4.3.17-alpha",
+		"automattic/jetpack-connection": "^6.19.12-alpha",
 		"automattic/jetpack-device-detection": "^3.3.0",
 		"automattic/jetpack-logo": "^3.0.5",
 		"automattic/jetpack-redirect": "^3.0.9",
-		"automattic/jetpack-status": "^6.1.1"
+		"automattic/jetpack-status": "^6.1.2-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "^6.0.11",
+		"automattic/jetpack-changelogger": "^6.0.12-alpha",
 		"automattic/phpunit-select-config": "^1.0.3"
 	},
 	"suggest": {
