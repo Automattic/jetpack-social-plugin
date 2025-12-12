@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add the new media selection UI for Social.
+- Reuse AI image generation in media section
 
 ### Changed
 - Improve the sidebar by making titles more descriptive and combining sections.
