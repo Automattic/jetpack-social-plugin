@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Improve the sidebar by making titles more descriptive and combining sections.
 
 ### Fixed
+- Fix connections management modal not opening from pre-publish panel.
 - Fix e2e tests for link preview in the editor sidebar.
 
 ## 7.3.0 - 2025-11-21
