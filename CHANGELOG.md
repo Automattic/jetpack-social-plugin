@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Improve the sidebar by making titles more descriptive and combining sections.
+- Social: Unified social provider preview.
 
 ### Fixed
 - Fix connections management modal not opening from pre-publish panel.
