@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Improve the sidebar by making titles more descriptive and combining sections.
 - Social: Unified social provider preview.
 
+### Removed
+- Remove the unused dismiss review endpoint.
+
 ### Fixed
 - Fix connections management modal not opening from pre-publish panel.
 - Fix e2e tests for link preview in the editor sidebar.
