@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix connections management modal not opening from pre-publish panel.
 - Fix e2e tests for link preview in the editor sidebar.
+- UI: Prevent the modals in editor from stretching too wide on large screens.
 
 ## 7.3.0 - 2025-11-21
 ### Added
