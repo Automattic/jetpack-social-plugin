@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add the new media selection UI for Social.
+- IDC: Add revalidation for IDCs.
 - Reuse AI image generation in media section
 
 ### Changed
