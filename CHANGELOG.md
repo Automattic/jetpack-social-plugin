@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Unified social provider preview.
 
 ### Removed
+- Remove the obsolete share limits logic.
 - Remove the unused dismiss review endpoint.
 
 ### Fixed
