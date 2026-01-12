@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Improve the sidebar by making titles more descriptive and combining sections.
 - Social: Unified social provider preview.
+- Update composer lock following Publicize changes.
 
 ### Removed
 - Remove the obsolete share limits logic.
