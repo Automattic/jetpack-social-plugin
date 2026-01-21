@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
+- Use fallback avatar for Jetpack Social connection icons.
 
 ### Fixed
 - Social Previews: Use fallback image when social preview profile picture fails.
