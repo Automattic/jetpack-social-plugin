@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
 
+### Fixed
+- Social Previews: Use fallback image when social preview profile picture fails.
+
 ## 7.4.0 - 2026-01-14
 ### Added
 - Add the new media selection UI for Social. [#46085]
