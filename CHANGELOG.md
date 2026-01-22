@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Show a snackbar while sharing is in progress.
+
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Use fallback avatar for Jetpack Social connection icons.
