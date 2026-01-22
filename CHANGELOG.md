@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
+- Refactor share status UI to use Notice component.
 - Use fallback avatar for Jetpack Social connection icons.
 
 ### Fixed
