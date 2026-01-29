@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-admin-ui": "^0.5.11",
-		"automattic/jetpack-assets": "^4.3.21",
+		"automattic/jetpack-assets": "^4.3.22-alpha",
 		"automattic/jetpack-autoloader": "^5.0.15",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
@@ -18,7 +18,7 @@
 		"automattic/jetpack-post-list": "^0.9.3"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.12",
+		"automattic/jetpack-changelogger": "^6.0.13-alpha",
 		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"brain/monkey": "^2.6.2",
