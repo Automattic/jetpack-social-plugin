@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Show a snackbar while sharing is in progress.
 
 ### Changed
+- Mark new connections as shared by default for privileged users.
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Refactor share status UI to use Notice component.
 - Update composer.lock.
