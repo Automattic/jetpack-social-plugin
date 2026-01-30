@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin.
+- Jetpack Social: Gate per-network customization behind paid features.
 - Show a snackbar while sharing is in progress.
 
 ### Changed
