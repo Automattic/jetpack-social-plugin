@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Refactor share status UI to use Notice component.
 - Update composer.lock.
 - Update package dependencies.
+- Update social post preview modal height.
 - Use fallback avatar for Jetpack Social connection icons.
 
 ### Removed
