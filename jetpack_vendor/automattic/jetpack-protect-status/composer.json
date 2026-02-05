@@ -7,7 +7,7 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^7.0.2",
 		"automattic/jetpack-plugins-installer": "^0.5.7",
-		"automattic/jetpack-sync": "^4.26.1-alpha",
+		"automattic/jetpack-sync": "^4.27.0-alpha",
 		"automattic/jetpack-protect-models": "^0.6.1",
 		"automattic/jetpack-plans": "^0.11.2"
 	},
