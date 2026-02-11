@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.8.
 
 ### Fixed
+- Refresh plan features on post-checkout redirect.
 - Social Previews: Use fallback image when social preview profile picture fails.
 
 ## 7.4.0 - 2026-01-14
