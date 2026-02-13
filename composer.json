@@ -15,10 +15,10 @@
 		"automattic/jetpack-sync": "^4.27.0",
 		"automattic/jetpack-status": "^6.1.2",
 		"automattic/jetpack-plans": "^0.11.2",
-		"automattic/jetpack-post-list": "^0.9.5"
+		"automattic/jetpack-post-list": "^0.9.6-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.14-alpha",
+		"automattic/jetpack-changelogger": "^6.0.14",
 		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"brain/monkey": "^2.6.2",
