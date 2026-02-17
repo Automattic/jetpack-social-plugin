@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.3.24',
+      'ver' => '4.3.25-alpha1771364022',
     ),
     'jetpack-boost-core' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-boost-core',
@@ -26,11 +26,11 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '7.1.0',
+      'ver' => '7.1.1-alpha1771364022',
     ),
     'jetpack-explat' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-explat',
-      'ver' => '0.4.11',
+      'ver' => '0.4.12-alpha1771364022',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
@@ -38,7 +38,7 @@ return array(
     ),
     'jetpack-jitm' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-jitm',
-      'ver' => '4.3.21',
+      'ver' => '4.3.22-alpha1771364022',
     ),
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
@@ -46,7 +46,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '5.31.3',
+      'ver' => '5.31.4-alpha1771364022',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-post-list' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-post-list',
-      'ver' => '0.9.6',
+      'ver' => '0.9.7-alpha1771364022',
     ),
     'jetpack-protect-models' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-models',
@@ -70,7 +70,7 @@ return array(
     ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
-      'ver' => '0.72.4-alpha1771346726',
+      'ver' => '0.72.4-alpha1771364022',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
