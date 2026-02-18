@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [5.31.4-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [5.31.4] - 2026-02-18
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#47173]
 
 ## [5.31.3] - 2026-02-16
 ### Changed
@@ -2538,7 +2535,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Created package
 
-[5.31.4-alpha]: https://github.com/Automattic/jetpack-my-jetpack/compare/5.31.3...5.31.4-alpha
+[5.31.4]: https://github.com/Automattic/jetpack-my-jetpack/compare/5.31.3...5.31.4
 [5.31.3]: https://github.com/Automattic/jetpack-my-jetpack/compare/5.31.2...5.31.3
 [5.31.2]: https://github.com/Automattic/jetpack-my-jetpack/compare/5.31.1...5.31.2
 [5.31.1]: https://github.com/Automattic/jetpack-my-jetpack/compare/5.31.0...5.31.1
