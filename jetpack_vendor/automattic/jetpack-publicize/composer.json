@@ -12,6 +12,7 @@
 		"automattic/jetpack-assets": "^4.3.25",
 		"automattic/jetpack-redirect": "^3.0.9",
 		"automattic/jetpack-plans": "^0.11.2",
+		"automattic/jetpack-post-media": "^0.1.0-alpha",
 		"automattic/jetpack-status": "^6.1.2"
 	},
 	"require-dev": {
