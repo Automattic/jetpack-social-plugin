@@ -6,6 +6,8 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Automattic\\Block_Delimiter' => $baseDir . '/jetpack_vendor/automattic/block-delimiter/src/class-block-delimiter.php',
+    'Automattic\\Block_Scanner' => $baseDir . '/jetpack_vendor/automattic/block-delimiter/src/class-block-scanner.php',
     'Automattic\\Jetpack\\A8c_Mc_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
     'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
     'Automattic\\Jetpack\\Assets' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php',
@@ -84,6 +86,11 @@ return array(
     'Automattic\\Jetpack\\IdentityCrisis\\UI' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-ui.php',
     'Automattic\\Jetpack\\IdentityCrisis\\URL_Secret' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-url-secret.php',
     'Automattic\\Jetpack\\Identity_Crisis' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php',
+    'Automattic\\Jetpack\\Image_CDN\\Image_CDN' => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn.php',
+    'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Core' => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-core.php',
+    'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image' => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image.php',
+    'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image_Sizes' => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image-sizes.php',
+    'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Setup' => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-setup.php',
     'Automattic\\Jetpack\\JITMS\\JITM' => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php',
     'Automattic\\Jetpack\\JITMS\\Post_Connection_JITM' => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php',
     'Automattic\\Jetpack\\JITMS\\Pre_Connection_JITM' => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-pre-connection-jitm.php',
@@ -136,6 +143,7 @@ return array(
     'Automattic\\Jetpack\\Post_List\\Post_List' => $baseDir . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-list.php',
     'Automattic\\Jetpack\\Post_List\\Post_Thumbnail' => $baseDir . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-thumbnail.php',
     'Automattic\\Jetpack\\Post_Media' => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-post-media.php',
+    'Automattic\\Jetpack\\Post_Media\\Images' => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-images.php',
     'Automattic\\Jetpack\\Post_Media\\Twitter_Cards' => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-twitter-cards.php',
     'Automattic\\Jetpack\\Protect_Models' => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-protect-models.php',
     'Automattic\\Jetpack\\Protect_Models\\Extension_Model' => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-extension-model.php',

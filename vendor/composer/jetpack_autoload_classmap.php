@@ -18,6 +18,14 @@ return array(
 		'version' => '5.0.16',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-autoloader-locator.php'
 	),
+	'Automattic\\Block_Delimiter' => array(
+		'version' => '0.3.5.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/block-delimiter/src/class-block-delimiter.php'
+	),
+	'Automattic\\Block_Scanner' => array(
+		'version' => '0.3.5.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/block-delimiter/src/class-block-scanner.php'
+	),
 	'Automattic\\Jetpack\\A8c_Mc_Stats' => array(
 		'version' => '3.0.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php'
@@ -330,6 +338,26 @@ return array(
 		'version' => '7.1.1.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php'
 	),
+	'Automattic\\Jetpack\\Image_CDN\\Image_CDN' => array(
+		'version' => '0.7.24.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn.php'
+	),
+	'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Core' => array(
+		'version' => '0.7.24.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-core.php'
+	),
+	'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image' => array(
+		'version' => '0.7.24.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image.php'
+	),
+	'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image_Sizes' => array(
+		'version' => '0.7.24.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image-sizes.php'
+	),
+	'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Setup' => array(
+		'version' => '0.7.24.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-setup.php'
+	),
 	'Automattic\\Jetpack\\JITMS\\JITM' => array(
 		'version' => '4.3.22.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php'
@@ -535,11 +563,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-thumbnail.php'
 	),
 	'Automattic\\Jetpack\\Post_Media' => array(
-		'version' => '0.1.0.0-alpha1771524107',
+		'version' => '0.1.0.0-alpha1771580300',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-post-media.php'
 	),
+	'Automattic\\Jetpack\\Post_Media\\Images' => array(
+		'version' => '0.1.0.0-alpha1771580300',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-images.php'
+	),
 	'Automattic\\Jetpack\\Post_Media\\Twitter_Cards' => array(
-		'version' => '0.1.0.0-alpha1771524107',
+		'version' => '0.1.0.0-alpha1771580300',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-twitter-cards.php'
 	),
 	'Automattic\\Jetpack\\Protect_Models' => array(
@@ -711,7 +743,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php'
 	),
 	'Automattic\\Jetpack\\Shortcodes' => array(
-		'version' => '0.1.0.0-alpha1771524107',
+		'version' => '0.1.0.0-alpha1771580300',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-post-media/src/class-shortcodes.php'
 	),
 	'Automattic\\Jetpack\\Social\\Meta_Tags' => array(

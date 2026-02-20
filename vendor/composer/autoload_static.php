@@ -29,6 +29,8 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ8_0_2_alpha
     );
 
     public static $classMap = array (
+        'Automattic\\Block_Delimiter' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/block-delimiter/src/class-block-delimiter.php',
+        'Automattic\\Block_Scanner' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/block-delimiter/src/class-block-scanner.php',
         'Automattic\\Jetpack\\A8c_Mc_Stats' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
         'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
         'Automattic\\Jetpack\\Assets' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php',
@@ -107,6 +109,11 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ8_0_2_alpha
         'Automattic\\Jetpack\\IdentityCrisis\\UI' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-ui.php',
         'Automattic\\Jetpack\\IdentityCrisis\\URL_Secret' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-url-secret.php',
         'Automattic\\Jetpack\\Identity_Crisis' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php',
+        'Automattic\\Jetpack\\Image_CDN\\Image_CDN' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn.php',
+        'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Core' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-core.php',
+        'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image.php',
+        'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Image_Sizes' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-image-sizes.php',
+        'Automattic\\Jetpack\\Image_CDN\\Image_CDN_Setup' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-image-cdn/src/class-image-cdn-setup.php',
         'Automattic\\Jetpack\\JITMS\\JITM' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php',
         'Automattic\\Jetpack\\JITMS\\Post_Connection_JITM' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php',
         'Automattic\\Jetpack\\JITMS\\Pre_Connection_JITM' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-jitm/src/class-pre-connection-jitm.php',
@@ -159,6 +166,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ8_0_2_alpha
         'Automattic\\Jetpack\\Post_List\\Post_List' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-list.php',
         'Automattic\\Jetpack\\Post_List\\Post_Thumbnail' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-post-list/src/class-post-thumbnail.php',
         'Automattic\\Jetpack\\Post_Media' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-post-media/src/class-post-media.php',
+        'Automattic\\Jetpack\\Post_Media\\Images' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-post-media/src/class-images.php',
         'Automattic\\Jetpack\\Post_Media\\Twitter_Cards' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-post-media/src/class-twitter-cards.php',
         'Automattic\\Jetpack\\Protect_Models' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-protect-models.php',
         'Automattic\\Jetpack\\Protect_Models\\Extension_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-extension-model.php',
