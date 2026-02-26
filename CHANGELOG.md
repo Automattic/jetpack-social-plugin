@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Fix Threads social preview for posts with gallery.
+
 ## 8.0.1 - 2026-02-19
 ### Added
 - Add visual dot to active connection in preview modal. [#47218]
