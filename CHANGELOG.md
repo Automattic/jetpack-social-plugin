@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix flaky E2E tests.
 - Fix Threads social preview for posts with gallery.
+- Fix TS errors detected by tsgo.
 
 ## 8.0.1 - 2026-02-19
 ### Added
