@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Admin Page: Restore border on header component.
 - Fix flaky E2E tests.
 - Fix Threads social preview for posts with gallery.
 - Fix TS errors detected by tsgo.
