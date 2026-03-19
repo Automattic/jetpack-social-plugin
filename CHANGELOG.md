@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Switch to Native TypeScript compiler based on Go.
 - Update package dependencies.
 
+### Removed
+- Remove post publish review prompt.
+
 ### Fixed
 - Admin Page: Restore border on header component.
 - Fix flaky E2E tests.
