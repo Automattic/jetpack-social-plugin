@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Dependencies: Update lock file to keep root requirements in sync.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Switch to Native TypeScript compiler based on Go.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Removed
