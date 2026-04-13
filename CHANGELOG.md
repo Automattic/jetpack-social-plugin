@@ -13,7 +13,6 @@ This is an alpha version! The changes listed here are not final.
 - Google Search Preview: Fix site icon not being shown on some sites.
 
 ### Changed
-- Comment: Add Tracking to Jetpack upsell link.
 - Dependencies: Update lock file to keep root requirements in sync.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Switch to Native TypeScript compiler based on Go.
