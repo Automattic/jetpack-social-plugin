@@ -7,10 +7,9 @@
 		"php": ">=7.2"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.14",
 		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.4"
+		"automattic/phpunit-select-config": "^1.0.5-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
