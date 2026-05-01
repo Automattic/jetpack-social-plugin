@@ -540,25 +540,10 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "4871c59bb94d5d3744b16e4f9af40a523594c98e"
+                "reference": "6c8288ac270d06f1e058e19d053babddb1bbf548"
             },
             "require": {
                 "php": ">=7.2"
-            },
-            "require-dev": {
-                "automattic/jetpack-account-protection": "@dev",
-                "automattic/jetpack-connection": "@dev",
-                "automattic/jetpack-import": "@dev",
-                "automattic/jetpack-jitm": "@dev",
-                "automattic/jetpack-post-list": "@dev",
-                "automattic/jetpack-publicize": "@dev",
-                "automattic/jetpack-search": "@dev",
-                "automattic/jetpack-stats": "@dev",
-                "automattic/jetpack-stats-admin": "@dev",
-                "automattic/jetpack-sync": "@dev",
-                "automattic/jetpack-videopress": "@dev",
-                "automattic/jetpack-waf": "@dev",
-                "automattic/jetpack-yoast-promo": "@dev"
             },
             "suggest": {
                 "automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -1976,16 +1961,14 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "351db788feacf2b3752eb8e5906c953afbe4e2d5"
+                "reference": "99f91ac72ef71e462d4344bbd05cf2e34548b6f2"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.9-alpha",
                 "php": ">=7.2"
             },
             "require-dev": {
-                "automattic/jetpack-connection": "@dev",
                 "automattic/jetpack-ip": "^0.4.11-alpha",
-                "automattic/jetpack-plans": "@dev",
                 "automattic/phpunit-select-config": "^1.0.5-alpha",
                 "brain/monkey": "^2.6.2",
                 "yoast/phpunit-polyfills": "^4.0.0"
@@ -2043,7 +2026,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "0ae399f9788c4a9bc7fa8b4cc3780928b0008754"
+                "reference": "250a0a5956b6ea3630a3f65d9346fe13b9d5ff27"
             },
             "require": {
                 "automattic/jetpack-connection": "^8.3.3-alpha",
@@ -2055,9 +2038,7 @@
                 "php": ">=7.2"
             },
             "require-dev": {
-                "automattic/jetpack-search": "@dev",
                 "automattic/jetpack-test-environment": "@dev",
-                "automattic/jetpack-waf": "^0.28.3-alpha",
                 "automattic/phpunit-select-config": "^1.0.5-alpha",
                 "yoast/phpunit-polyfills": "^4.0.0"
             },

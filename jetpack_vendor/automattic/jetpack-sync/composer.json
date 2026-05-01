@@ -14,8 +14,6 @@
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-waf": "^0.28.3-alpha",
 		"automattic/jetpack-test-environment": "@dev",
 		"automattic/phpunit-select-config": "^1.0.5-alpha"
 	},

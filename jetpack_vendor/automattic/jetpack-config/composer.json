@@ -6,21 +6,7 @@
 	"require": {
 		"php": ">=7.2"
 	},
-	"require-dev": {
-		"automattic/jetpack-connection": "@dev",
-		"automattic/jetpack-import": "@dev",
-		"automattic/jetpack-jitm": "@dev",
-		"automattic/jetpack-post-list": "@dev",
-		"automattic/jetpack-publicize": "@dev",
-		"automattic/jetpack-search": "@dev",
-		"automattic/jetpack-stats": "@dev",
-		"automattic/jetpack-stats-admin": "@dev",
-		"automattic/jetpack-sync": "@dev",
-		"automattic/jetpack-videopress": "@dev",
-		"automattic/jetpack-account-protection": "@dev",
-		"automattic/jetpack-waf": "@dev",
-		"automattic/jetpack-yoast-promo": "@dev"
-	},
+	"require-dev": {},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
 	},
