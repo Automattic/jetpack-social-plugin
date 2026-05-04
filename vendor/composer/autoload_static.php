@@ -193,7 +193,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ8_1_0_alpha
         'Automattic\\Jetpack\\Publicize\\REST_API\\Connections_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-connections-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Connections_Post_Field' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-connections-post-field.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Proxy_Requests' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-proxy-requests.php',
-        'Automattic\\Jetpack\\Publicize\\REST_API\\Render_Message_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-render-message-controller.php',
+        'Automattic\\Jetpack\\Publicize\\REST_API\\Render_Messages_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-render-messages-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Scheduled_Actions_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-scheduled-actions-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Services_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-services-controller.php',
         'Automattic\\Jetpack\\Publicize\\REST_API\\Share_Post_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-publicize/src/rest-api/class-share-post-controller.php',
