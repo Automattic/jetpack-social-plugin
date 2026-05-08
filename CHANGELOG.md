@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Admin Page: Restore border on header component.
+- Fall back to the site-wide social message template when no per-post share message is set.
 - Fix flaky E2E tests.
 - Fix Threads social preview for posts with gallery.
 - Fix TS errors detected by tsgo.
