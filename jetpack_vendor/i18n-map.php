@@ -82,7 +82,7 @@ return array(
     ),
     'jetpack-publicize-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-publicize',
-      'ver' => '0.81.0-alpha1779178862',
+      'ver' => '0.81.0-alpha1779178920',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
