@@ -6,7 +6,7 @@
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"brain/monkey": "^2.6",
-		"automattic/phpunit-select-config": "^1.0.6-alpha"
+		"automattic/phpunit-select-config": "^1.0.6"
 	},
 	"autoload-dev": {
 		"psr-4": {
@@ -15,7 +15,7 @@
 	},
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-boost-core": "^0.4.5-alpha"
+		"automattic/jetpack-boost-core": "^0.4.5"
 	},
 	"autoload": {
 		"classmap": [
