@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Switch to Native TypeScript compiler based on Go.
 - Tested up to WordPress 7.0.
 - Update design of the sidebar upsell.
+- Updated package dependencies.
 - Update package dependencies.
 
 ### Removed
