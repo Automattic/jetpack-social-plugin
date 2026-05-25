@@ -6,8 +6,8 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/block-delimiter": "^0.3.7",
-		"automattic/jetpack-connection": "^8.4.0-alpha",
-		"automattic/jetpack-image-cdn": "^0.7.27-alpha"
+		"automattic/jetpack-connection": "^8.4.0",
+		"automattic/jetpack-image-cdn": "^0.7.27"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
