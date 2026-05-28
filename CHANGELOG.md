@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Publicize: updated e2e connection spec to assert the 'Write a post' CTA as a button (role=button) rather than a link, to match the @wordpress/ui Button migration.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
+- Remove unneeded development and documentation files from the published plugin.
 - Switch to Native TypeScript compiler based on Go.
 - Tested up to WordPress 7.0.
 - Update design of the sidebar upsell.
