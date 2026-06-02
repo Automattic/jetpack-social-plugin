@@ -4,24 +4,24 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-admin-ui": "^0.8.8",
-		"automattic/jetpack-assets": "^4.3.39",
-		"automattic/jetpack-autoloader": "^5.0.18",
-		"automattic/jetpack-composer-plugin": "^4.0.7",
+		"automattic/jetpack-admin-ui": "^0.8.9-alpha",
+		"automattic/jetpack-assets": "^4.3.40-alpha",
+		"automattic/jetpack-autoloader": "^5.0.19-alpha",
+		"automattic/jetpack-composer-plugin": "^4.0.8-alpha",
 		"automattic/jetpack-config": "^3.1.3",
 		"automattic/jetpack-publicize": "^0.81.3-alpha",
-		"automattic/jetpack-connection": "^8.5.2",
+		"automattic/jetpack-connection": "^8.5.3-alpha",
 		"automattic/jetpack-my-jetpack": "^5.37.7-alpha",
-		"automattic/jetpack-sync": "^4.39.0",
-		"automattic/jetpack-status": "^6.1.5",
-		"automattic/jetpack-plans": "^0.11.7",
+		"automattic/jetpack-sync": "^4.39.1-alpha",
+		"automattic/jetpack-status": "^6.1.6-alpha",
+		"automattic/jetpack-plans": "^0.11.8-alpha",
 		"automattic/jetpack-post-list": "^0.9.20-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-test-environment": "@dev",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"brain/monkey": "^2.6.2",
-		"automattic/phpunit-select-config": "^1.0.6"
+		"automattic/phpunit-select-config": "^1.0.7-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -35,13 +35,11 @@
 		"phpunit": [
 			"phpunit-select-config phpunit.#.xml.dist --colors=always"
 		],
-		"test-coverage": "pnpm concurrently --names php,js 'php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\"' 'pnpm:test-coverage'",
-		"test-php": [
-			"@composer phpunit"
-		],
-		"test-js": [
-			"pnpm run test"
-		],
+		"test-coverage": "pnpm concurrently --names php,js 'composer test-php-coverage' 'composer test-js-coverage'",
+		"test-js": "pnpm run test",
+		"test-js-coverage": "pnpm run test-coverage",
+		"test-php": "@composer phpunit",
+		"test-php-coverage": "php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\"",
 		"build-development": [
 			"pnpm run build"
 		],
@@ -74,6 +72,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ9_0_0"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ9_0_1_alpha"
 	}
 }
