@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Fix PHP warnings on the front end of posts shared with the no link sharing option.
+
 ## 9.0.0 - 2026-06-01
 ### Added
 - Google Search Preview: Fix site icon not being shown on some sites. [#47551]
