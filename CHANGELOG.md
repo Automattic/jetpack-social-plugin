@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update composer.lock files.
+- Update package dependencies.
 
 ### Fixed
 - Fix PHP warnings on the front end of posts shared with the no link sharing option.
