@@ -1059,7 +1059,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
 	'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => array(
-		'version' => '0.1.13.0',
+		'version' => '0.1.14.0-alpha1781210840',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php'
 	),
 	'Container' => array(
