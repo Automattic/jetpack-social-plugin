@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update composer.lock files.
+- Updated package dependencies.
 - Update package dependencies.
 
 ### Fixed
