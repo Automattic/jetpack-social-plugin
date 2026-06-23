@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix PHP warnings on the front end of posts shared with the no link sharing option.
+- Social: contain errors in the post-publish sharing status panel so they no longer crash the editor.
 
 ## 9.0.0 - 2026-06-01
 ### Added
