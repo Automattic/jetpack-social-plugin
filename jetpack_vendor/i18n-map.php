@@ -56,9 +56,13 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
       'ver' => '3.1.9',
     ),
+    'jetpack-menu-badges' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-menu-badges',
+      'ver' => '0.1.0-alpha1783372613',
+    ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '5.40.5',
+      'ver' => '5.40.6-alpha1783372613',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
