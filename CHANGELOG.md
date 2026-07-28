@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
 - Social: the block editor sidebar now uses the same connection management UI as the Social admin page.
+- Surface a visible error when fetching the keyring result fails during a connection, instead of failing silently.
 - Update package dependencies.
 
 ## 9.0.3 - 2026-06-26
