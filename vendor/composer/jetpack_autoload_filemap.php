@@ -15,11 +15,11 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
 	),
 	'd9927a8ddcd8b3a40fb28c24213827ff' => array(
-		'version' => '0.84.3.0-alpha1785231707',
+		'version' => '0.84.3.0-alpha1785406906',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/actions.php'
 	),
 	'e6f7f640a6586216432b53e5c9d1b472' => array(
-		'version' => '0.84.3.0-alpha1785231707',
+		'version' => '0.84.3.0-alpha1785406906',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-publicize/src/social-image-generator/utilities.php'
 	),
 	'3d6facae188ac62d1f8a943582feb57b' => array(
