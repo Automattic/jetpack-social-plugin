@@ -30,6 +30,22 @@ return array(
 		'version' => '3.0.10.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php'
 	),
+	'Automattic\\Jetpack\\Activity_Log\\Initial_State' => array(
+		'version' => '0.2.2.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-initial-state.php'
+	),
+	'Automattic\\Jetpack\\Activity_Log\\Jetpack_Activity_Log' => array(
+		'version' => '0.2.2.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-jetpack-activity-log.php'
+	),
+	'Automattic\\Jetpack\\Activity_Log\\Package_Version' => array(
+		'version' => '0.2.2.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-package-version.php'
+	),
+	'Automattic\\Jetpack\\Activity_Log\\REST_Controller' => array(
+		'version' => '0.2.2.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-rest-controller.php'
+	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
 		'version' => '0.9.15.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
