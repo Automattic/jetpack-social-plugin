@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Surface a visible error when fetching the keyring result fails during a connection, instead of failing silently.
 - Update package dependencies.
 
+### Fixed
+- Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
+
 ## 9.0.3 - 2026-06-26
 ### Fixed
 - Fix fatal error on My Jetpack when the current stable Jetpack plugin is active. [#49994]
