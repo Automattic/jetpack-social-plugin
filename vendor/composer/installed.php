@@ -200,9 +200,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-my-jetpack' => array(
-            'pretty_version' => '5.44.0',
-            'version' => '5.44.0.0',
-            'reference' => 'd5c5ebdf3270559d9556f3b4348390169a242121',
+            'pretty_version' => '5.44.1-alpha.1787264423',
+            'version' => '5.44.1.0-alpha1787264423',
+            'reference' => '82eb62894dee069069fb86cd442943adfe4f2c8b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
