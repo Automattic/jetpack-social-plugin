@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 9.1.0-alpha - unreleased
+## 10.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -14,8 +14,10 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
+- General: Update minimum WordPress version to 7.0.
 - Social: the block editor sidebar now uses the same connection management UI as the Social admin page.
 - Surface a visible error when fetching the keyring result fails during a connection, instead of failing silently.
+- Tested up to WordPress 7.1.
 - Update package dependencies.
 
 ### Fixed
