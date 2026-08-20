@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
 - General: Update minimum WordPress version to 7.0.
+- My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Social: the block editor sidebar now uses the same connection management UI as the Social admin page.
 - Surface a visible error when fetching the keyring result fails during a connection, instead of failing silently.
 - Tested up to WordPress 7.1.
