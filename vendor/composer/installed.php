@@ -128,9 +128,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-device-detection' => array(
-            'pretty_version' => '3.4.5',
-            'version' => '3.4.5.0',
-            'reference' => '01db68a04c33227dbe3dcaa03fa020a270095bb1',
+            'pretty_version' => '3.4.6-alpha.1787549521',
+            'version' => '3.4.6.0-alpha1787549521',
+            'reference' => '4aa7abfbb8ea3dd0e913ae9c0754985adedb2a8e',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-device-detection',
             'aliases' => array(),
@@ -166,7 +166,7 @@
         'automattic/jetpack-jitm' => array(
             'pretty_version' => '4.3.52',
             'version' => '4.3.52.0',
-            'reference' => '317f6f2f9180bbfc91932bfcaca72ba88d271c2d',
+            'reference' => 'bd9e9a6d3ca257e2b4678d73398f18586587d998',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-jitm',
             'aliases' => array(),
