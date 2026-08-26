@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add the Activity Log page to wp-admin, so it is available without the Jetpack plugin installed.
+- My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
@@ -29,6 +30,8 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
+- My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
 ## 9.0.3 - 2026-06-26
