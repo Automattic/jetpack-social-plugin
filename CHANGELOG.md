@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
+- Charts: follow the WordPress admin color scheme for chart series colors.
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
