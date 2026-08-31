@@ -1,23 +1,24 @@
 <?php
 /**
- * WP_REST_Jetpack_AI_JWT file.
+ * REST_Jetpack_AI_JWT file.
  *
- * @package automattic/jetpack-agents-manager
+ * @package automattic/jetpack-connection
  */
 
-namespace Automattic\Jetpack\Agents_Manager;
+namespace Automattic\Jetpack\Connection;
 
-use Automattic\Jetpack\Connection\Client;
-use Automattic\Jetpack\Connection\Manager as Connection_Manager;
 use Jetpack_Options;
 
 /**
- * Class WP_REST_Jetpack_AI_JWT.
+ * Registers the `jetpack/v4/jetpack-ai-jwt` route, which asks WordPress.com for a JWT that
+ * Jetpack AI clients use to call the AI completion service.
+ *
+ * @since 9.1.0-alpha
  */
-class WP_REST_Jetpack_AI_JWT extends \WP_REST_Controller {
+class REST_Jetpack_AI_JWT extends \WP_REST_Controller {
 
 	/**
-	 * WP_REST_Jetpack_AI_JWT constructor.
+	 * REST_Jetpack_AI_JWT constructor.
 	 */
 	public function __construct() {
 		$this->namespace = 'jetpack/v4';
@@ -70,11 +71,13 @@ class WP_REST_Jetpack_AI_JWT extends \WP_REST_Controller {
 	 * @return bool
 	 */
 	public function permission_callback() {
-		return ( new Connection_Manager( 'jetpack' ) )->is_user_connected() && current_user_can( 'edit_posts' );
+		return ( new Manager( 'jetpack' ) )->is_user_connected() && current_user_can( 'edit_posts' );
 	}
 
 	/**
 	 * Ask WPCOM for a JWT token to use for OpenAI completion.
+	 *
+	 * @return \WP_REST_Response|\WP_Error The token and blog ID, or the error from WPCOM.
 	 */
 	public function get_jwt() {
 		$blog_id = Jetpack_Options::get_option( 'id' );
