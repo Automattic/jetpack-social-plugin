@@ -4,10 +4,6 @@ return array(
   'domain' => 'jetpack-social',
   'type' => 'plugins',
   'packages' => array(
-    'jetpack-activity-log' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-activity-log',
-      'ver' => '0.3.1-alpha1787829579',
-    ),
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
       'ver' => '0.11.1-alpha1787829579',

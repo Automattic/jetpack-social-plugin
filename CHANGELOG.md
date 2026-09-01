@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
-- Add the Activity Log page to wp-admin, so it is available without the Jetpack plugin installed.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed

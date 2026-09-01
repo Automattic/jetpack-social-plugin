@@ -28,15 +28,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'automattic/jetpack-activity-log' => array(
-            'pretty_version' => '0.3.1-alpha.1787829579',
-            'version' => '0.3.1.0-alpha1787829579',
-            'reference' => 'eb46f9821a0ee44ff208200e7cf2e7ac464f90da',
-            'type' => 'jetpack-library',
-            'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-activity-log',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'automattic/jetpack-admin-ui' => array(
             'pretty_version' => '0.11.1-alpha.1787829579',
             'version' => '0.11.1.0-alpha1787829579',
