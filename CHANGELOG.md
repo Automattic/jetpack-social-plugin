@@ -38,6 +38,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
+- Point WordPress.com Simple sites at the Business plan when upgrading, instead of a checkout they can't complete.
 
 ## 9.0.3 - 2026-06-26
 ### Fixed
