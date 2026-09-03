@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Charts: draw labels at the design system's font weight and size.
+- Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
