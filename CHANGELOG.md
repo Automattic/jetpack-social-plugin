@@ -39,6 +39,7 @@ This is an alpha version! The changes listed here are not final.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - Point WordPress.com Simple sites at the Business plan when upgrading, instead of a checkout they can't complete.
