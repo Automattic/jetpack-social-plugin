@@ -43,6 +43,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - Point WordPress.com Simple sites at the Business plan when upgrading, instead of a checkout they can't complete.
+- Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 
 ## 9.0.3 - 2026-06-26
 ### Fixed
