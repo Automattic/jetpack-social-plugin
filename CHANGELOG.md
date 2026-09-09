@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Charts: Stop the first and last dates on a chart's horizontal axis from being cut off.
+- Connection: Hide connection error notices from users who cannot fix the connection.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
