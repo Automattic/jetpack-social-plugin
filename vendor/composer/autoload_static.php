@@ -77,6 +77,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_socialⓥ10_0_0_alpha
         'Automattic\\Jetpack\\Connection\\Package_Version_Tracker' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-package-version-tracker.php',
         'Automattic\\Jetpack\\Connection\\Plugin' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-plugin.php',
         'Automattic\\Jetpack\\Connection\\Plugin_Storage' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-plugin-storage.php',
+        'Automattic\\Jetpack\\Connection\\Protected_Owner' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-protected-owner.php',
         'Automattic\\Jetpack\\Connection\\REST_Connector' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php',
         'Automattic\\Jetpack\\Connection\\REST_Jetpack_AI_JWT' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-rest-jetpack-ai-jwt.php',
         'Automattic\\Jetpack\\Connection\\Rest_Authentication' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-rest-authentication.php',
