@@ -30,11 +30,15 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '9.3.0-alpha1789387305',
+      'ver' => '9.3.0-alpha1789426321',
     ),
     'jetpack-explat' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-explat',
       'ver' => '0.6.2-alpha1789417599',
+    ),
+    'jetpack-feature-flags' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-feature-flags',
+      'ver' => '0.2.0',
     ),
     'jetpack-image-cdn' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-image-cdn',
@@ -46,11 +50,11 @@ return array(
     ),
     'jetpack-jitm' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-jitm',
-      'ver' => '5.0.3',
+      'ver' => '5.0.4-alpha1789426321',
     ),
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
-      'ver' => '4.0.0',
+      'ver' => '4.1.0-alpha1789426321',
     ),
     'jetpack-menu-badges' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-menu-badges',
@@ -58,7 +62,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '6.3.0-alpha1789417599',
+      'ver' => '6.3.0-alpha1789426321',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
