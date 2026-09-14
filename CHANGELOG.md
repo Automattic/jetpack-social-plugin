@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
 - Dashboard: Enable or disable Social directly from the dashboard, so it can be turned back on where Jetpack Settings is unreachable (e.g. WordPress.com Atomic sites).
 - General: Update minimum WordPress version to 7.0.
+- Hide the Social sidebar item when Social is not active.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Social: the block editor sidebar now uses the same connection management UI as the Social admin page.
