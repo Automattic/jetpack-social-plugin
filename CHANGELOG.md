@@ -38,6 +38,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: draw labels at the design system's font weight and size.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
+- Charts: Restore keyboard focus after dismissing line chart tooltips.
 - Charts: Stop the first and last dates on a chart's horizontal axis from being cut off.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
 - Connection: Hide connection error notices from users who cannot fix the connection.
