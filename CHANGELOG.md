@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Admin page: Fix the dashboard overlapping the admin menu in right-to-left languages.
 - Charts: draw labels at the design system's font weight and size.
+- Charts: Fix unreadable axis labels in forced-colors mode.
 - Charts: keep chart tooltips under sticky and fixed page elements.
 - Charts: Place line and area chart date ticks on the site's time zone boundaries, name the hour in tooltips on hourly data, and read hour labels in the site's own locale rather than a forced 12-hour clock.
 - Charts: Restore keyboard focus after dismissing line chart tooltips.
