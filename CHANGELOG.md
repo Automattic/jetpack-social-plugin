@@ -48,6 +48,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
+- Dashboard: Show contextual messages on the Social screen again.
 - Fix the Social admin screen and editor sidebar failing to load on WordPress.com-hosted sites.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
