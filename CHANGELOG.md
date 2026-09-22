@@ -51,6 +51,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Dashboard: Show contextual messages on the Social screen again.
 - Fix the Social admin screen and editor sidebar failing to load on WordPress.com-hosted sites.
+- Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - Keep keyboard focus on the first or last data point when an arrow key reaches the end of the traffic chart, return focus to the chart when Escape closes a tooltip, stop a focused chart from swallowing keys it does not use such as Page Down, and close the tooltip when the series it describes is hidden.
