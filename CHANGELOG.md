@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
+- My Jetpack: stretch the tab content background to the full height of the page.
 - Point WordPress.com Simple sites at the Business plan when upgrading, instead of a checkout they can't complete.
 - Pre-fill the Bluesky handle field when reconnecting an account.
 - Sharing: Open information tooltips with the keyboard and dismiss them with Escape.
