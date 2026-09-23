@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - Point WordPress.com Simple sites at the Business plan when upgrading, instead of a checkout they can't complete.
 - Pre-fill the Bluesky handle field when reconnecting an account.
+- Show each number on the traffic chart's value axis once when visit counts are small.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop the dashboard frame from flashing while loading and when switching admin pages.
 
