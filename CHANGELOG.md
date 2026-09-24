@@ -57,6 +57,7 @@ This is an alpha version! The changes listed here are not final.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - Keep keyboard focus on the first or last data point when an arrow key reaches the end of the traffic chart, return focus to the chart when Escape closes a tooltip, stop a focused chart from swallowing keys it does not use such as Page Down, and close the tooltip when the series it describes is hidden.
+- Line up the Jetpack in-dashboard message with the rest of the page.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
