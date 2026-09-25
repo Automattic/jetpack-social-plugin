@@ -72,6 +72,7 @@ This is an alpha version! The changes listed here are not final.
 - Pre-fill the Bluesky handle field when reconnecting an account.
 - Sharing: Open information tooltips with the keyboard and dismiss them with Escape.
 - Show each number on the traffic chart's value axis once when visit counts are small.
+- Social Notes: Avoid repeated database queries when Social Notes are disabled.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop the dashboard frame from flashing while loading and when switching admin pages.
 
