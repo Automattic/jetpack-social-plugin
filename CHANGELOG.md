@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Hide the Social sidebar item when Social is not active.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
+- My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
