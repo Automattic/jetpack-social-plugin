@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Surface a visible error when fetching the keyring result fails during a connection, instead of failing silently.
 - Tested up to WordPress 7.1.
 - Update package dependencies.
+- Use core snackbar notice placement.
 
 ### Removed
 - Updated PHP version requirements to PHP 7.4 or newer.
