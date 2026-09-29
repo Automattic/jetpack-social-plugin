@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-admin-ui' => array(
-            'pretty_version' => '0.14.1',
-            'version' => '0.14.1.0',
-            'reference' => 'efc8aa05602ebdff352dcd0fc13dd69860675f7d',
+            'pretty_version' => '0.14.2-alpha.1790678782',
+            'version' => '0.14.2.0-alpha1790678782',
+            'reference' => '172383f2d8e2e8bc8ad03ae04eea9986f462455f',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-admin-ui',
             'aliases' => array(),
@@ -94,7 +94,7 @@
         'automattic/jetpack-connection' => array(
             'pretty_version' => '9.8.1-alpha.1790659913',
             'version' => '9.8.1.0-alpha1790659913',
-            'reference' => '3623f96bc737bf8d3c001b7baad69f4566ea6911',
+            'reference' => '839eee3d0e6f1d16a5af1dd04b4e1a31b7bb277d',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
@@ -193,7 +193,7 @@
         'automattic/jetpack-my-jetpack' => array(
             'pretty_version' => '6.7.0',
             'version' => '6.7.0.0',
-            'reference' => '1c6ca336df8c155eb908716cafe470895c6b78e5',
+            'reference' => 'acf23063d437e31140aee12736a0bf4b8d1c2cda',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -265,7 +265,7 @@
         'automattic/jetpack-publicize' => array(
             'pretty_version' => '0.88.0-alpha.1790625494',
             'version' => '0.88.0.0-alpha1790625494',
-            'reference' => '889c34675d0ec2e433540687dbc67ec6d2e3c14b',
+            'reference' => 'a94ff2cae7e88087b2591f3a4b2b909e63371385',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-publicize',
             'aliases' => array(),
