@@ -53,6 +53,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Report a broken connection on My Jetpack's connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning, not an error, to everyone else.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
+- Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Dashboard: Show contextual messages on the Social screen again.
