@@ -193,7 +193,7 @@
         'automattic/jetpack-my-jetpack' => array(
             'pretty_version' => '6.7.2-alpha.1790789271',
             'version' => '6.7.2.0-alpha1790789271',
-            'reference' => '73ceaddd5038071d3cece347a7c04b303b295038',
+            'reference' => '1e99e7f377afca4dd56ae15b778128067f095541',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -209,9 +209,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-plans' => array(
-            'pretty_version' => '0.13.0',
-            'version' => '0.13.0.0',
-            'reference' => '0ea0c8c88266f59a2a1b695e820ec550a5caaa65',
+            'pretty_version' => '0.13.1-alpha.1790793272',
+            'version' => '0.13.1.0-alpha1790793272',
+            'reference' => '765952db3737c6bd0ecc2fe53fa63331712ab0b1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../automattic/jetpack-plans',
             'aliases' => array(),
@@ -256,7 +256,7 @@
         'automattic/jetpack-protect-status' => array(
             'pretty_version' => '0.8.0',
             'version' => '0.8.0.0',
-            'reference' => 'ab9575b1b9c176af75ae8e277900711fd3303b6c',
+            'reference' => '44350b6748f126076741c21a800c1ffb3e8e6e81',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-protect-status',
             'aliases' => array(),
@@ -265,7 +265,7 @@
         'automattic/jetpack-publicize' => array(
             'pretty_version' => '0.88.2-alpha.1790789271',
             'version' => '0.88.2.0-alpha1790789271',
-            'reference' => '964d25abd87f1b2a4ce6bfbfb8aeaba55857e16a',
+            'reference' => '87a67699e7cc941a74f22c03389f6c5198ffaf85',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-publicize',
             'aliases' => array(),
