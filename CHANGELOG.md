@@ -56,6 +56,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Update wording for some connection error notices.
+- Connections: Let a Facebook or Instagram connection with no Page or account saved pick one when reconnecting.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Dashboard: Show contextual messages on the Social screen again.
 - Fix the Social admin screen and editor sidebar failing to load on WordPress.com-hosted sites.
