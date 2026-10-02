@@ -59,6 +59,7 @@ This is an alpha version! The changes listed here are not final.
 - Connections: Let a Facebook or Instagram connection with no Page or account saved pick one when reconnecting.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Dashboard: Show contextual messages on the Social screen again.
+- Fix publishing failing with a share message database error, which also prevented social shares from being sent.
 - Fix the Social admin screen and editor sidebar failing to load on WordPress.com-hosted sites.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
