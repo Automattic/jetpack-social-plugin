@@ -85,6 +85,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Notes: Avoid repeated database queries when Social Notes are disabled.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop the dashboard frame from flashing while loading and when switching admin pages.
+- Traffic chart: Announce the chart correctly to screen readers.
 
 ## 9.0.3 - 2026-06-26
 ### Fixed
