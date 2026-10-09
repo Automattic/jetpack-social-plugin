@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
