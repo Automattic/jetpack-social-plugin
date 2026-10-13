@@ -76,6 +76,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
+- My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
