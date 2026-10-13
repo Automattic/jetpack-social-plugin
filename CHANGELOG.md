@@ -60,6 +60,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
+- Connection: Translate the Connectors card's text on sites that don't use English.
 - Connection: Update wording for some connection error notices.
 - Connections: Let a Facebook or Instagram connection with no Page or account saved pick one when reconnecting.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
