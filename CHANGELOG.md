@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Hide the Social sidebar item when Social is not active.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
+- My Jetpack: Show a connection error on the Overview connection card while your account is still to be connected, instead of only asking you to connect it.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
