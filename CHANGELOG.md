@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 - My Jetpack: Add an Available filter to the Features list.
 
 ## 10.0.0 - 2026-10-14
