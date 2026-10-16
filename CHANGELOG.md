@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
+
 ## 10.0.0 - 2026-10-14
 ### Added
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account. [#53150]
