@@ -36,6 +36,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-explat',
       'ver' => '0.6.4-alpha1792047423',
     ),
+    'jetpack-feature-flags' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-feature-flags',
+      'ver' => '0.2.0',
+    ),
     'jetpack-image-cdn' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-image-cdn',
       'ver' => '0.8.1',
@@ -58,7 +62,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '6.11.0-alpha1792101023',
+      'ver' => '6.11.0-alpha1792138955',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
