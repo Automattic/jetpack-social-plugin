@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Add an Available filter to the Features list.
 
 ### Changed
+- Tighten the spacing between wrapped legend rows in the Overview traffic chart.
 - Update package dependencies.
 
 ### Fixed
