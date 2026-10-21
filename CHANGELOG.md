@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
+- My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 
 ## 10.0.0 - 2026-10-14
 ### Added
