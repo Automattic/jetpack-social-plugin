@@ -26,10 +26,10 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
-- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
+- My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 
 ## 10.0.0 - 2026-10-14
