@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
+- My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - Tighten the spacing between wrapped legend rows in the Overview traffic chart.
 - Update package dependencies.
