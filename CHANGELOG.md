@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
+- Overview: Replace the traffic chart's date range dropdown with a menu button.
 - Tighten the spacing between wrapped legend rows in the Overview traffic chart.
 - Update package dependencies.
 
