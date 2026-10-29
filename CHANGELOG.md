@@ -142,7 +142,7 @@ This is an alpha version! The changes listed here are not final.
 ## 9.0.1 - 2026-06-23
 ### Changed
 - Reconnect accounts in place instead of disconnecting and recreating them, retaining connection settings. [#49695]
-- Updated package dependencies. [#49793] [#49448] [#49492]
+- Updated package dependencies. [#49448] [#49492] [#49793]
 
 ### Fixed
 - Fix PHP warnings on the front end of posts shared with the no link sharing option. [#49372]
@@ -317,8 +317,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Allow pre-selected login providers [#42662]
 - General: indicate compatibility with the upcoming version of WordPress - 6.8. [#42701]
 - Improved the logic for share status [#42978]
-- Update package dependencies. [#42815]
-- Update package dependencies. [#43071]
+- Update package dependencies. [#42815] [#43071]
 
 ### Fixed
 - Do not load in the editor if sharing is disabled [#43006]
@@ -356,12 +355,8 @@ This is an alpha version! The changes listed here are not final.
 - Social | Migrate review prompt initial state to script data [#42389]
 - Social | Move settings endpoint to publicize package [#41456]
 - Updated composer.lock [#40863]
-- Updated package dependencies. [#41286]
-- Updated package dependencies. [#41491]
-- Updated package dependencies. [#41577]
-- Updated package dependencies. [#41659]
-- Update package dependencies. [#42163]
-- Update package dependencies. [#42180]
+- Updated package dependencies. [#41286] [#41491] [#41577] [#41659]
+- Update package dependencies. [#42163] [#42180]
 - Update the settings endppoint to use existing endpoints [#41461]
 - Update the unowned section from a product grid to a product list [#41312]
 
@@ -487,7 +482,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Updated intial state logic to use the new consolidated initial state [#38606]
 - Social: Updated the share status modal to render it globally [#39116]
 - Update composer lock file [#38942]
-- Updated package dependencies. [#38662] [#38665] [#38822] [#38822] [#39111]
+- Updated package dependencies. [#38662] [#38665] [#38822] [#39111]
 
 ### Removed
 - Remove the unused Advanced plan nudge [#38926]
@@ -644,7 +639,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code Modernization: Replace usage of strpos() with str_contains() [#34137]
 - General: updated PHP requirement to PHP 7.0+ [#34126]
-- General: update WordPress version requirements to WordPress 6.3 and compatible with 6.4. [#34127] [#33776]
+- General: update WordPress version requirements to WordPress 6.3 and compatible with 6.4. [#33776] [#34127]
 - Updated package dependencies.
 - Updated screenshot to show the new connection toggles. [#33381]
 - Updated Social admin pricing page [#33176]
