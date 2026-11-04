@@ -47,6 +47,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
+- My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
 - Sharing activity: Focus Cancel first in the Delete confirmation for a scheduled share, so pressing Enter no longer deletes it.
 
 ## 10.0.0 - 2026-10-14
