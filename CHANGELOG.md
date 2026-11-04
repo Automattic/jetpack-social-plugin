@@ -40,6 +40,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Show connection owner names containing characters like & correctly.
+- Footer: Show the Features link to administrators only.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
