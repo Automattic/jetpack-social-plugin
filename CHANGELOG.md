@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - Footer: Show the Features link to administrators only.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
+- My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
