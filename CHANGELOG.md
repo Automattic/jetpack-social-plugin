@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix the connect button staying busy after the connection to WordPress.com fails to start.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Show connection owner names containing characters like & correctly.
+- Fix the missing icon on the remove button of the default image picker.
 - Footer: Show the Features link to administrators only.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
