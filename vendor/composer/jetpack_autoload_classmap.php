@@ -327,7 +327,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-constants/src/class-constants.php'
 	),
 	'Automattic\\Jetpack\\CookieState' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cookiestate.php'
 	),
 	'Automattic\\Jetpack\\Current_Plan' => array(
@@ -343,7 +343,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
 	),
 	'Automattic\\Jetpack\\Errors' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php'
 	),
 	'Automattic\\Jetpack\\ExPlat' => array(
@@ -359,11 +359,11 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-feature-flags/src/class-feature-flags.php'
 	),
 	'Automattic\\Jetpack\\Feature_Policy' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-feature-policy.php'
 	),
 	'Automattic\\Jetpack\\Files' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php'
 	),
 	'Automattic\\Jetpack\\Heartbeat' => array(
@@ -371,7 +371,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php'
 	),
 	'Automattic\\Jetpack\\IP\\Utils' => array(
-		'version' => '0.7.1.0',
+		'version' => '0.8.0.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php'
 	),
 	'Automattic\\Jetpack\\IdentityCrisis\\Exception' => array(
@@ -451,7 +451,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-menu-badges/src/class-notification-counts.php'
 	),
 	'Automattic\\Jetpack\\Modules' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-modules.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Feature_Visibility' => array(
@@ -635,7 +635,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php'
 	),
 	'Automattic\\Jetpack\\Paths' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php'
 	),
 	'Automattic\\Jetpack\\Plans' => array(
@@ -871,23 +871,23 @@ return array(
 		'path'    => $baseDir . '/src/class-rest-settings-controller.php'
 	),
 	'Automattic\\Jetpack\\Status' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php'
 	),
 	'Automattic\\Jetpack\\Status\\Cache' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cache.php'
 	),
 	'Automattic\\Jetpack\\Status\\Host' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php'
 	),
 	'Automattic\\Jetpack\\Status\\Request' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-request.php'
 	),
 	'Automattic\\Jetpack\\Status\\Visitor' => array(
-		'version' => '7.1.2.0-alpha1794311054',
+		'version' => '7.1.2.0-alpha1794406146',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Actions' => array(
