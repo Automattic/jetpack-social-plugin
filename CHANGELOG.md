@@ -44,6 +44,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix the connect button staying busy after the connection to WordPress.com fails to start.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
+- Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Show connection owner names containing characters like & correctly.
 - Fix the missing icon on the remove button of the default image picker.
 - Footer: Show the Features link to administrators only.
