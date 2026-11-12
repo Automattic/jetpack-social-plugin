@@ -38,6 +38,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the page you were on after you connect your account or restore the connection from the header, and show the WordPress.com connection screen made for your site's plugins.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
+- My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from a product card.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Replace the traffic chart's date range dropdown with a menu button.
 - Social Image Generator: Allow WebP background images.
