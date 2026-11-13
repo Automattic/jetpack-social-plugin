@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
 - My Jetpack: Leave the recommendation to install or activate plugins included in a bundle plan out of the Jetpack menu notification badge.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
+- My Jetpack: On sites with Jetpack Pro, replace "Purchase a plan" with "Upgrade to Complete", which goes straight to checkout.
 - My Jetpack: On the Features tab, keep a plugin's switch busy until its card is up to date after a failed change, or after any change on sites that also run Jetpack.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Open the Jetpack Connection details on the Connectors screen from the header's Manage connection link.
