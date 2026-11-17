@@ -70,6 +70,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
+- Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 - Sharing activity: Focus Cancel first in the Delete confirmation for a scheduled share, so pressing Enter no longer deletes it.
 - Stop the upgrade screen from briefly offering Jetpack Complete before Jetpack Pro.
 
