@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Overview: Replace the traffic chart's date range dropdown with a menu button.
+- Safe Mode: Show the Jetpack Safe Mode admin bar item while the choice is still pending, style it on the front end of the site too, and have it open My Jetpack from Jetpack pages that can't show the Safe Mode screen.
 - Social Image Generator: Allow WebP background images.
 - Tighten the spacing between wrapped legend rows in the Overview traffic chart.
 - Update package dependencies.
