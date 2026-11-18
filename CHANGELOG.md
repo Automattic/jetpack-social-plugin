@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show a clear message when connecting the site to WordPress.com from the Connectors card fails, instead of WordPress.com's raw error text.
 - Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
+- Dashboard: Load the media library only when choosing a default image, so the dashboard loads less on each visit.
 - My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
 - My Jetpack: Leave the recommendation to install or activate plugins included in a bundle plan out of the Jetpack menu notification badge.

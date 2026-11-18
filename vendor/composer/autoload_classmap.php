@@ -11,6 +11,7 @@ return array(
     'Automattic\\Jetpack\\A8c_Mc_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
     'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
     'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
+    'Automattic\\Jetpack\\Admin_UI\\Media_Library' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php',
     'Automattic\\Jetpack\\Assets' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php',
     'Automattic\\Jetpack\\Assets\\Logo' => $baseDir . '/jetpack_vendor/automattic/jetpack-logo/src/class-logo.php',
     'Automattic\\Jetpack\\Assets\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
