@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
+- Abilities: Make the Jetpack Social abilities available to AI agents by default when sharing is on. Return false from the jetpack_wp_abilities_enabled filter to turn them off.
 - Add a readme FAQ about the free plan and sharing limits.
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
