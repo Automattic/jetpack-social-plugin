@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix the missing icon on the remove button of the default image picker.
 - Footer: Show the Features link to administrators only.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
+- My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
