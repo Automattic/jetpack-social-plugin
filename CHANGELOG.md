@@ -60,6 +60,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Show connection owner names containing characters like & correctly.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
+- Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Fix the missing icon on the remove button of the default image picker.
 - Footer: Show the Features link to administrators only.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
