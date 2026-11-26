@@ -31,19 +31,19 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
-		'version' => '0.16.0.0-alpha1795717213',
+		'version' => '0.16.0.0-alpha1795718651',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => array(
-		'version' => '0.16.0.0-alpha1795717213',
+		'version' => '0.16.0.0-alpha1795718651',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Media_Library' => array(
-		'version' => '0.16.0.0-alpha1795717213',
+		'version' => '0.16.0.0-alpha1795718651',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Page_Handles' => array(
-		'version' => '0.16.0.0-alpha1795717213',
+		'version' => '0.16.0.0-alpha1795718651',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-page-handles.php'
 	),
 	'Automattic\\Jetpack\\Assets' => array(
