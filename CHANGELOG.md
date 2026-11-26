@@ -61,6 +61,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Keep a Safe Mode screen left open, for example in another tab, from disconnecting a site that is no longer in Safe Mode.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
+- Connection: Show clearer messages when the connect request to your site fails, for example because its REST API is disabled or a PHP error broke the response.
 - Connection: Show connection owner names containing characters like & correctly.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
