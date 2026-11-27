@@ -67,6 +67,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Fix the missing icon on the remove button of the default image picker.
 - Footer: Show the Features link to administrators only.
+- Format numbers in the site's full locale, so Traditional Chinese sites read 萬 instead of 万.
 - My Jetpack: Announce the same connection status on the header's account button as in its panel, and read that status first when the panel opens from the keyboard.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
